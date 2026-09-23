@@ -1,0 +1,40 @@
+{
+ "i2_terms_total": 2573,
+ "i2_terms_text": 2573,
+ "i2_languages": [
+  "en",
+  "zh-CN",
+  "zh-TW",
+  "fr",
+  "es",
+  "de",
+  "ja",
+  "ko",
+  "it",
+  "pt-BR"
+ ],
+ "i2_english_filled": 2572,
+ "asset_string_fields_total": 68887,
+ "asset_string_fields_after_noise_filter": 39233,
+ "static_ui_texts": 198,
+ "game_data_classes": {
+  "CC.scrObj_Apparel": 126,
+  "CC.scrObj_Hair": 32,
+  "CC.scrObj_Presets": 367,
+  "MonsterData_ScriptableObject": 433,
+  "PlayCardEffect_ScriptableObject": 156,
+  "ShelfData_ScriptableObject": 517,
+  "StockItemData_ScriptableObject": 227,
+  "Text_ScriptableObject": 374
+ },
+ "code_literals": {
+  "Assembly-CSharp.dll": {
+   "all": 1481,
+   "likely_ui": 554
+  },
+  "Assembly-CSharp-firstpass.dll": {
+   "all": 19,
+   "likely_ui": 9
+  }
+ }
+}

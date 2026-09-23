@@ -1,0 +1,3766 @@
+{
+ "Assembly-CSharp.dll": {
+  "likely_ui_text": [
+   {
+    "text": "In Album",
+    "ru": ""
+   },
+   {
+    "text": "Any Rarity",
+    "ru": ""
+   },
+   {
+    "text": "Bulk Donation Box",
+    "ru": ""
+   },
+   {
+    "text": "Card Storage Shelf",
+    "ru": ""
+   },
+   {
+    "text": "/Screenshots/",
+    "ru": ""
+   },
+   {
+    "text": "*.png",
+    "ru": ""
+   },
+   {
+    "text": "*.jpg",
+    "ru": ""
+   },
+   {
+    "text": "Ugh, the stench...",
+    "ru": ""
+   },
+   {
+    "text": "It's too smelly!",
+    "ru": ""
+   },
+   {
+    "text": "Omg this place stinks!",
+    "ru": ""
+   },
+   {
+    "text": "Where's the Tournament Prize Shelf?",
+    "ru": ""
+   },
+   {
+    "text": "I can't find the Tournament Prize Shelf.",
+    "ru": ""
+   },
+   {
+    "text": " unable to find shelf",
+    "ru": ""
+   },
+   {
+    "text": "Buy buy buy!!",
+    "ru": ""
+   },
+   {
+    "text": "Wow this is the cheapest I've seen!",
+    "ru": ""
+   },
+   {
+    "text": "What a steal!",
+    "ru": ""
+   },
+   {
+    "text": "Cheap XXX. What a bargain!",
+    "ru": ""
+   },
+   {
+    "text": "This is tempting!",
+    "ru": ""
+   },
+   {
+    "text": "Wow so cheap!",
+    "ru": ""
+   },
+   {
+    "text": "XXX bucks for this is fair.",
+    "ru": ""
+   },
+   {
+    "text": "Good price!",
+    "ru": ""
+   },
+   {
+    "text": "Wow, gotta take one of these.",
+    "ru": ""
+   },
+   {
+    "text": "Fair price for a XXX.",
+    "ru": ""
+   },
+   {
+    "text": "Not a bad price really.",
+    "ru": ""
+   },
+   {
+    "text": "Fair price I'd say.",
+    "ru": ""
+   },
+   {
+    "text": "This is fine.",
+    "ru": ""
+   },
+   {
+    "text": "XXX is a little expensive, hmm...",
+    "ru": ""
+   },
+   {
+    "text": "Can't decide if I really want this.",
+    "ru": ""
+   },
+   {
+    "text": "It's pricey, I need to think a little.",
+    "ru": ""
+   },
+   {
+    "text": "This cost XXX bucks!?",
+    "ru": ""
+   },
+   {
+    "text": "Man, XXX sure is expensive!",
+    "ru": ""
+   },
+   {
+    "text": "God, so expensive.",
+    "ru": ""
+   },
+   {
+    "text": "Ridiculous. XXX bucks for this!?",
+    "ru": ""
+   },
+   {
+    "text": "Crazy. Who's gonna buy XXX at this price!?",
+    "ru": ""
+   },
+   {
+    "text": "This is a scam!",
+    "ru": ""
+   },
+   {
+    "text": "I want this, but I am broke.",
+    "ru": ""
+   },
+   {
+    "text": "This is a steal, but I don't have enough money.",
+    "ru": ""
+   },
+   {
+    "text": "I would so buy this if I have enough money",
+    "ru": ""
+   },
+   {
+    "text": "This is the cheapest I've seen, but I am broke.",
+    "ru": ""
+   },
+   {
+    "text": "Cheap card. What a bargain!",
+    "ru": ""
+   },
+   {
+    "text": "So tempting, but I am broke.",
+    "ru": ""
+   },
+   {
+    "text": "Tempting, but I don't have enough money.",
+    "ru": ""
+   },
+   {
+    "text": "Wow, if only I have enough money.",
+    "ru": ""
+   },
+   {
+    "text": "Good price, but I am broke.",
+    "ru": ""
+   },
+   {
+    "text": "Seems fair, but I don't have enough money.",
+    "ru": ""
+   },
+   {
+    "text": "Not a bad price, but I am broke.",
+    "ru": ""
+   },
+   {
+    "text": "Fair price, but I don't have enough money.",
+    "ru": ""
+   },
+   {
+    "text": "Maybe if I have enough money.",
+    "ru": ""
+   },
+   {
+    "text": "It's a little expensive, hmm...",
+    "ru": ""
+   },
+   {
+    "text": "Man, this is expensive!",
+    "ru": ""
+   },
+   {
+    "text": "Ridiculous. XXX bucks!?",
+    "ru": ""
+   },
+   {
+    "text": "Crazy. Who's gonna buy at this price!?",
+    "ru": ""
+   },
+   {
+    "text": "This card is way overpriced!",
+    "ru": ""
+   },
+   {
+    "text": "Hmm, where is table XXX?",
+    "ru": ""
+   },
+   {
+    "text": "Where is table XXX!?",
+    "ru": ""
+   },
+   {
+    "text": "I can't find table number XXX.",
+    "ru": ""
+   },
+   {
+    "text": "Anyone know where is table XXX?",
+    "ru": ""
+   },
+   {
+    "text": "Tournament started but where is table XXX? Help!!",
+    "ru": ""
+   },
+   {
+    "text": "There's no table for me to play.",
+    "ru": ""
+   },
+   {
+    "text": "The door is blocked!!",
+    "ru": ""
+   },
+   {
+    "text": "I can't fit in the exit!",
+    "ru": ""
+   },
+   {
+    "text": "How do I get out!?",
+    "ru": ""
+   },
+   {
+    "text": "Wait, how do I get out!?",
+    "ru": ""
+   },
+   {
+    "text": "Let me out!",
+    "ru": ""
+   },
+   {
+    "text": "I can't fit in the entrance!",
+    "ru": ""
+   },
+   {
+    "text": "How do I get in!?",
+    "ru": ""
+   },
+   {
+    "text": "Wait, how do I get in!?",
+    "ru": ""
+   },
+   {
+    "text": "Let me in!",
+    "ru": ""
+   },
+   {
+    "text": "I can't find XXX.",
+    "ru": ""
+   },
+   {
+    "text": "Where is XXX?",
+    "ru": ""
+   },
+   {
+    "text": "No XXX here.",
+    "ru": ""
+   },
+   {
+    "text": "I need XXX.",
+    "ru": ""
+   },
+   {
+    "text": "Why can't I get XXX in this shop!?",
+    "ru": ""
+   },
+   {
+    "text": "I am looking for XXX.",
+    "ru": ""
+   },
+   {
+    "text": "Too expensive to play...",
+    "ru": ""
+   },
+   {
+    "text": "Fee is too high here!",
+    "ru": ""
+   },
+   {
+    "text": "I will play somewhere else!",
+    "ru": ""
+   },
+   {
+    "text": "ExitShop havent pay",
+    "ru": ""
+   },
+   {
+    "text": "There's no prize for winning?",
+    "ru": ""
+   },
+   {
+    "text": "Sad, you get nothing for winning.",
+    "ru": ""
+   },
+   {
+    "text": "What am I playing for? There's no reward.",
+    "ru": ""
+   },
+   {
+    "text": "Not even a card pack as reward?",
+    "ru": ""
+   },
+   {
+    "text": "You get NOTHING!!",
+    "ru": ""
+   },
+   {
+    "text": "Where's my prize?",
+    "ru": ""
+   },
+   {
+    "text": "I can't find my prize anywhere.",
+    "ru": ""
+   },
+   {
+    "text": "There's no prize on the shelf?",
+    "ru": ""
+   },
+   {
+    "text": "I won't leave until I get my prizes!",
+    "ru": ""
+   },
+   {
+    "text": "CustomerReview/",
+    "ru": ""
+   },
+   {
+    "text": "Ran out of spray content, need refill",
+    "ru": ""
+   },
+   {
+    "text": "Ignore Raycast",
+    "ru": ""
+   },
+   {
+    "text": "Invalid stand loc index ",
+    "ru": ""
+   },
+   {
+    "text": "Box no slot",
+    "ru": ""
+   },
+   {
+    "text": "Item type not match",
+    "ru": ""
+   },
+   {
+    "text": "No item on workbench",
+    "ru": ""
+   },
+   {
+    "text": "XXX Days",
+    "ru": ""
+   },
+   {
+    "text": "XXX Day",
+    "ru": ""
+   },
+   {
+    "text": "No effect on card pack price.",
+    "ru": ""
+   },
+   {
+    "text": "Shop Lot A",
+    "ru": ""
+   },
+   {
+    "text": "Shop Lot B",
+    "ru": ""
+   },
+   {
+    "text": "Shop Leveled Up",
+    "ru": ""
+   },
+   {
+    "text": "New License Available",
+    "ru": ""
+   },
+   {
+    "text": "New Furniture Available",
+    "ru": ""
+   },
+   {
+    "text": "New Room Available",
+    "ru": ""
+   },
+   {
+    "text": "New Worker Available",
+    "ru": ""
+   },
+   {
+    "text": "Day End",
+    "ru": ""
+   },
+   {
+    "text": "Illus. ",
+    "ru": ""
+   },
+   {
+    "text": "No effect",
+    "ru": ""
+   },
+   {
+    "text": "All Rounder",
+    "ru": ""
+   },
+   {
+    "text": "Magical Attacker",
+    "ru": ""
+   },
+   {
+    "text": "Physical Attacker",
+    "ru": ""
+   },
+   {
+    "text": "<color=#FFE800>+",
+    "ru": ""
+   },
+   {
+    "text": "invalid element area selection",
+    "ru": ""
+   },
+   {
+    "text": "DisplayCardInfo null ",
+    "ru": ""
+   },
+   {
+    "text": "Select XXX Basic card to discard.",
+    "ru": ""
+   },
+   {
+    "text": "Select XXX Evolution card to discard.",
+    "ru": ""
+   },
+   {
+    "text": "Select Evolution card",
+    "ru": ""
+   },
+   {
+    "text": "Select XXX card to discard.",
+    "ru": ""
+   },
+   {
+    "text": "Select up to XXX card to discard.",
+    "ru": ""
+   },
+   {
+    "text": "Select XXX Basic cards to discard.",
+    "ru": ""
+   },
+   {
+    "text": "Select XXX Evolution cards to discard.",
+    "ru": ""
+   },
+   {
+    "text": "Select XXX cards to discard.",
+    "ru": ""
+   },
+   {
+    "text": "Select up to XXX cards to discard.",
+    "ru": ""
+   },
+   {
+    "text": "No valid selection",
+    "ru": ""
+   },
+   {
+    "text": "Select your target",
+    "ru": ""
+   },
+   {
+    "text": "OnPlayEffectTriggered ",
+    "ru": ""
+   },
+   {
+    "text": "OnPlayEffectTriggerEnded ",
+    "ru": ""
+   },
+   {
+    "text": "Select XXX card",
+    "ru": ""
+   },
+   {
+    "text": "Select XXX cards",
+    "ru": ""
+   },
+   {
+    "text": "Select up to XXX card",
+    "ru": ""
+   },
+   {
+    "text": "Select up to XXX cards",
+    "ru": ""
+   },
+   {
+    "text": "Discard Pile",
+    "ru": ""
+   },
+   {
+    "text": "Dont SaveInteractableObjectData, havent finish load data",
+    "ru": ""
+   },
+   {
+    "text": "Shop Level XXX Required",
+    "ru": ""
+   },
+   {
+    "text": "XXX Players",
+    "ru": ""
+   },
+   {
+    "text": "Round XXX",
+    "ru": ""
+   },
+   {
+    "text": "Match Win",
+    "ru": ""
+   },
+   {
+    "text": "Game Points",
+    "ru": ""
+   },
+   {
+    "text": "My Card Shop",
+    "ru": ""
+   },
+   {
+    "text": "Are you sure about selling XXX for YYY?",
+    "ru": ""
+   },
+   {
+    "text": "Day XXX",
+    "ru": ""
+   },
+   {
+    "text": "CustomerTrade/",
+    "ru": ""
+   },
+   {
+    "text": "Ask Price",
+    "ru": ""
+   },
+   {
+    "text": "Market Price",
+    "ru": ""
+   },
+   {
+    "text": "Shop Expansion",
+    "ru": ""
+   },
+   {
+    "text": " xp",
+    "ru": ""
+   },
+   {
+    "text": "Shop Level XXX",
+    "ru": ""
+   },
+   {
+    "text": " XP",
+    "ru": ""
+   },
+   {
+    "text": "Press to start next day",
+    "ru": ""
+   },
+   {
+    "text": "XXX Set YYY",
+    "ru": ""
+   },
+   {
+    "text": "Delivery in XXX days",
+    "ru": ""
+   },
+   {
+    "text": "Delivery in XXX day",
+    "ru": ""
+   },
+   {
+    "text": "TCG ",
+    "ru": ""
+   },
+   {
+    "text": "Late By XXX Day",
+    "ru": ""
+   },
+   {
+    "text": "Late By XXX Days",
+    "ru": ""
+   },
+   {
+    "text": "Market Fee",
+    "ru": ""
+   },
+   {
+    "text": "Event type cannot be none",
+    "ru": ""
+   },
+   {
+    "text": "Card type cannot be none",
+    "ru": ""
+   },
+   {
+    "text": "Item type cannot be none",
+    "ru": ""
+   },
+   {
+    "text": "compactCardDataAmountList 0 list",
+    "ru": ""
+   },
+   {
+    "text": "What's up boss?",
+    "ru": ""
+   },
+   {
+    "text": "</color>/",
+    "ru": ""
+   },
+   {
+    "text": "Very Fast",
+    "ru": ""
+   },
+   {
+    "text": "Very Slow",
+    "ru": ""
+   },
+   {
+    "text": "https://store.steampowered.com/app/3070070?utm_source=prologue&utm_campaign=prologue1&utm_medium=game",
+    "ru": ""
+   },
+   {
+    "text": "https://steamcommunity.com/app/3070070/discussions/",
+    "ru": ""
+   },
+   {
+    "text": "https://discord.gg/2YaaUZzrRY",
+    "ru": ""
+   },
+   {
+    "text": "https://www.makeship.com/shop/creator/opneon-games",
+    "ru": ""
+   },
+   {
+    "text": "zh-TW",
+    "ru": ""
+   },
+   {
+    "text": "zh-CN",
+    "ru": ""
+   },
+   {
+    "text": "pt-BR",
+    "ru": ""
+   },
+   {
+    "text": "Has save file, prompt if want to overwrite",
+    "ru": ""
+   },
+   {
+    "text": "A path was calculated. Did it fail with an error? ",
+    "ru": ""
+   },
+   {
+    "text": "[Singleton] Cancel creating '",
+    "ru": ""
+   },
+   {
+    "text": "' , application is closing.",
+    "ru": ""
+   },
+   {
+    "text": "[Singleton] More than 1 ",
+    "ru": ""
+   },
+   {
+    "text": " in the game",
+    "ru": ""
+   },
+   {
+    "text": "(singleton)",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest Local save index : ",
+    "ru": ""
+   },
+   {
+    "text": " Cloud save index : ",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest Local save cycle : ",
+    "ru": ""
+   },
+   {
+    "text": " Cloud save cycle : ",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest localPlayfabID : ",
+    "ru": ""
+   },
+   {
+    "text": " CSaveLoad.m_SavedGameBackup.m_LastLoginPlayfabID : ",
+    "ru": ""
+   },
+   {
+    "text": " isDifferentID : ",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest has different id",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest Cloud file has higher version number",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest Cloud and local file have same version number",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest Local file has higher version number",
+    "ru": ""
+   },
+   {
+    "text": "Version : ",
+    "ru": ""
+   },
+   {
+    "text": "Error: Loading game data error",
+    "ru": ""
+   },
+   {
+    "text": "Null Ref Data Present SetLoadData",
+    "ru": ""
+   },
+   {
+    "text": "Null Data Present SetLoadData",
+    "ru": ""
+   },
+   {
+    "text": "SaveGameData saveSlotIndex ",
+    "ru": ""
+   },
+   {
+    "text": "SetLoadData finish",
+    "ru": ""
+   },
+   {
+    "text": "CSaveLoad.Save() finish",
+    "ru": ""
+   },
+   {
+    "text": "monstertype should be negative for special event",
+    "ru": ""
+   },
+   {
+    "text": "AS394nGOA@laen083KAWmp439-24905we#*%&^jawr84jiR#(JIOI#TRQ*(#)TR*(Q#INTRHereaaerea",
+    "ru": ""
+   },
+   {
+    "text": " sen",
+    "ru": ""
+   },
+   {
+    "text": "Very Poor",
+    "ru": ""
+   },
+   {
+    "text": "Very Good",
+    "ru": ""
+   },
+   {
+    "text": "Near Mint",
+    "ru": ""
+   },
+   {
+    "text": "Gem Mint",
+    "ru": ""
+   },
+   {
+    "text": "yyyy-MM-dd HH-mm-ss",
+    "ru": ""
+   },
+   {
+    "text": ".png",
+    "ru": ""
+   },
+   {
+    "text": "LoadData m_CurrentSaveLoadSlotSelectedIndex ",
+    "ru": ""
+   },
+   {
+    "text": "Skip save at title screen",
+    "ru": ""
+   },
+   {
+    "text": "Cant save due to loading error",
+    "ru": ""
+   },
+   {
+    "text": "Cant save, no shelf data",
+    "ru": ""
+   },
+   {
+    "text": "Load backup save data slotIndex ",
+    "ru": ""
+   },
+   {
+    "text": "No save found, start new data",
+    "ru": ""
+   },
+   {
+    "text": "SFX/",
+    "ru": ""
+   },
+   {
+    "text": "{0:0.0} ms ({1:0.} fps)",
+    "ru": ""
+   },
+   {
+    "text": "https://www.opneon.com/streamTexture/",
+    "ru": ""
+   },
+   {
+    "text": "<alpha=#00>|</color>",
+    "ru": ""
+   },
+   {
+    "text": "LJoystick X",
+    "ru": ""
+   },
+   {
+    "text": "LJoystick Y",
+    "ru": ""
+   },
+   {
+    "text": "User typed in ",
+    "ru": ""
+   },
+   {
+    "text": "New safe area applied to {0}: x={1}, y={2}, w={3}, h={4} on full extents w={5}, h={6}",
+    "ru": ""
+   },
+   {
+    "text": "android.provider.MediaStore$Images$Media",
+    "ru": ""
+   },
+   {
+    "text": "com.unity3d.player.UnityPlayer",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_Release0.json",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_Release1.json",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_Release1.gd",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_Release2.json",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_Release2.gd",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_Release3.json",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_Release3.gd",
+    "ru": ""
+   },
+   {
+    "text": "Save saveSlotIndex ",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_Release",
+    "ru": ""
+   },
+   {
+    "text": ".json",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_ReleaseBackupFile",
+    "ru": ""
+   },
+   {
+    "text": ".gd",
+    "ru": ""
+   },
+   {
+    "text": "Error saving gd",
+    "ru": ""
+   },
+   {
+    "text": "Error saving JSON",
+    "ru": ""
+   },
+   {
+    "text": "Save process done",
+    "ru": ""
+   },
+   {
+    "text": "ValidateSavedSlotData Save file invalid, try resave m_ValidateSaveCount ",
+    "ru": ""
+   },
+   {
+    "text": "Error - Cannot save",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_KeybindSetting.gd",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_ReleaseBackupFile0.gd",
+    "ru": ""
+   },
+   {
+    "text": "/savedGames_Debug02.gd",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest LoadingCloudFile",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest LoadCloudFile sucess",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest LoadCloudFile failed to deserialize",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest LoadCloudFile failed, file length 0",
+    "ru": ""
+   },
+   {
+    "text": "DSCloudSaveLoadTest LoadCloudFile failed",
+    "ru": ""
+   },
+   {
+    "text": "Beginner Arena",
+    "ru": ""
+   },
+   {
+    "text": "Mouse X",
+    "ru": ""
+   },
+   {
+    "text": "Mouse Y",
+    "ru": ""
+   },
+   {
+    "text": "ParticleEffectsLibrary-ParticleEffectSpawnOffset: Not all arrays match length, double check counts.",
+    "ru": ""
+   },
+   {
+    "text": "ParticleEffectsLibrary-ParticleEffectPrefabs: Not all arrays match length, double check counts.",
+    "ru": ""
+   },
+   {
+    "text": " of ",
+    "ru": ""
+   },
+   {
+    "text": "Select Previous Particle Effect",
+    "ru": ""
+   },
+   {
+    "text": "Select Next Particle Effect",
+    "ru": ""
+   },
+   {
+    "text": "UI-arrow-right",
+    "ru": ""
+   },
+   {
+    "text": "UI-arrow-left",
+    "ru": ""
+   },
+   {
+    "text": "Previous effect",
+    "ru": ""
+   },
+   {
+    "text": "Play again",
+    "ru": ""
+   },
+   {
+    "text": "Next effect",
+    "ru": ""
+   },
+   {
+    "text": "Mouse ScrollWheel",
+    "ru": ""
+   },
+   {
+    "text": "No camera has been assigned to this controller!",
+    "ru": ""
+   },
+   {
+    "text": "No target has been assigned.",
+    "ru": ""
+   },
+   {
+    "text": "Material & Shader/Skybox Blend Material",
+    "ru": ""
+   },
+   {
+    "text": "Can't find Skybox Blend Material in resources. Please re-import!",
+    "ru": ""
+   },
+   {
+    "text": "You need to set a material first to make it the skybox",
+    "ru": ""
+   },
+   {
+    "text": "The passed index is bigger than the length of the skybox materials list.",
+    "ru": ""
+   },
+   {
+    "text": "There is no material in the list with the passed index.",
+    "ru": ""
+   },
+   {
+    "text": "Close E",
+    "ru": ""
+   },
+   {
+    "text": "Open E",
+    "ru": ""
+   },
+   {
+    "text": "Close E ",
+    "ru": ""
+   },
+   {
+    "text": "Custom/Vintage",
+    "ru": ""
+   },
+   {
+    "text": "Color/Red",
+    "ru": ""
+   },
+   {
+    "text": "{PLAYER_COLOR}",
+    "ru": ""
+   },
+   {
+    "text": "NUM PLAYERS",
+    "ru": ""
+   },
+   {
+    "text": "Translate:",
+    "ru": ""
+   },
+   {
+    "text": "English -> Español",
+    "ru": ""
+   },
+   {
+    "text": "Español -> English",
+    "ru": ""
+   },
+   {
+    "text": "Multiple Translation with 1 call:\n'This is an example' -> en,zh\n'Hola' -> en",
+    "ru": ""
+   },
+   {
+    "text": "Multi Translate",
+    "ru": ""
+   },
+   {
+    "text": "Contacting Google....",
+    "ru": ""
+   },
+   {
+    "text": "This is an example",
+    "ru": ""
+   },
+   {
+    "text": "This is an example showing how to use the google translator to translate chat messages within the game.\nIt also supports multiline translations.",
+    "ru": ""
+   },
+   {
+    "text": "[I2split]{0}{1}",
+    "ru": ""
+   },
+   {
+    "text": "[$I2#@div$]",
+    "ru": ""
+   },
+   {
+    "text": "Error saving PlayerPrefs ",
+    "ru": ""
+   },
+   {
+    "text": "[I2split]",
+    "ru": ""
+   },
+   {
+    "text": "Error loading PlayerPrefs ",
+    "ru": ""
+   },
+   {
+    "text": "Error deleting PlayerPrefs ",
+    "ru": ""
+   },
+   {
+    "text": "Error saving file '",
+    "ru": ""
+   },
+   {
+    "text": "Error loading file '",
+    "ru": ""
+   },
+   {
+    "text": "Error deleting file '",
+    "ru": ""
+   },
+   {
+    "text": "Error requesting file '",
+    "ru": ""
+   },
+   {
+    "text": "Language '",
+    "ru": ""
+   },
+   {
+    "text": "' not recognized. Please, add the language code to GoogleTranslation.cs",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Algeria",
+    "ru": ""
+   },
+   {
+    "text": "ar-DZ",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Bahrain",
+    "ru": ""
+   },
+   {
+    "text": "ar-BH",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Egypt",
+    "ru": ""
+   },
+   {
+    "text": "ar-EG",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Iraq",
+    "ru": ""
+   },
+   {
+    "text": "ar-IQ",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Jordan",
+    "ru": ""
+   },
+   {
+    "text": "ar-JO",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Kuwait",
+    "ru": ""
+   },
+   {
+    "text": "ar-KW",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Lebanon",
+    "ru": ""
+   },
+   {
+    "text": "ar-LB",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Libya",
+    "ru": ""
+   },
+   {
+    "text": "ar-LY",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Morocco",
+    "ru": ""
+   },
+   {
+    "text": "ar-MA",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Oman",
+    "ru": ""
+   },
+   {
+    "text": "ar-OM",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Qatar",
+    "ru": ""
+   },
+   {
+    "text": "ar-QA",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Saudi Arabia",
+    "ru": ""
+   },
+   {
+    "text": "ar-SA",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Syria",
+    "ru": ""
+   },
+   {
+    "text": "ar-SY",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Tunisia",
+    "ru": ""
+   },
+   {
+    "text": "ar-TN",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/U.A.E.",
+    "ru": ""
+   },
+   {
+    "text": "ar-AE",
+    "ru": ""
+   },
+   {
+    "text": "Arabic/Yemen",
+    "ru": ""
+   },
+   {
+    "text": "ar-YE",
+    "ru": ""
+   },
+   {
+    "text": "Basque/Spain",
+    "ru": ""
+   },
+   {
+    "text": "eu-ES",
+    "ru": ""
+   },
+   {
+    "text": "Chinese/Hong Kong",
+    "ru": ""
+   },
+   {
+    "text": "zh-HK",
+    "ru": ""
+   },
+   {
+    "text": "Chinese/Macau",
+    "ru": ""
+   },
+   {
+    "text": "zh-MO",
+    "ru": ""
+   },
+   {
+    "text": "Chinese/PRC",
+    "ru": ""
+   },
+   {
+    "text": "Chinese/Simplified",
+    "ru": ""
+   },
+   {
+    "text": "Chinese/Singapore",
+    "ru": ""
+   },
+   {
+    "text": "zh-SG",
+    "ru": ""
+   },
+   {
+    "text": "Chinese/Taiwan",
+    "ru": ""
+   },
+   {
+    "text": "Chinese/Traditional",
+    "ru": ""
+   },
+   {
+    "text": "Croatian/Bosnia and Herzegovina",
+    "ru": ""
+   },
+   {
+    "text": "hr-BA",
+    "ru": ""
+   },
+   {
+    "text": "Dutch/Belgium",
+    "ru": ""
+   },
+   {
+    "text": "nl-BE",
+    "ru": ""
+   },
+   {
+    "text": "Dutch/Netherlands",
+    "ru": ""
+   },
+   {
+    "text": "nl-NL",
+    "ru": ""
+   },
+   {
+    "text": "English/Australia",
+    "ru": ""
+   },
+   {
+    "text": "en-AU",
+    "ru": ""
+   },
+   {
+    "text": "English/Belize",
+    "ru": ""
+   },
+   {
+    "text": "en-BZ",
+    "ru": ""
+   },
+   {
+    "text": "English/Canada",
+    "ru": ""
+   },
+   {
+    "text": "en-CA",
+    "ru": ""
+   },
+   {
+    "text": "English/Caribbean",
+    "ru": ""
+   },
+   {
+    "text": "en-CB",
+    "ru": ""
+   },
+   {
+    "text": "English/Ireland",
+    "ru": ""
+   },
+   {
+    "text": "en-IE",
+    "ru": ""
+   },
+   {
+    "text": "English/Jamaica",
+    "ru": ""
+   },
+   {
+    "text": "en-JM",
+    "ru": ""
+   },
+   {
+    "text": "English/New Zealand",
+    "ru": ""
+   },
+   {
+    "text": "en-NZ",
+    "ru": ""
+   },
+   {
+    "text": "English/Republic of the Philippines",
+    "ru": ""
+   },
+   {
+    "text": "en-PH",
+    "ru": ""
+   },
+   {
+    "text": "English/South Africa",
+    "ru": ""
+   },
+   {
+    "text": "en-ZA",
+    "ru": ""
+   },
+   {
+    "text": "English/Trinidad",
+    "ru": ""
+   },
+   {
+    "text": "en-TT",
+    "ru": ""
+   },
+   {
+    "text": "English/United Kingdom",
+    "ru": ""
+   },
+   {
+    "text": "en-GB",
+    "ru": ""
+   },
+   {
+    "text": "English/United States",
+    "ru": ""
+   },
+   {
+    "text": "en-US",
+    "ru": ""
+   },
+   {
+    "text": "English/Zimbabwe",
+    "ru": ""
+   },
+   {
+    "text": "en-ZW",
+    "ru": ""
+   },
+   {
+    "text": "French/Belgium",
+    "ru": ""
+   },
+   {
+    "text": "fr-BE",
+    "ru": ""
+   },
+   {
+    "text": "French/Canada",
+    "ru": ""
+   },
+   {
+    "text": "fr-CA",
+    "ru": ""
+   },
+   {
+    "text": "French/France",
+    "ru": ""
+   },
+   {
+    "text": "fr-FR",
+    "ru": ""
+   },
+   {
+    "text": "French/Luxembourg",
+    "ru": ""
+   },
+   {
+    "text": "fr-LU",
+    "ru": ""
+   },
+   {
+    "text": "French/Principality of Monaco",
+    "ru": ""
+   },
+   {
+    "text": "fr-MC",
+    "ru": ""
+   },
+   {
+    "text": "French/Switzerland",
+    "ru": ""
+   },
+   {
+    "text": "fr-CH",
+    "ru": ""
+   },
+   {
+    "text": "Galician/Spain",
+    "ru": ""
+   },
+   {
+    "text": "gl-ES",
+    "ru": ""
+   },
+   {
+    "text": "German/Austria",
+    "ru": ""
+   },
+   {
+    "text": "de-AT",
+    "ru": ""
+   },
+   {
+    "text": "German/Germany",
+    "ru": ""
+   },
+   {
+    "text": "de-DE",
+    "ru": ""
+   },
+   {
+    "text": "German/Liechtenstein",
+    "ru": ""
+   },
+   {
+    "text": "de-LI",
+    "ru": ""
+   },
+   {
+    "text": "German/Luxembourg",
+    "ru": ""
+   },
+   {
+    "text": "de-LU",
+    "ru": ""
+   },
+   {
+    "text": "German/Switzerland",
+    "ru": ""
+   },
+   {
+    "text": "de-CH",
+    "ru": ""
+   },
+   {
+    "text": "Guaraní",
+    "ru": ""
+   },
+   {
+    "text": "Hiri Motu",
+    "ru": ""
+   },
+   {
+    "text": "Italian/Italy",
+    "ru": ""
+   },
+   {
+    "text": "it-IT",
+    "ru": ""
+   },
+   {
+    "text": "Italian/Switzerland",
+    "ru": ""
+   },
+   {
+    "text": "it-CH",
+    "ru": ""
+   },
+   {
+    "text": "Central Khmer",
+    "ru": ""
+   },
+   {
+    "text": "Luba-Katanga",
+    "ru": ""
+   },
+   {
+    "text": "Malay/Brunei Darussalam",
+    "ru": ""
+   },
+   {
+    "text": "ms-BN",
+    "ru": ""
+   },
+   {
+    "text": "Malay/Malaysia",
+    "ru": ""
+   },
+   {
+    "text": "ms-MY",
+    "ru": ""
+   },
+   {
+    "text": "North Ndebele",
+    "ru": ""
+   },
+   {
+    "text": "Northern Sotho",
+    "ru": ""
+   },
+   {
+    "text": "Norwegian/Nynorsk",
+    "ru": ""
+   },
+   {
+    "text": "Sichuan Yi",
+    "ru": ""
+   },
+   {
+    "text": "South Ndebele",
+    "ru": ""
+   },
+   {
+    "text": "Church Slavic",
+    "ru": ""
+   },
+   {
+    "text": "Portuguese/Brazil",
+    "ru": ""
+   },
+   {
+    "text": "Portuguese/Portugal",
+    "ru": ""
+   },
+   {
+    "text": "pt-PT",
+    "ru": ""
+   },
+   {
+    "text": "Quechua/Bolivia",
+    "ru": ""
+   },
+   {
+    "text": "qu-BO",
+    "ru": ""
+   },
+   {
+    "text": "Quechua/Ecuador",
+    "ru": ""
+   },
+   {
+    "text": "qu-EC",
+    "ru": ""
+   },
+   {
+    "text": "Quechua/Peru",
+    "ru": ""
+   },
+   {
+    "text": "qu-PE",
+    "ru": ""
+   },
+   {
+    "text": "Rhaeto-Romanic",
+    "ru": ""
+   },
+   {
+    "text": "Russian/Republic of Moldova",
+    "ru": ""
+   },
+   {
+    "text": "ru-MO",
+    "ru": ""
+   },
+   {
+    "text": "Northern Sami",
+    "ru": ""
+   },
+   {
+    "text": "Serbian/Bosnia and Herzegovina",
+    "ru": ""
+   },
+   {
+    "text": "sr-BA",
+    "ru": ""
+   },
+   {
+    "text": "Serbian/Serbia and Montenegro",
+    "ru": ""
+   },
+   {
+    "text": "sr-SP",
+    "ru": ""
+   },
+   {
+    "text": "Scottish Gaelic",
+    "ru": ""
+   },
+   {
+    "text": "Southern Sotho",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Argentina",
+    "ru": ""
+   },
+   {
+    "text": "es-AR",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Bolivia",
+    "ru": ""
+   },
+   {
+    "text": "es-BO",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Castilian",
+    "ru": ""
+   },
+   {
+    "text": "es-ES",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Chile",
+    "ru": ""
+   },
+   {
+    "text": "es-CL",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Colombia",
+    "ru": ""
+   },
+   {
+    "text": "es-CO",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Costa Rica",
+    "ru": ""
+   },
+   {
+    "text": "es-CR",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Dominican Republic",
+    "ru": ""
+   },
+   {
+    "text": "es-DO",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Ecuador",
+    "ru": ""
+   },
+   {
+    "text": "es-EC",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/El Salvador",
+    "ru": ""
+   },
+   {
+    "text": "es-SV",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Guatemala",
+    "ru": ""
+   },
+   {
+    "text": "es-GT",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Honduras",
+    "ru": ""
+   },
+   {
+    "text": "es-HN",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Mexico",
+    "ru": ""
+   },
+   {
+    "text": "es-MX",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Nicaragua",
+    "ru": ""
+   },
+   {
+    "text": "es-NI",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Panama",
+    "ru": ""
+   },
+   {
+    "text": "es-PA",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Paraguay",
+    "ru": ""
+   },
+   {
+    "text": "es-PY",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Peru",
+    "ru": ""
+   },
+   {
+    "text": "es-PE",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Puerto Rico",
+    "ru": ""
+   },
+   {
+    "text": "es-PR",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Spain",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Uruguay",
+    "ru": ""
+   },
+   {
+    "text": "es-UY",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Venezuela",
+    "ru": ""
+   },
+   {
+    "text": "es-VE",
+    "ru": ""
+   },
+   {
+    "text": "Spanish/Latin Americas",
+    "ru": ""
+   },
+   {
+    "text": "es-US",
+    "ru": ""
+   },
+   {
+    "text": "Swedish/Finland",
+    "ru": ""
+   },
+   {
+    "text": "sv-FI",
+    "ru": ""
+   },
+   {
+    "text": "Swedish/Sweden",
+    "ru": ""
+   },
+   {
+    "text": "sv-SE",
+    "ru": ""
+   },
+   {
+    "text": "Volapük",
+    "ru": ""
+   },
+   {
+    "text": "WebService is not set correctly or needs to be reinstalled",
+    "ru": ""
+   },
+   {
+    "text": "The script completed but did not return anything",
+    "ru": ""
+   },
+   {
+    "text": "The current Google WebService is not supported.\nPlease, delete the WebService from the Google Drive and Install the latest version.",
+    "ru": ""
+   },
+   {
+    "text": "Service invoked too many times in a short time",
+    "ru": ""
+   },
+   {
+    "text": "There was a problem contacting the WebService. Please try again later\n",
+    "ru": ""
+   },
+   {
+    "text": "?action=Translate&list=",
+    "ru": ""
+   },
+   {
+    "text": "http://www.google.com/translate_t?hl=en&vi=c&ie=UTF8&oe=UTF8&submit=Translate&langpair={0}|{1}&text={2}",
+    "ru": ""
+   },
+   {
+    "text": "TRANSLATED_TEXT='",
+    "ru": ""
+   },
+   {
+    "text": "';var",
+    "ru": ""
+   },
+   {
+    "text": "\\\\x([a-fA-F0-9]{2})",
+    "ru": ""
+   },
+   {
+    "text": "[i2fb]",
+    "ru": ""
+   },
+   {
+    "text": "Key[*]Type[*]Desc",
+    "ru": ""
+   },
+   {
+    "text": "[ln]",
+    "ru": ""
+   },
+   {
+    "text": "Key{0}Type{0}Desc",
+    "ru": ""
+   },
+   {
+    "text": "Bad Spreadsheet Format.\nFirst columns should be 'Key', 'Type' and 'Desc'",
+    "ru": ""
+   },
+   {
+    "text": ".loc",
+    "ru": ""
+   },
+   {
+    "text": "Done Google Sync",
+    "ru": ""
+   },
+   {
+    "text": "Done Google Sync: source was up-to-date",
+    "ru": ""
+   },
+   {
+    "text": "{0}?key={1}&action=GetLanguageSource&version={2}",
+    "ru": ""
+   },
+   {
+    "text": "version=",
+    "ru": ""
+   },
+   {
+    "text": "script_version=",
+    "ru": ""
+   },
+   {
+    "text": "Invalid Response from Google, Most likely the WebService needs to be updated",
+    "ru": ""
+   },
+   {
+    "text": "LanguageSource is up-to-date",
+    "ru": ""
+   },
+   {
+    "text": "[i2category]",
+    "ru": ""
+   },
+   {
+    "text": "[/i2category]",
+    "ru": ""
+   },
+   {
+    "text": "[/i2csv]",
+    "ru": ""
+   },
+   {
+    "text": "Language {0} has no name, please assign a name to the language or it may not show on a build",
+    "ru": ""
+   },
+   {
+    "text": "<!-Missing Translation [",
+    "ru": ""
+   },
+   {
+    "text": "Missing Translation for '",
+    "ru": ""
+   },
+   {
+    "text": "LOC:",
+    "ru": ""
+   },
+   {
+    "text": "I2 Language",
+    "ru": ""
+   },
+   {
+    "text": "Chinese (Simplified)",
+    "ru": ""
+   },
+   {
+    "text": "Chinese (Traditional)",
+    "ru": ""
+   },
+   {
+    "text": "TextMeshPro Label",
+    "ru": ""
+   },
+   {
+    "text": "TextMeshPro UGUI",
+    "ru": ""
+   },
+   {
+    "text": "[i2nt]",
+    "ru": ""
+   },
+   {
+    "text": "[/i2nt]",
+    "ru": ""
+   },
+   {
+    "text": "\\Resources\\",
+    "ru": ""
+   },
+   {
+    "text": "\\Resources/",
+    "ru": ""
+   },
+   {
+    "text": "/Resources\\",
+    "ru": ""
+   },
+   {
+    "text": "/Resources/",
+    "ru": ""
+   },
+   {
+    "text": "Unable to load {0} '{1}'\nERROR: {2}",
+    "ru": ""
+   },
+   {
+    "text": "ÝúbUu¸CÁÂ§*4PÚ©-á©¾@T6Dl±ÒWâuzÅm4GÐóØ$=Íg,¥Që®iKEßr¡×60Ít4öÃ~^«y:Èd1<QÛÝúbUu¸CÁÂ§*4PÚ©-á©¾@T6Dl±ÒWâuzÅm4GÐóØ$=Íg,¥Që®iKEßr¡×60Ít4öÃ~^«y:Èd",
+    "ru": ""
+   },
+   {
+    "text": "JSON Parse: Too many closing brackets",
+    "ru": ""
+   },
+   {
+    "text": "JSON Parse: Quotation marks seems to be messed up.",
+    "ru": ""
+   },
+   {
+    "text": "Can't use compressed functions. You need include the SharpZipLib and uncomment the define at the top of SimpleJSON",
+    "ru": ""
+   },
+   {
+    "text": "Error deserializing JSON. Unknown tag: ",
+    "ru": ""
+   },
+   {
+    "text": "UI Extensions/Particles/Additive",
+    "ru": ""
+   },
+   {
+    "text": "/CharacterCustomizer.json",
+    "ru": ""
+   },
+   {
+    "text": "No camera controller reference has been assigned to this script.",
+    "ru": ""
+   },
+   {
+    "text": "No controller script has been assigned to this 'TurnTowardControllerVelocity' component!",
+    "ru": ""
+   },
+   {
+    "text": "No target transform has been assigned to this script.",
+    "ru": ""
+   },
+   {
+    "text": "No camera input script has been attached to this gameobject",
+    "ru": ""
+   },
+   {
+    "text": "No camera transform has been assigned.",
+    "ru": ""
+   },
+   {
+    "text": "No camera target transform has been assigned.",
+    "ru": ""
+   },
+   {
+    "text": "No controller reference has been assigned to this script.",
+    "ru": ""
+   },
+   {
+    "text": "No character input script has been attached to this gameobject",
+    "ru": ""
+   },
+   {
+    "text": "There is no collider attached to ",
+    "ru": ""
+   },
+   {
+    "text": "No waypoints have been assigned to 'MovingPlatform'!",
+    "ru": ""
+   },
+   {
+    "text": "Joystick X",
+    "ru": ""
+   },
+   {
+    "text": "Joystick Y",
+    "ru": ""
+   },
+   {
+    "text": "RJoystick X",
+    "ru": ""
+   },
+   {
+    "text": "RJoystick Y",
+    "ru": ""
+   },
+   {
+    "text": "RJoystick X PS",
+    "ru": ""
+   },
+   {
+    "text": "RJoystick Y PS",
+    "ru": ""
+   },
+   {
+    "text": "No light object found on ",
+    "ru": ""
+   },
+   {
+    "text": "file://",
+    "ru": ""
+   },
+   {
+    "text": "Error loading image from ",
+    "ru": ""
+   },
+   {
+    "text": "yyyyMMdd-HHmmss",
+    "ru": ""
+   },
+   {
+    "text": "no trigger card",
+    "ru": ""
+   },
+   {
+    "text": "Switching turn",
+    "ru": ""
+   },
+   {
+    "text": "Shelf data not loaded properly",
+    "ru": ""
+   },
+   {
+    "text": "percentDone ",
+    "ru": ""
+   },
+   {
+    "text": "Error: ",
+    "ru": ""
+   },
+   {
+    "text": "Dropdown List",
+    "ru": ""
+   },
+   {
+    "text": "Picture has been saved at:\n",
+    "ru": ""
+   },
+   {
+    "text": "Spreadsheet is not up-to-date and Google Live Synchronization is enabled\nWhen playing in the device the Spreadsheet will be downloaded and translations may not behave as what you see in the editor.\nTo fix this, Import or Export replace to Google",
+    "ru": ""
+   },
+   {
+    "text": "Language Source was up-to-date with Google Spreadsheet",
+    "ru": ""
+   }
+  ],
+  "all_literals": [
+   "RevealGradeCardSingleIdle",
+   "SFX_Throw",
+   "RevealGradeCardSingle",
+   "SFX_CardReveal1",
+   "SFX_CardReveal2",
+   "SFX_CardReveal3",
+   "SFX_FinalizeCard",
+   "RevealGradeCardSingleRevealedIdle",
+   "RevealGradeCardSingleExit",
+   "_FaceDilate",
+   "_OutlineWidth",
+   "X ",
+   "In Album",
+   " : ",
+   "F2",
+   "Any Rarity",
+   "F0",
+   "Bulk Donation Box",
+   "Card Storage Shelf",
+   "/",
+   " / ",
+   "CameraPhotoOpenScreen",
+   "CameraPhotoCloseScreen",
+   "SFX_TakePhoto",
+   "PhotoGalleryImageFullScreenEnter",
+   "PhotoGalleryImageFullScreenExit",
+   "-",
+   "0/0",
+   "/Screenshots/",
+   "*.png",
+   "*.jpg",
+   " ",
+   " (",
+   ")",
+   "Card3dUIGrp_",
+   "PackOpenAnim",
+   "CardOpenSeq0_Idle",
+   "SFX_OpenPack",
+   "SFX_BoxOpen",
+   "CardOpenSeq1_RotateToFront",
+   "OpenCardNewCard",
+   "SFX_CardReveal0",
+   "OpenCardSlideExit",
+   "SFX_PercStarJingle3",
+   "SFX_Gift",
+   "OpenCardFinalReveal",
+   "OpenCardDefaultPos",
+   "_",
+   "00",
+   "0",
+   "CloseBinder",
+   "FoilText",
+   "NoFoilText",
+   "ShowCardAlbum",
+   "SFX_AlbumOpen",
+   "SFX_WhipSoft",
+   "HideCardAlbum",
+   "OpenBinder",
+   "SetHideNextIdle",
+   "SetHidePreviousIdle",
+   "CollectionBookClose",
+   "BinderClose",
+   "SFX_AlbumFlip",
+   "GoNextPage",
+   "GoPreviousPage",
+   "Female",
+   "Male",
+   "HoldingBag",
+   "HandingOverCash",
+   "IsBeingSprayed",
+   "Ugh, the stench...",
+   "It's too smelly!",
+   "Omg this place stinks!",
+   "Where's the Tournament Prize Shelf?",
+   "I can't find the Tournament Prize Shelf.",
+   " unable to find shelf",
+   "GrabItem",
+   "Buy buy buy!!",
+   "Wow this is the cheapest I've seen!",
+   "What a steal!",
+   "Cheap XXX. What a bargain!",
+   "XXX",
+   "This is tempting!",
+   "Wow so cheap!",
+   "XXX bucks for this is fair.",
+   "Good price!",
+   "Wow, gotta take one of these.",
+   "Fair price for a XXX.",
+   "Not a bad price really.",
+   "Fair price I'd say.",
+   "This is fine.",
+   "XXX is a little expensive, hmm...",
+   "Can't decide if I really want this.",
+   "It's pricey, I need to think a little.",
+   "This cost XXX bucks!?",
+   "Man, XXX sure is expensive!",
+   "God, so expensive.",
+   "Ridiculous. XXX bucks for this!?",
+   "Crazy. Who's gonna buy XXX at this price!?",
+   "This is a scam!",
+   "I want this, but I am broke.",
+   "This is a steal, but I don't have enough money.",
+   "I would so buy this if I have enough money",
+   "This is the cheapest I've seen, but I am broke.",
+   "Cheap card. What a bargain!",
+   "So tempting, but I am broke.",
+   "Tempting, but I don't have enough money.",
+   "Wow, if only I have enough money.",
+   "Good price, but I am broke.",
+   "Seems fair, but I don't have enough money.",
+   "Not a bad price, but I am broke.",
+   "Fair price, but I don't have enough money.",
+   "Maybe if I have enough money.",
+   "It's a little expensive, hmm...",
+   "Man, this is expensive!",
+   "Ridiculous. XXX bucks!?",
+   "Crazy. Who's gonna buy at this price!?",
+   "This card is way overpriced!",
+   "Hmm, where is table XXX?",
+   "Where is table XXX!?",
+   "I can't find table number XXX.",
+   "Anyone know where is table XXX?",
+   "Tournament started but where is table XXX? Help!!",
+   "There's no table for me to play.",
+   "The door is blocked!!",
+   "I can't fit in the exit!",
+   "How do I get out!?",
+   "Wait, how do I get out!?",
+   "Let me out!",
+   "I can't fit in the entrance!",
+   "How do I get in!?",
+   "Wait, how do I get in!?",
+   "Let me in!",
+   "I can't find XXX.",
+   "Where is XXX?",
+   "No XXX here.",
+   "I need XXX.",
+   "Why can't I get XXX in this shop!?",
+   "I am looking for XXX.",
+   "WinnerHoldBigItemL",
+   "WinnerHoldBigItemR",
+   "WinnerHoldItemLowR",
+   "WinnerHoldItemLowL",
+   "WinnerHoldItemR",
+   "WinnerHoldItemL",
+   "Too expensive to play...",
+   "Fee is too high here!",
+   "I will play somewhere else!",
+   "IsSitting",
+   "ExitShop havent pay",
+   "IsPlaying",
+   "RandomPlayIndex",
+   "MoveSpeed",
+   "GrabItemHigh",
+   "PlayGameEmote",
+   "ShakeHead",
+   "There's no prize for winning?",
+   "Sad, you get nothing for winning.",
+   "What am I playing for? There's no reward.",
+   "Not even a card pack as reward?",
+   "You get NOTHING!!",
+   "Where's my prize?",
+   "I can't find my prize anywhere.",
+   "There's no prize on the shelf?",
+   "I won't leave until I get my prizes!",
+   "FemaleCustomer",
+   "Customer",
+   "CustomerReview/",
+   "YYY",
+   "_MainTex",
+   "_MetallicGlossMap",
+   "_BumpMap",
+   "_GlossMapScale",
+   "_Color",
+   "SFX_MenuCloseB",
+   "SFX_ButtonLightTap",
+   "Ran out of spray content, need refill",
+   "CashRegisterCloseDrawer",
+   "SFX_CheckoutRegisterOpen",
+   "SFX_CheckoutDone",
+   "SFX_CheckoutScan",
+   "CashRegisterOpenDrawer",
+   "ShopModel",
+   "Glass",
+   "QueueBlocker",
+   "_Outline",
+   "MoveStateBlockedArea",
+   "MoveStateValidArea",
+   "DecorationBlocker",
+   "DecorationMoveStateBlockedArea",
+   "MoveStateValidWarehouseArea",
+   "DecorationMoveStateValidArea",
+   "DecorationMoveStateBlockedAreaB",
+   "Ignore Raycast",
+   "SFX_PlaceShelf",
+   "SFX_BoxClose",
+   "Open",
+   "Close",
+   "PlayTableStandLocBlockedArea",
+   "Invalid stand loc index ",
+   "SFX_Dispose",
+   "IsClosing",
+   "Box no slot",
+   "Item type not match",
+   "No item on workbench",
+   "SFX_CustomerBuy",
+   "Physics",
+   "ItemCompartment",
+   "Obstacles",
+   "UI",
+   "BarcodeScannerScan",
+   "SFX_OpenCardBox",
+   "Ground",
+   "DecorationBlockerRaycast",
+   "Item",
+   "XXX Days",
+   "XXX Day",
+   "No effect on card pack price.",
+   "ItemGrp",
+   "???",
+   "Shop Lot A",
+   "Shop Lot B",
+   "Shop Leveled Up",
+   "New License Available",
+   "New Furniture Available",
+   "New Room Available",
+   "New Worker Available",
+   "BGM_ShopNight",
+   "BGM_ShopDay",
+   "AM",
+   "PM",
+   ":",
+   "Night",
+   "Evening",
+   "Afternoon",
+   "Morning",
+   "Day End",
+   "_EmissionColor",
+   "HP",
+   "Strength",
+   "Magic",
+   "Vitality",
+   "Spirit",
+   "Speed",
+   "Illus. ",
+   "No effect",
+   "ZZZ",
+   ", ",
+   "All Rounder",
+   "Magical Attacker",
+   "Physical Attacker",
+   "Special_",
+   "PhoneDefaultEndPos",
+   "BarcodeScannerHidden",
+   "EnterPhoneScanRestockMode",
+   "BarcodeScannerEnter",
+   "ExitPhoneScanRestockMode",
+   "BarcodeScannerExit",
+   "EnterPhoneTakePhotoMode",
+   "Deck",
+   "Cards",
+   "Basic",
+   "Evolution",
+   "<color=#FFE800>+",
+   "</color>",
+   "N",
+   "B",
+   "\n",
+   "\r\n",
+   "X",
+   "PlayCard_PlaceCard4",
+   "OnSetupFinish",
+   "PlayCard_Heal",
+   "PlayCard_ChargeAttack",
+   "PlayCard_MonsterKO",
+   "PlayCard_Powerup",
+   "PlayCard_SandShot",
+   "PlayCard_Miss",
+   "PlayCard_PoisonMist",
+   "PlayCardSetShuffle",
+   "PlayCard_Shuffle",
+   "PlayCard_Riffle",
+   "PlayCardBtnOnClickExitHide",
+   "CardOnStartDrag",
+   "CardIdle",
+   "PlayCard_SelectCard",
+   "PlayCardBtnOnClickStartReveal",
+   "CardOnHoverEnterReveal",
+   "CardOnHoverExitHide",
+   "invalid element area selection",
+   "DisplayCardInfo null ",
+   "CardSettleBounce",
+   "PlayCard_GeneralSkillCast",
+   "CardSettleGeneric",
+   "PlayCard_Draw1",
+   "PlayCard_Draw2",
+   "PlayCard_Draw3",
+   "PlayCard_PlaceCard1",
+   "PlayCard_PlaceCard2",
+   "PlayCard_PlaceCard3",
+   "PlayCard_PlaceCard5",
+   "PlayCard_PlaceCard6",
+   "PlayCard_PlaceCard7",
+   "PlayCard_PlaceCard8",
+   "PlayCard_PlaceCard9",
+   "PlayCard_PlaceCard10",
+   "CardSelectionGlowGrp_",
+   "Select XXX Basic card to discard.",
+   "Select XXX Evolution card to discard.",
+   "Select Evolution card",
+   "Select XXX card to discard.",
+   "Select up to XXX card to discard.",
+   "Select XXX Basic cards to discard.",
+   "Select XXX Evolution cards to discard.",
+   "Select XXX cards to discard.",
+   "Select up to XXX cards to discard.",
+   "No valid selection",
+   "Select your target",
+   "PlayCard_BattleWin",
+   "PlayCard_BattleLose",
+   "OnPlayEffectTriggered ",
+   "OnPlayEffectTriggerEnded ",
+   "Draw",
+   "Select XXX card",
+   "Select XXX cards",
+   "Select up to XXX card",
+   "Select up to XXX cards",
+   "Discard Pile",
+   "PlayCardTurnSelectFlip",
+   "PlayCard_FlipCard",
+   "+",
+   "Dont SaveInteractableObjectData, havent finish load data",
+   "Shop Level XXX Required",
+   "XXX Players",
+   "Full",
+   "0/",
+   "Round XXX",
+   "Match Win",
+   "Game Points",
+   "OMW",
+   "%",
+   "OOMW",
+   "(",
+   " - ",
+   "My Card Shop",
+   "H ",
+   "M",
+   "AutoCardOpenerUIGrp_",
+   "Are you sure about selling XXX for YYY?",
+   "Day XXX",
+   "f2",
+   "CustomerTrade/",
+   "Ask Price",
+   "Market Price",
+   "X1",
+   "X0",
+   "Owned",
+   "Shop Expansion",
+   " xp",
+   "Shop Level XXX",
+   " XP",
+   "Press to start next day",
+   "XXX Set YYY",
+   "Delivery in XXX days",
+   "Delivery in XXX day",
+   "Ungraded",
+   "TCG ",
+   "Late By XXX Day",
+   "Late By XXX Days",
+   "Day",
+   "Today",
+   "Days",
+   "HighlightCheckoutItemBar",
+   "Qty",
+   "License",
+   "??? ",
+   "indexList.Count",
+   "Start",
+   "Lv",
+   "(+) ",
+   "(-) ",
+   "Market Fee",
+   "Format",
+   "Cost",
+   "hr",
+   "day",
+   "Event type cannot be none",
+   "Fee",
+   "Card type cannot be none",
+   "Item type cannot be none",
+   "compactCardDataAmountList 0 list",
+   "What's up boss?",
+   "<color=#FFE800>",
+   "</color>/",
+   "SFX_CheckoutCardPress",
+   "Worker",
+   "IsHoldingBox",
+   "ScanItem",
+   "Very Fast",
+   "Fast",
+   "Normal",
+   "Slow",
+   "Very Slow",
+   "FemaleWorker",
+   "_OffsetX",
+   "_Texture",
+   "v",
+   "Title",
+   "https://store.steampowered.com/app/3070070?utm_source=prologue&utm_campaign=prologue1&utm_medium=game",
+   "https://steamcommunity.com/app/3070070/discussions/",
+   "https://discord.gg/2YaaUZzrRY",
+   "https://www.makeship.com/shop/creator/opneon-games",
+   "English",
+   "en",
+   "France",
+   "fr",
+   "Germany",
+   "de",
+   "Spanish",
+   "es",
+   "ChineseT",
+   "zh-TW",
+   "ChineseS",
+   "zh-CN",
+   "Korean",
+   "ko",
+   "Japanese",
+   "ja",
+   "Portuguese",
+   "pt-BR",
+   "Italian",
+   "it",
+   "Russian",
+   "ru",
+   "Hindi",
+   "hi",
+   "Thai",
+   "th",
+   "Arabic",
+   "ar",
+   "Dutch",
+   "nl",
+   "0%",
+   "Loading_FadeIn",
+   "100%",
+   "Has save file, prompt if want to overwrite",
+   "A path was calculated. Did it fail with an error? ",
+   "ACH_UnlockBasicCardBox",
+   "ACH_UnlockRareCardPack",
+   "ACH_UnlockEpicCardPack",
+   "ACH_UnlockLegendCardPack",
+   "ACH_UnlockDestinyBasicPack",
+   "ACH_UnlockDestinyRarePack",
+   "ACH_UnlockDestinyEpicPack",
+   "ACH_UnlockDestinyLegendPack",
+   "ACH_UnlockAscensionPack",
+   "ACH_Worker3",
+   "ACH_Worker2",
+   "ACH_Worker1",
+   "ACH_OpenPack1",
+   "ACH_OpenPack2",
+   "ACH_OpenPack3",
+   "ACH_OpenPack4",
+   "ACH_CustomerPlay1",
+   "ACH_CustomerPlay2",
+   "ACH_CustomerPlay3",
+   "ACH_Checkout",
+   "ACH_SellCard1",
+   "ACH_SellCard2",
+   "ACH_SellCard3",
+   "ACH_Profit3",
+   "ACH_Profit2",
+   "ACH_Profit1",
+   "ACH_TCGDuel",
+   "ACH_FullArtFoil",
+   "ACH_GhostFoil",
+   "ACH_BorderlessFullArtFoil",
+   "ACH_CardCollector1",
+   "ACH_CardCollector2",
+   "ACH_CardCollector3",
+   "ACH_CardCollector4",
+   "ACH_CardCollector5",
+   "ACH_GradingGem1",
+   "ACH_GradingGem2",
+   "ACH_GradingGem3",
+   "ACH_GradingGold",
+   "ACH_GradingCollector",
+   "ACH_SmellyClean1",
+   "ACH_SmellyClean2",
+   "ACH_UnlockShopLotB",
+   "ACH_ShopExpansion1",
+   "ACH_ShopExpansion2",
+   "ACH_ShopExpansion3",
+   "ACH_ShopLevel1",
+   "ACH_ShopLevel2",
+   "ACH_ShopLevel3",
+   "ACH_ShopLevel4",
+   "[Singleton] Cancel creating '",
+   "' , application is closing.",
+   "[Singleton] More than 1 ",
+   " in the game",
+   "(singleton)",
+   "DSCloudSaveLoadTest Local save index : ",
+   " Cloud save index : ",
+   "DSCloudSaveLoadTest Local save cycle : ",
+   " Cloud save cycle : ",
+   "DSCloudSaveLoadTest localPlayfabID : ",
+   " CSaveLoad.m_SavedGameBackup.m_LastLoginPlayfabID : ",
+   " isDifferentID : ",
+   "DSCloudSaveLoadTest has different id",
+   "DSCloudSaveLoadTest Cloud file has higher version number",
+   "DSCloudSaveLoadTest Cloud and local file have same version number",
+   "DSCloudSaveLoadTest Local file has higher version number",
+   "Version : ",
+   "Error: Loading game data error",
+   "Null Ref Data Present SetLoadData",
+   "Null Data Present SetLoadData",
+   "SaveGameData saveSlotIndex ",
+   "SetLoadData finish",
+   "CSaveLoad.Save() finish",
+   "monstertype should be negative for special event",
+   "Foil",
+   "AS394nGOA@laen083KAWmp439-24905we#*%&^jawr84jiR#(JIOI#TRQ*(#)TR*(Q#INTRHereaaerea",
+   ",",
+   ".",
+   "¢",
+   "€",
+   "N2",
+   "N0",
+   "¥",
+   "p",
+   "£",
+   " sen",
+   "RM",
+   "$",
+   "Very Poor",
+   "Poor",
+   "Fair",
+   "Good",
+   "Very Good",
+   "Fine",
+   "Excellent",
+   "Near Mint",
+   "Mint",
+   "Gem Mint",
+   "d",
+   "h",
+   "min",
+   "s",
+   "ResetGame",
+   "BGM_Silence",
+   "yyyy-MM-dd HH-mm-ss",
+   ".png",
+   "LoadData m_CurrentSaveLoadSlotSelectedIndex ",
+   "Skip save at title screen",
+   "Cant save due to loading error",
+   "Cant save, no shelf data",
+   "Load backup save data slotIndex ",
+   "No save found, start new data",
+   "SFX/",
+   "SFX_Popup_Low",
+   "SFX_Popup2",
+   "{0:0.0} ms ({1:0.} fps)",
+   "https://www.opneon.com/streamTexture/",
+   "JoinDiscord",
+   "PressFeedback",
+   "Index",
+   "PressWishlist",
+   "PressLoadGame",
+   "PressOverwriteSave",
+   "GoNextDay",
+   "ShopLevelUp",
+   "Level",
+   "UnlockNewRoom",
+   "roomUnlocked",
+   "PhoneBuyShelf",
+   "PhoneShopExpansion",
+   "PhoneManageEvent",
+   "PhoneHireWorker",
+   "PhoneCheckPrice",
+   "Esc",
+   "BSpace",
+   "|",
+   "<alpha=#00>|</color>",
+   "DualSenseGamepadHID",
+   "DualSenseGamepad",
+   "LJoystick X",
+   "LJoystick Y",
+   "Prop",
+   "CatFollow",
+   "Coin",
+   "RaycastHit",
+   "User typed in ",
+   "New safe area applied to {0}: x={1}, y={2}, w={3}, h={4} on full extents w={5}, h={6}",
+   "android.provider.MediaStore$Images$Media",
+   "getContentResolver",
+   "insertImage",
+   "android.graphics.BitmapFactory",
+   "decodeByteArray",
+   "com.unity3d.player.UnityPlayer",
+   "currentActivity",
+   "/savedGames_Release0.json",
+   "/savedGames_Release1.json",
+   "/savedGames_Release1.gd",
+   "/savedGames_Release2.json",
+   "/savedGames_Release2.gd",
+   "/savedGames_Release3.json",
+   "/savedGames_Release3.gd",
+   "Save saveSlotIndex ",
+   "/savedGames_Release",
+   ".json",
+   "/savedGames_ReleaseBackupFile",
+   "Temp",
+   ".gd",
+   "Error saving gd",
+   "Error saving JSON",
+   "Save process done",
+   "ValidateSavedSlotData Save file invalid, try resave m_ValidateSaveCount ",
+   "Error - Cannot save",
+   "/savedGames_KeybindSetting.gd",
+   "/savedGames_ReleaseBackupFile0.gd",
+   "/savedGames_Debug02.gd",
+   "DSCloudSaveLoadTest LoadingCloudFile",
+   "DSCloudSaveLoadTest LoadCloudFile sucess",
+   "DSCloudSaveLoadTest LoadCloudFile failed to deserialize",
+   "DSCloudSaveLoadTest LoadCloudFile failed, file length 0",
+   "DSCloudSaveLoadTest LoadCloudFile failed",
+   "Beginner Arena",
+   "Arena",
+   "increase",
+   "decrease",
+   "Mouse X",
+   "Mouse Y",
+   "ParticleEffectsLibrary-ParticleEffectSpawnOffset: Not all arrays match length, double check counts.",
+   "ParticleEffectsLibrary-ParticleEffectPrefabs: Not all arrays match length, double check counts.",
+   " of ",
+   "PE_",
+   "Select Previous Particle Effect",
+   "Select Next Particle Effect",
+   "Destructible",
+   "Trail",
+   "etfx_explosions",
+   "etfx_explosions2",
+   "etfx_portals",
+   "etfx_magic",
+   "etfx_emojis",
+   "etfx_sparkles",
+   "etfx_fireworks",
+   "etfx_powerups",
+   "etfx_swordcombat",
+   "etfx_maindemo",
+   "etfx_combat",
+   "etfx_2ddemo",
+   "etfx_missiles",
+   "CanvasSceneSelect",
+   "Canvas",
+   "ParticleSysDisplayCanvas",
+   "[",
+   "] ",
+   "BG",
+   "UI-arrow-right",
+   "UI-arrow-left",
+   "Instructions",
+   "Go",
+   "z",
+   "left",
+   "x",
+   "right",
+   "space",
+   "Previous effect",
+   "Play again",
+   "Next effect",
+   "Activate",
+   "toDo",
+   "Mouse ScrollWheel",
+   "StartAgain",
+   "RepeatSound",
+   "No camera has been assigned to this controller!",
+   "No target has been assigned.",
+   "Material & Shader/Skybox Blend Material",
+   "_BlendCubemaps",
+   "_Rotation",
+   "Can't find Skybox Blend Material in resources. Please re-import!",
+   "_Tex",
+   "_Tint",
+   "_Tex2",
+   "_Tint2",
+   "You need to set a material first to make it the skybox",
+   "The passed index is bigger than the length of the skybox materials list.",
+   "There is no material in the list with the passed index.",
+   "Close E",
+   "Open E",
+   "Player",
+   "Close E ",
+   "Custom/Vintage",
+   "_YellowLevel",
+   "_CyanLevel",
+   "_MagentaLevel",
+   "_Yellow",
+   "_Cyan",
+   "_Magenta",
+   "Color/Red",
+   "{PLAYER_COLOR}",
+   "French",
+   "Term2",
+   "Term3",
+   "WINNER",
+   "Javier",
+   "NUM PLAYERS",
+   "Translate:",
+   "English -> Español",
+   "Español -> English",
+   "Multiple Translation with 1 call:\n'This is an example' -> en,zh\n'Hola' -> en",
+   "Multi Translate",
+   "Contacting Google....",
+   "This is an example",
+   "auto",
+   "zh",
+   "Hola",
+   "This is an example showing how to use the google translator to translate chat messages within the game.\nIt also supports multiline translations.",
+   "test",
+   "[I2split]{0}{1}",
+   "[$I2#@div$]",
+   "Error saving PlayerPrefs ",
+   "[I2split]",
+   "Error loading PlayerPrefs ",
+   "Error deleting PlayerPrefs ",
+   "Error saving file '",
+   "'\n",
+   "Error loading file '",
+   "Error deleting file '",
+   "Error requesting file '",
+   "Any",
+   "PC",
+   "Touch",
+   "Controller",
+   "VR",
+   "XBox",
+   "PS4",
+   "PS5",
+   "OculusVR",
+   "ViveVR",
+   "GearVR",
+   "Android",
+   "IOS",
+   "Switch",
+   "[i2s_",
+   "]",
+   " /(),",
+   "Language '",
+   "' not recognized. Please, add the language code to GoogleTranslation.cs",
+   " [",
+   "Plural",
+   "Zero",
+   "One",
+   "Two",
+   "Few",
+   "Many",
+   "Abkhazian",
+   "ab",
+   "Afar",
+   "aa",
+   "Afrikaans",
+   "af",
+   "Akan",
+   "ak",
+   "Albanian",
+   "sq",
+   "Amharic",
+   "am",
+   "Arabic/Algeria",
+   "ar-DZ",
+   "Arabic/Bahrain",
+   "ar-BH",
+   "Arabic/Egypt",
+   "ar-EG",
+   "Arabic/Iraq",
+   "ar-IQ",
+   "Arabic/Jordan",
+   "ar-JO",
+   "Arabic/Kuwait",
+   "ar-KW",
+   "Arabic/Lebanon",
+   "ar-LB",
+   "Arabic/Libya",
+   "ar-LY",
+   "Arabic/Morocco",
+   "ar-MA",
+   "Arabic/Oman",
+   "ar-OM",
+   "Arabic/Qatar",
+   "ar-QA",
+   "Arabic/Saudi Arabia",
+   "ar-SA",
+   "Arabic/Syria",
+   "ar-SY",
+   "Arabic/Tunisia",
+   "ar-TN",
+   "Arabic/U.A.E.",
+   "ar-AE",
+   "Arabic/Yemen",
+   "ar-YE",
+   "Aragonese",
+   "an",
+   "Armenian",
+   "hy",
+   "Assamese",
+   "as",
+   "Avaric",
+   "av",
+   "Avestan",
+   "ae",
+   "Aymara",
+   "ay",
+   "Azerbaijani",
+   "az",
+   "Bambara",
+   "bm",
+   "Bashkir",
+   "ba",
+   "Basque",
+   "eu",
+   "Basque/Spain",
+   "eu-ES",
+   "Belarusian",
+   "be",
+   "Bengali",
+   "bn",
+   "Bihari",
+   "bh",
+   "Bislama",
+   "bi",
+   "Bosnian",
+   "bs",
+   "Breton",
+   "br",
+   "Bulgariaa",
+   "bg",
+   "Burmese",
+   "my",
+   "Catalan",
+   "ca",
+   "Chamorro",
+   "ch",
+   "Chechen",
+   "ce",
+   "Chichewa",
+   "ny",
+   "Chinese",
+   "Chinese/Hong Kong",
+   "zh-HK",
+   "Chinese/Macau",
+   "zh-MO",
+   "Chinese/PRC",
+   "Chinese/Simplified",
+   "Chinese/Singapore",
+   "zh-SG",
+   "Chinese/Taiwan",
+   "Chinese/Traditional",
+   "Chuvash",
+   "cv",
+   "Cornish",
+   "kw",
+   "Corsican",
+   "co",
+   "Cree",
+   "cr",
+   "Croatian",
+   "Croatian/Bosnia and Herzegovina",
+   "hr-BA",
+   "Czech",
+   "cs",
+   "Danish",
+   "da",
+   "Divehi",
+   "dv",
+   "Dutch/Belgium",
+   "nl-BE",
+   "Dutch/Netherlands",
+   "nl-NL",
+   "Dzongkha",
+   "dz",
+   "English/Australia",
+   "en-AU",
+   "English/Belize",
+   "en-BZ",
+   "English/Canada",
+   "en-CA",
+   "English/Caribbean",
+   "en-CB",
+   "English/Ireland",
+   "en-IE",
+   "English/Jamaica",
+   "en-JM",
+   "English/New Zealand",
+   "en-NZ",
+   "English/Republic of the Philippines",
+   "en-PH",
+   "English/South Africa",
+   "en-ZA",
+   "English/Trinidad",
+   "en-TT",
+   "English/United Kingdom",
+   "en-GB",
+   "English/United States",
+   "en-US",
+   "English/Zimbabwe",
+   "en-ZW",
+   "Esperanto",
+   "eo",
+   "Estonian",
+   "et",
+   "Ewe",
+   "ee",
+   "Faeroese",
+   "fo",
+   "Fijian",
+   "fj",
+   "Finnish",
+   "fi",
+   "French/Belgium",
+   "fr-BE",
+   "French/Canada",
+   "fr-CA",
+   "French/France",
+   "fr-FR",
+   "French/Luxembourg",
+   "fr-LU",
+   "French/Principality of Monaco",
+   "fr-MC",
+   "French/Switzerland",
+   "fr-CH",
+   "Fulah",
+   "ff",
+   "Galician",
+   "gl",
+   "Galician/Spain",
+   "gl-ES",
+   "Georgian",
+   "ka",
+   "German",
+   "German/Austria",
+   "de-AT",
+   "German/Germany",
+   "de-DE",
+   "German/Liechtenstein",
+   "de-LI",
+   "German/Luxembourg",
+   "de-LU",
+   "German/Switzerland",
+   "de-CH",
+   "Greek",
+   "el",
+   "Guaraní",
+   "gn",
+   "Gujarati",
+   "gu",
+   "Haitian",
+   "ht",
+   "Hausa",
+   "ha",
+   "Hebrew",
+   "he",
+   "iw",
+   "Herero",
+   "hz",
+   "Hiri Motu",
+   "ho",
+   "Hungarian",
+   "hu",
+   "Interlingua",
+   "ia",
+   "Indonesian",
+   "id",
+   "Interlingue",
+   "ie",
+   "Irish",
+   "ga",
+   "Igbo",
+   "ig",
+   "Inupiaq",
+   "ik",
+   "Ido",
+   "io",
+   "Icelandic",
+   "is",
+   "Italian/Italy",
+   "it-IT",
+   "Italian/Switzerland",
+   "it-CH",
+   "Inuktitut",
+   "iu",
+   "Javanese",
+   "jv",
+   "Kalaallisut",
+   "kl",
+   "Kannada",
+   "kn",
+   "Kanuri",
+   "kr",
+   "Kashmiri",
+   "ks",
+   "Kazakh",
+   "kk",
+   "Central Khmer",
+   "km",
+   "Kikuyu",
+   "ki",
+   "Kinyarwanda",
+   "rw",
+   "Kirghiz",
+   "ky",
+   "Komi",
+   "kv",
+   "Kongo",
+   "kg",
+   "Kurdish",
+   "ku",
+   "Kuanyama",
+   "kj",
+   "Latin",
+   "la",
+   "Luxembourgish",
+   "lb",
+   "Ganda",
+   "lg",
+   "Limburgan",
+   "li",
+   "Lingala",
+   "ln",
+   "Lao",
+   "lo",
+   "Latvian",
+   "lv",
+   "Luba-Katanga",
+   "lu",
+   "Lithuanian",
+   "lt",
+   "Manx",
+   "gv",
+   "Macedonian",
+   "mk",
+   "Malagasy",
+   "mg",
+   "Malay",
+   "ms",
+   "Malay/Brunei Darussalam",
+   "ms-BN",
+   "Malay/Malaysia",
+   "ms-MY",
+   "Malayalam",
+   "ml",
+   "Maltese",
+   "mt",
+   "Maori",
+   "mi",
+   "Marathi",
+   "mr",
+   "Marshallese",
+   "mh",
+   "Mongolian",
+   "mn",
+   "Nauru",
+   "na",
+   "Navajo",
+   "nv",
+   "North Ndebele",
+   "nd",
+   "Nepali",
+   "ne",
+   "Ndonga",
+   "ng",
+   "Northern Sotho",
+   "ns",
+   "st",
+   "Norwegian",
+   "nb",
+   "no",
+   "Norwegian/Nynorsk",
+   "nn",
+   "Sichuan Yi",
+   "ii",
+   "South Ndebele",
+   "nr",
+   "Occitan",
+   "oc",
+   "Ojibwa",
+   "oj",
+   "Church Slavic",
+   "cu",
+   "Oromo",
+   "om",
+   "Oriya",
+   "or",
+   "Ossetian",
+   "os",
+   "Pali",
+   "pi",
+   "Pashto",
+   "ps",
+   "Persian",
+   "fa",
+   "Polish",
+   "pl",
+   "pt",
+   "Portuguese/Brazil",
+   "Portuguese/Portugal",
+   "pt-PT",
+   "Punjabi",
+   "pa",
+   "Quechua",
+   "qu",
+   "Quechua/Bolivia",
+   "qu-BO",
+   "Quechua/Ecuador",
+   "qu-EC",
+   "Quechua/Peru",
+   "qu-PE",
+   "Rhaeto-Romanic",
+   "rm",
+   "ro",
+   "Romanian",
+   "Rundi",
+   "rn",
+   "Russian/Republic of Moldova",
+   "ru-MO",
+   "Sanskrit",
+   "sa",
+   "Sardinian",
+   "sc",
+   "Sindhi",
+   "sd",
+   "Northern Sami",
+   "se",
+   "Samoan",
+   "sm",
+   "Sango",
+   "sg",
+   "Serbian",
+   "sr",
+   "Serbian/Bosnia and Herzegovina",
+   "sr-BA",
+   "Serbian/Serbia and Montenegro",
+   "sr-SP",
+   "Scottish Gaelic",
+   "gd",
+   "Shona",
+   "sn",
+   "Sinhala",
+   "si",
+   "Slovak",
+   "sk",
+   "Slovenian",
+   "sl",
+   "Somali",
+   "so",
+   "Southern Sotho",
+   "Spanish/Argentina",
+   "es-AR",
+   "Spanish/Bolivia",
+   "es-BO",
+   "Spanish/Castilian",
+   "es-ES",
+   "Spanish/Chile",
+   "es-CL",
+   "Spanish/Colombia",
+   "es-CO",
+   "Spanish/Costa Rica",
+   "es-CR",
+   "Spanish/Dominican Republic",
+   "es-DO",
+   "Spanish/Ecuador",
+   "es-EC",
+   "Spanish/El Salvador",
+   "es-SV",
+   "Spanish/Guatemala",
+   "es-GT",
+   "Spanish/Honduras",
+   "es-HN",
+   "Spanish/Mexico",
+   "es-MX",
+   "Spanish/Nicaragua",
+   "es-NI",
+   "Spanish/Panama",
+   "es-PA",
+   "Spanish/Paraguay",
+   "es-PY",
+   "Spanish/Peru",
+   "es-PE",
+   "Spanish/Puerto Rico",
+   "es-PR",
+   "Spanish/Spain",
+   "Spanish/Uruguay",
+   "es-UY",
+   "Spanish/Venezuela",
+   "es-VE",
+   "Spanish/Latin Americas",
+   "es-US",
+   "Sundanese",
+   "su",
+   "Swahili",
+   "sw",
+   "Swati",
+   "ss",
+   "Swedish",
+   "sv",
+   "Swedish/Finland",
+   "sv-FI",
+   "Swedish/Sweden",
+   "sv-SE",
+   "Tamil",
+   "ta",
+   "Tatar",
+   "tt",
+   "Telugu",
+   "te",
+   "Tajik",
+   "tg",
+   "Tigrinya",
+   "ti",
+   "Tibetan",
+   "bo",
+   "Turkmen",
+   "tk",
+   "Tagalog",
+   "tl",
+   "Tswana",
+   "tn",
+   "Tonga",
+   "to",
+   "Turkish",
+   "tr",
+   "Tsonga",
+   "ts",
+   "Twi",
+   "tw",
+   "Tahitian",
+   "ty",
+   "Uighur",
+   "ug",
+   "Ukrainian",
+   "uk",
+   "Urdu",
+   "ur",
+   "Uzbek",
+   "uz",
+   "Venda",
+   "ve",
+   "Vietnamese",
+   "vi",
+   "Volapük",
+   "vo",
+   "Walloon",
+   "wa",
+   "Welsh",
+   "cy",
+   "Wolof",
+   "wo",
+   "Frisian",
+   "fy",
+   "Xhosa",
+   "xh",
+   "Yiddish",
+   "yi",
+   "Yoruba",
+   "yo",
+   "Zhuang",
+   "za",
+   "Zulu",
+   "zu",
+   "WebService is not set correctly or needs to be reinstalled",
+   "<I2Loc>",
+   "=",
+   "<!DOCTYPE html>",
+   "<HTML>",
+   "The script completed but did not return anything",
+   "The current Google WebService is not supported.\nPlease, delete the WebService from the Google Drive and Install the latest version.",
+   "Service invoked too many times in a short time",
+   "There was a problem contacting the WebService. Please try again later\n",
+   "<i2>",
+   "{[#",
+   "[i2p_",
+   "{[",
+   "]}",
+   "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++",
+   "\\{\\[(.*?)]}|\\[(.*?)]|\\<(.*?)>",
+   "i2nt",
+   "[i2p_{0}]",
+   "?action=Translate&list=",
+   "action",
+   "Translate",
+   "list",
+   "|||",
+   "http://www.google.com/translate_t?hl=en&vi=c&ie=UTF8&oe=UTF8&submit=Translate&langpair={0}|{1}&text={2}",
+   "aab",
+   "TRANSLATED_TEXT='",
+   "';var",
+   "\\\\x([a-fA-F0-9]{2})",
+   "&#(\\d+);",
+   "<br>",
+   "[i2t]",
+   "[i2fb]",
+   "Key[*]Type[*]Desc",
+   "[*]",
+   "[ln]",
+   "'",
+   "Key{0}Type{0}Desc",
+   "[{0}]",
+   "\\n",
+   "\n\"",
+   "\"",
+   "\"\"",
+   "\"{0}\"",
+   "\"{0}{1}\"",
+   "key",
+   "SetLanguageSource",
+   "data",
+   "updateMode",
+   "Key",
+   "Type",
+   "Desc",
+   "Description",
+   "Bad Spreadsheet Format.\nFirst columns should be 'Key', 'Type' and 'Desc'",
+   "touch",
+   "I2Source_",
+   ".loc",
+   "[i2e]",
+   "I2SourceVersion_",
+   "LastGoogleUpdate_",
+   "Done Google Sync",
+   "Done Google Sync: source was up-to-date",
+   "{0}?key={1}&action=GetLanguageSource&version={2}",
+   "version=",
+   "script_version=",
+   "Invalid Response from Google, Most likely the WebService needs to be updated",
+   "LanguageSource is up-to-date",
+   "[i2category]",
+   "[/i2category]",
+   "[/i2csv]",
+   "( )-/\\",
+   "(/\\[,{",
+   "LangSource_",
+   "Language {0} has no name, please assign a name to the language or it may not show on a build",
+   "---",
+   "<!-Missing Translation [",
+   "]-!>",
+   "Missing Translation for '",
+   "Default",
+   "/\\",
+   "\r",
+   "//",
+   "<\\n>",
+   "LOC:",
+   "2.8.22 f6",
+   "[(",
+   "])",
+   " -_/\\",
+   "I2 Language",
+   "ChineseSimplified",
+   "Chinese (Simplified)",
+   "ChineseTraditional",
+   "Chinese (Traditional)",
+   "ji",
+   "I2Languages",
+   "TextMeshPro Label",
+   " .\\/-[]()",
+   "TextMeshPro UGUI",
+   "AudioSource",
+   "Child",
+   "MeshRenderer",
+   "Prefab",
+   "SpriteRenderer",
+   "TextMesh",
+   "VideoPlayer",
+   "Image",
+   "RawImage",
+   "Text",
+   "[i2nt]",
+   "[/i2nt]",
+   "_Coroutiner",
+   ".-_$#@*()[]{}+:?!&',^=<>~`",
+   "\\Resources\\",
+   "\\Resources/",
+   "/Resources\\",
+   "/Resources/",
+   "I2ResourceManager",
+   "Unable to load {0} '{1}'\nERROR: {2}",
+   "ÝúbUu¸CÁÂ§*4PÚ©-á©¾@T6Dl±ÒWâuzÅm4GÐóØ$=Íg,¥Që®iKEßr¡×60Ít4öÃ~^«y:Èd1<QÛÝúbUu¸CÁÂ§*4PÚ©-á©¾@T6Dl±ÒWâuzÅm4GÐóØ$=Íg,¥Që®iKEßr¡×60Ít4öÃ~^«y:Èd",
+   "JSONNode",
+   "false",
+   "true",
+   "\\\\",
+   "\\\"",
+   "\\r",
+   "\\t",
+   "\\b",
+   "\\f",
+   "JSON Parse: Too many closing brackets",
+   "\t",
+   "\b",
+   "\f",
+   "JSON Parse: Quotation marks seems to be messed up.",
+   "Can't use compressed functions. You need include the SharpZipLib and uncomment the define at the top of SimpleJSON",
+   "Error deserializing JSON. Unknown tag: ",
+   "[ ",
+   " ]",
+   "   ",
+   "{",
+   "\":",
+   "}",
+   "{ ",
+   "\" : ",
+   "UI Extensions/Particles/Additive",
+   "/CharacterCustomizer.json",
+   "#",
+   "_Tint_R",
+   "_Tint_G",
+   "_Tint_B",
+   "_Print",
+   "T_Transparent",
+   "Height",
+   "Width",
+   "_Hair_Color",
+   "_BaseColor",
+   "VerticalSpeed",
+   "HorizontalSpeed",
+   "ForwardSpeed",
+   "StrafeSpeed",
+   "IsGrounded",
+   "IsStrafing",
+   "OnLand",
+   "FootStep",
+   "No camera controller reference has been assigned to this script.",
+   "No controller script has been assigned to this 'TurnTowardControllerVelocity' component!",
+   "No target transform has been assigned to this script.",
+   "No camera input script has been attached to this gameobject",
+   "No camera transform has been assigned.",
+   "No camera target transform has been assigned.",
+   "No controller reference has been assigned to this script.",
+   "No character input script has been attached to this gameobject",
+   "There is no collider attached to ",
+   "!",
+   "No waypoints have been assigned to 'MovingPlatform'!",
+   "Joystick X",
+   "Joystick Y",
+   "RJoystick X",
+   "RJoystick Y",
+   "RJoystick X PS",
+   "RJoystick Y PS",
+   "Horizontal",
+   "Vertical",
+   "ETFXFireProjectile",
+   "Button",
+   "EffectLoop",
+   "No light object found on ",
+   "file://",
+   "Error loading image from ",
+   ": ",
+   "yyyyMMdd-HHmmss",
+   "-D",
+   "ExitPhoneTakePhotoMode",
+   "PlayCard_IceBurst",
+   "BGM_FightOpening",
+   "BGM_FightLoop",
+   "PlayCardTurnSelectShuffleA",
+   "PlayCardTurnSelectShuffleB",
+   "PlayCard_Shuffle2",
+   "no trigger card",
+   "Switching turn",
+   "Shelf data not loaded properly",
+   "Loading_FadeOut",
+   "HasFinishedTutorial",
+   "DelayLoadLobbyScene",
+   "percentDone ",
+   "PoolingObject_Grp",
+   "Error: ",
+   "Dropdown List",
+   "Name",
+   "Picture has been saved at:\n",
+   "Spreadsheet is not up-to-date and Google Live Synchronization is enabled\nWhen playing in the device the Spreadsheet will be downloaded and translations may not behave as what you see in the editor.\nTo fix this, Import or Export replace to Google",
+   "Language Source was up-to-date with Google Spreadsheet"
+  ]
+ },
+ "Assembly-CSharp-firstpass.dll": {
+  "likely_ui_text": [
+   {
+    "text": "You can't pass a NULL string to DOText: an empty string will be used instead to avoid errors",
+    "ru": ""
+   },
+   {
+    "text": "{0} :: This DOTweenAnimation isn't valid and its tween won't be created",
+    "ru": ""
+   },
+   {
+    "text": "{0} :: This DOTweenAnimation's target is NULL, because the animation was created with a DOTween Pro version older than 0.9.255. To fix this, exit Play mode then simply select this object, and it will update automatically",
+    "ru": ""
+   },
+   {
+    "text": "{0} :: This DOTweenAnimation's target/GameObject is unset: the tween will not be created.",
+    "ru": ""
+   },
+   {
+    "text": "{0} :: This tween's TO target is NULL, a Vector3 of (0,0,0) will be used instead",
+    "ru": ""
+   },
+   {
+    "text": "{0} :: This tween's TO target should be a RectTransform, a Vector3 of (0,0,0) will be used instead",
+    "ru": ""
+   },
+   {
+    "text": "{0} :: This tween's target and TO target are not of the same type. Please reassign the values",
+    "ru": ""
+   },
+   {
+    "text": "DOTweenAnimation ► SetAnimationTarget: the new target is of a different type from the one set in the Inspector",
+    "ru": ""
+   },
+   {
+    "text": " ► tween doesn't exist",
+    "ru": ""
+   }
+  ],
+  "all_literals": [
+   "You can't pass a NULL string to DOText: an empty string will be used instead to avoid errors",
+   "Stub",
+   "{0} :: This DOTweenAnimation isn't valid and its tween won't be created",
+   "{0} :: This DOTweenAnimation's target is NULL, because the animation was created with a DOTween Pro version older than 0.9.255. To fix this, exit Play mode then simply select this object, and it will update automatically",
+   "{0} :: This DOTweenAnimation's target/GameObject is unset: the tween will not be created.",
+   "{0} :: This tween's TO target is NULL, a Vector3 of (0,0,0) will be used instead",
+   "{0} :: This tween's TO target should be a RectTransform, a Vector3 of (0,0,0) will be used instead",
+   "{0} :: This tween's target and TO target are not of the same type. Please reassign the values",
+   "DOTweenAnimation ► SetAnimationTarget: the new target is of a different type from the one set in the Inspector",
+   "DoGotoAndPause",
+   "DOGotoAndPlay",
+   " ► tween doesn't exist",
+   ".",
+   "Renderer",
+   "SpriteRenderer",
+   "RawImage",
+   "Graphic",
+   "Image",
+   "N0"
+  ]
+ }
+}

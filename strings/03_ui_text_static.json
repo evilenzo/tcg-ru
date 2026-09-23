@@ -1,0 +1,4528 @@
+[
+ {
+  "text": "Option A",
+  "ru": "",
+  "occurrences": 106,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9147,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Resolution_TMP/Resolution Dropdown/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 9149,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Refresh Rate_TMP/Resolution Dropdown/Template/Viewport/Content/Item/Item Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 9151,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/FPS Text_TMP/FPS Dropdown/Template/Viewport/Content/Item/Item Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 9154,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Quality Preset_TMP/Quality Dropdown/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 9156,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Refresh Rate_TMP/Resolution Dropdown/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 9157,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Resolution_TMP/Resolution Dropdown/Template/Viewport/Content/Item/Item Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 9158,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Quality Preset_TMP/Quality Dropdown/Template/Viewport/Content/Item/Item Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 9164,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/FPS Text_TMP/FPS Dropdown/Label"
+   }
+  ]
+ },
+ {
+  "text": "Lv 5",
+  "ru": "",
+  "occurrences": 8,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9152,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/ShopLevel"
+   },
+   {
+    "file": "level0",
+    "path_id": 9292,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (4)/TopUIGrp/UIGrp/Mask/UIGroup/ShopLevel"
+   },
+   {
+    "file": "level0",
+    "path_id": 9293,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/ShopLevel"
+   },
+   {
+    "file": "level0",
+    "path_id": 9295,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (5)/TopUIGrp/UIGrp/Mask/UIGroup/ShopLevel"
+   },
+   {
+    "file": "level1",
+    "path_id": 315501,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/ShopLevel"
+   },
+   {
+    "file": "level1",
+    "path_id": 315502,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (4)/TopUIGrp/UIGrp/Mask/UIGroup/ShopLevel"
+   },
+   {
+    "file": "level1",
+    "path_id": 315505,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (5)/TopUIGrp/UIGrp/Mask/UIGroup/ShopLevel"
+   },
+   {
+    "file": "level1",
+    "path_id": 318452,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/ShopLevel"
+   }
+  ]
+ },
+ {
+  "text": "Refresh Rate",
+  "ru": "",
+  "occurrences": 6,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9159,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Refresh Rate_TMP"
+   },
+   {
+    "file": "level0",
+    "path_id": 9285,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Refresh Rate_TMP"
+   },
+   {
+    "file": "level0",
+    "path_id": 9521,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Refresh Rate"
+   },
+   {
+    "file": "level1",
+    "path_id": 308160,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Refresh Rate_TMP"
+   },
+   {
+    "file": "level1",
+    "path_id": 312014,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Refresh Rate_TMP"
+   },
+   {
+    "file": "level1",
+    "path_id": 313138,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Refresh Rate"
+   }
+  ]
+ },
+ {
+  "text": "A",
+  "ru": "",
+  "occurrences": 130,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9169,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (28)/Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 9223,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindKeyboardScreen/KeybingSettingGrp (11)/Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 9224,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindKeyboardScreen/KeybingSettingGrp (3)/Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 9225,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindKeyboardScreen/KeybingSettingGrp (1)/Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 9226,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindKeyboardScreen/KeybingSettingGrp (17)/Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 9227,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindKeyboardScreen/KeybingSettingGrp (6)/Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 9228,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindKeyboardScreen/KeybingSettingGrp (10)/Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 9229,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindKeyboardScreen/KeybingSettingGrp (7)/Text"
+   }
+  ]
+ },
+ {
+  "text": "Action Name",
+  "ru": "",
+  "occurrences": 89,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9174,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (27)/InputTooltipUI/UIGrp/ActionText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9179,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (30)/InputTooltipUI/UIGrp/ActionText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9207,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (34)/InputTooltipUI/UIGrp/ActionText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9248,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (29)/InputTooltipUI/UIGrp/ActionText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9252,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (23)/InputTooltipUI/UIGrp/ActionText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9258,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (25)/InputTooltipUI/UIGrp/ActionText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9264,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (35)/InputTooltipUI/UIGrp/ActionText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9276,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (31)/InputTooltipUI/UIGrp/ActionText"
+   }
+  ]
+ },
+ {
+  "text": "F",
+  "ru": "",
+  "occurrences": 93,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9175,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (36)/InputTooltipUI/UIGrp/KeycodeText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9176,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (32)/InputTooltipUI/UIGrp/KeycodeText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9178,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (21)/InputTooltipUI/UIGrp/KeycodeText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9204,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (20)/InputTooltipUI/UIGrp/KeycodeText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9209,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (31)/InputTooltipUI/UIGrp/KeycodeText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9212,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindKeyboardScreen/KeybingSettingGrp/InputTooltipUI/UIGrp/KeycodeText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9241,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (25)/InputTooltipUI/UIGrp/KeycodeText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9247,
+    "object": "Canvas/SettingScreen/ScreenGrp/ControlKeybindScreen/UIGroup/KeybindControllerScreen/KeybingSettingGrp (35)/InputTooltipUI/UIGrp/KeycodeText"
+   }
+  ]
+ },
+ {
+  "text": "©2024 OPNeon Games - Sia Ding Shen",
+  "ru": "",
+  "occurrences": 536,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9180,
+    "object": "Canvas/LoadingScreen/ScreenGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText/CompanyText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9396,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/SavingScreenPleaseWait/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText/CompanyText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304418,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/TournamentPrizeUIGrp/ItemImageLayoutGrp/CardGroup (5)/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText/CompanyText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304488,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/TournamentPrizeUIGrp (2)/ItemImageLayoutGrp/CardGroup (4)/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText/CompanyText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304489,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/TournamentPrizeUIGrp (3)/ItemImageLayoutGrp/CardGroup (4)/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText/CompanyText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304490,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/TournamentPrizeUIGrp (1)/ItemImageLayoutGrp/CardGroup (4)/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText/CompanyText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304579,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/TournamentPrizeUIGrp/ItemImageLayoutGrp/CardGroup (7)/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText/CompanyText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304690,
+    "object": "Canvas/DeckEditCanvasGrp/DeckEditScreen_Grp/ScreenGrp/AnimGrp/Mask/DeckCardEditPanelUI/TopUIGrp/UIGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText/CompanyText"
+   }
+  ]
+ },
+ {
+  "text": "USD",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9182,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/CurrencyType (Custom)/Currency Dropdown/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 313099,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/CurrencyType (Custom)/Currency Dropdown/Label"
+   }
+  ]
+ },
+ {
+  "text": "Gem Mint",
+  "ru": "",
+  "occurrences": 592,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9197,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/SavingScreenPleaseWait/CardGroup/AnimGrp/GradedCardCase/GradeText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9451,
+    "object": "Canvas/LoadingScreen/ScreenGrp/CardGroup/AnimGrp/GradedCardCase/GradeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304517,
+    "object": "CanvasWorldspace/CanvasGrp/CollectionBinderGrp/AnimGrp/BinderPageGrp1/BinderPage/root/Row2_LOC/Card2_LOC/Card3dUIGroup (4)/AnimGrp/ScaleGrp/CardGroup/AnimGrp/GradedCardCase/GradeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304518,
+    "object": "CanvasWorldspace/CanvasGrp/CollectionBinderGrp/AnimGrp/BinderPageGrp1/BinderPage/root/Row3_LOC/Card6_LOC/Card3dUIGroup (7)/AnimGrp/ScaleGrp/CardGroup/AnimGrp/GradedCardCase/GradeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304519,
+    "object": "CanvasWorldspace/CanvasGrp/CollectionBinderGrp/AnimGrp/BinderPageGrp2/BinderPage/root/Row2_LOC/Card2_LOC/Card3dUIGroup (4)/AnimGrp/ScaleGrp/CardGroup/AnimGrp/GradedCardCase/GradeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304520,
+    "object": "CanvasWorldspace/CanvasGrp/CollectionBinderGrp/AnimGrp/BinderPageGrp2/BinderPage/root/Row3_LOC/Card6_LOC/Card3dUIGroup (7)/AnimGrp/ScaleGrp/CardGroup/AnimGrp/GradedCardCase/GradeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304521,
+    "object": "CanvasWorldspace/CanvasGrp/CollectionBinderGrp/AnimGrp/BinderPageGrp2/BinderPage/root/Row3_LOC/Card3_LOC/Card3dUIGroup (6)/AnimGrp/ScaleGrp/CardGroup/AnimGrp/GradedCardCase/GradeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304522,
+    "object": "CanvasWorldspace/CanvasGrp/CollectionBinderGrp/AnimGrp/BinderPageGrp2/BinderPage/root/Row6_LOC/Card9_LOC/Card3dUIGroup (12)/AnimGrp/ScaleGrp/CardGroup/AnimGrp/GradedCardCase/GradeText"
+   }
+  ]
+ },
+ {
+  "text": "EX",
+  "ru": "",
+  "occurrences": 536,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9218,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/SavingScreenPleaseWait/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/FirstEditionTextGrp/FirstEditionText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9353,
+    "object": "Canvas/LoadingScreen/ScreenGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/FirstEditionTextGrp/FirstEditionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304484,
+    "object": "Canvas/SetItemPriceScreen_Grp/ScreenGrp/AnimGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/FirstEditionTextGrp/FirstEditionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304577,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaA/CardSelectGrp/CardGoFirst/AnimGrp/ScaleGrp/CardGroup/AnimGrp/CardFront (1)/CardGrp/AnimGrp/FirstEditionTextGrp/FirstEditionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304600,
+    "object": "CanvasWorldspace/CanvasGrp/GradedCardOpeningSequence/CardOpeningGrp/CardGrp/RevealCard_1/AnimGrp/ScaleGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/FirstEditionTextGrp/FirstEditionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 306118,
+    "object": "CanvasWorldspace/CanvasGrp/GradedCardOpeningSequence/CardOpeningGrp/CardGrp/Card3dUIGroup (6)/AnimGrp/ScaleGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/FirstEditionTextGrp/FirstEditionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307106,
+    "object": "Canvas/PlayCardSetUIScreenGrp/PlayCardSetUIScreen_SearchCardSelection/ScreenGrp/DisplayCardInfoScreen/CardParentTopGrp/PlayCardSearchSelectionCardUI (23)/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/FirstEditionTextGrp/FirstEditionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307107,
+    "object": "Canvas/PlayCardSetUIScreenGrp/PlayCardSetUIScreen_SearchCardSelection/ScreenGrp/DisplayCardInfoScreen/CardParentTopGrp/PlayCardSearchSelectionCardUI (31)/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/FirstEditionTextGrp/FirstEditionText"
+   }
+  ]
+ },
+ {
+  "text": "Drain 50% of damage dealt this turn",
+  "ru": "",
+  "occurrences": 536,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9256,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/SavingScreenPleaseWait/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/DescriptionGrp/DescriptionText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9511,
+    "object": "Canvas/LoadingScreen/ScreenGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/DescriptionGrp/DescriptionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304438,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI_B/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaA/CardSelectGrp/CardGoSecond /AnimGrp/ScaleGrp/CardGroup/AnimGrp/CardFront (1)/CardGrp/AnimGrp/EvoAndArtistNameGrp/DescriptionGrp/DescriptionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304487,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaB/CardSelectGrp/CardGoFirst/AnimGrp/ScaleGrp/CardGroup/AnimGrp/CardFront (1)/CardGrp/AnimGrp/EvoAndArtistNameGrp/DescriptionGrp/DescriptionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305196,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI_B/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaB/CardSelectGrp/CardGoSecond/AnimGrp/ScaleGrp/CardGroup/AnimGrp/CardFront (1)/CardGrp/AnimGrp/EvoAndArtistNameGrp/DescriptionGrp/DescriptionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305264,
+    "object": "CanvasWorldspace/CanvasGrp/GradedCardOpeningSequence/CardOpeningGrp/CardGrp/Card3dUIGroup (3)/AnimGrp/ScaleGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/DescriptionGrp/DescriptionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305337,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/BulkDonationBoxCardPanelUI/TopUIGrp/UIGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/DescriptionGrp/DescriptionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305455,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/TournamentPrizeUIGrp/ItemImageLayoutGrp/CardGroup (1)/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/DescriptionGrp/DescriptionText"
+   }
+  ]
+ },
+ {
+  "text": "Illus. Bosgarong",
+  "ru": "",
+  "occurrences": 536,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9272,
+    "object": "Canvas/LoadingScreen/ScreenGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9536,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/SavingScreenPleaseWait/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304297,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaB/CardSelectGrp/CardGoFirst/AnimGrp/ScaleGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304301,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaA/CardSelectGrp/CardGoSecond /AnimGrp/ScaleGrp/CardGroup/AnimGrp/CardFront (1)/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304651,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaB/CardSelectGrp/CardGoSecond/AnimGrp/ScaleGrp/CardGroup/AnimGrp/CardFront (1)/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304800,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/HorizontalLayout (3)/BulkDonationBoxCardPanelUI (6)/TopUIGrp/UIGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304801,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/HorizontalLayout (2)/BulkDonationBoxCardPanelUI (5)/TopUIGrp/UIGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304802,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/HorizontalLayout (1)/BulkDonationBoxCardPanelUI (4)/TopUIGrp/UIGrp/CardGroup/AnimGrp/CardFront/CardGrp/AnimGrp/EvoAndArtistNameGrp/ArtistGrp/ArtistText"
+   }
+  ]
+ },
+ {
+  "text": "V0.13",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9298,
+    "object": "Canvas/TitleScreen/ScreenGrp/VersionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304226,
+    "object": "Canvas/PauseScreen/ScreenGrp/VersionText"
+   }
+  ]
+ },
+ {
+  "text": "Full Version",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9309,
+    "object": "Canvas/TitleScreen/ScreenGrp/AnimGrp/DiscordBtn/AnimGrp/BGBarGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 321907,
+    "object": "Canvas/PauseScreen/ScreenGrp/AnimGrp/DiscordBtn/AnimGrp/BGBarGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "Input Shop Name",
+  "ru": "",
+  "occurrences": 11,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9310,
+    "object": "Canvas/ConfirmOverwriteSaveScreen/ScreenGrp/AnimGrp/TitleText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9320,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/LoadGameOverwriteAutoSaveSlotScreen/ScreenGrp/AnimGrp/TitleText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9415,
+    "object": "Canvas/SettingScreen/ScreenGrp/KeybindChangesConfirmScreen/ScreenGrp/AnimGrp/TitleText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9477,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ConfirmOverwriteSaveScreen/ScreenGrp/AnimGrp/TitleText"
+   },
+   {
+    "file": "level1",
+    "path_id": 303906,
+    "object": "Canvas/TranslateText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304008,
+    "object": "Canvas/ShopRenamerScreen/ConfirmShopNameScreen_Grp/ScreenGrp/AnimGrp/TitleText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304066,
+    "object": "Canvas/TutorialManager/IntroScreen_Grp/ScreenGrp/AnimGrp/TitleText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304086,
+    "object": "Canvas/CollectionBinderUI/GhostCardTutorialScreen/ScreenGrp/AnimGrp/TitleText"
+   }
+  ]
+ },
+ {
+  "text": "Francais",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9322,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/French_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 305930,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/French_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "English",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9323,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/English_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 305932,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/English_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "Italiano",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9324,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/Italian_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 305875,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/Italian_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "Deutsch",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9325,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/German_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 305880,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/German_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "Español",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9333,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/Spanish_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 305943,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/Spanish_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "Português (Brasil)",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9334,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/Portuguese_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 305956,
+    "object": "Canvas/SettingScreen/ScreenGrp/LanguageScreen/UIGroup/Portuguese_Button/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "Tetramon Full Art Holo",
+  "ru": "",
+  "occurrences": 592,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9335,
+    "object": "Canvas/LoadingScreen/ScreenGrp/CardGroup/AnimGrp/GradedCardCase/RarityText"
+   },
+   {
+    "file": "level0",
+    "path_id": 9487,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/SavingScreenPleaseWait/CardGroup/AnimGrp/GradedCardCase/RarityText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304565,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/TournamentPrizeUIGrp (1)/ItemImageLayoutGrp/CardGroup (6)/AnimGrp/GradedCardCase/RarityText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304566,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/TournamentPrizeUIGrp (3)/ItemImageLayoutGrp/CardGroup (6)/AnimGrp/GradedCardCase/RarityText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304567,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/TournamentPrizeUIGrp (2)/ItemImageLayoutGrp/CardGroup (6)/AnimGrp/GradedCardCase/RarityText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304886,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaA/CardSelectGrp/CardGoFirst/AnimGrp/ScaleGrp/CardGroup/AnimGrp/GradedCardCase/RarityText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304887,
+    "object": "CanvasWorldspace/CanvasGrp/GradedCardOpeningSequence/CardOpeningGrp/CardGrp/Card3dUIGroup (6)/AnimGrp/ScaleGrp/GradingSlabGrp/GradingSlabCullGrp/RarityText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305291,
+    "object": "CanvasWorldspace/CanvasGrp/CollectionBinderGrp/AnimGrp/BinderPageGrp/BinderPage/root/Row6_LOC/Card12_LOC/Card3dUIGroup (13)/AnimGrp/ScaleGrp/CardGroup/AnimGrp/GradedCardCase/RarityText"
+   }
+  ]
+ },
+ {
+  "text": "WASD",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9383,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/KeyboardType (Custom)/Keyboard Dropdown/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 321456,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/KeyboardType (Custom)/Keyboard Dropdown/Label"
+   }
+  ]
+ },
+ {
+  "text": "7 Days",
+  "ru": "",
+  "occurrences": 11,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9400,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (4)/TopUIGrp/UIGrp/Mask/UIGroup/DaysPassed"
+   },
+   {
+    "file": "level0",
+    "path_id": 9402,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/DaysPassed"
+   },
+   {
+    "file": "level0",
+    "path_id": 9404,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (5)/TopUIGrp/UIGrp/Mask/UIGroup/DaysPassed"
+   },
+   {
+    "file": "level0",
+    "path_id": 9468,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/DaysPassed"
+   },
+   {
+    "file": "level1",
+    "path_id": 304281,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/RentBillScreenGrp/ScreenGrp/AnimGrp/RentBillPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/DueDay"
+   },
+   {
+    "file": "level1",
+    "path_id": 304582,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/DaysPassed"
+   },
+   {
+    "file": "level1",
+    "path_id": 311520,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/DaysPassed"
+   },
+   {
+    "file": "level1",
+    "path_id": 311522,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (4)/TopUIGrp/UIGrp/Mask/UIGroup/DaysPassed"
+   }
+  ]
+ },
+ {
+  "text": "Shop Name Here",
+  "ru": "",
+  "occurrences": 8,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9441,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (5)/TopUIGrp/UIGrp/Mask/UIGroup/ShopName"
+   },
+   {
+    "file": "level0",
+    "path_id": 9444,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (4)/TopUIGrp/UIGrp/Mask/UIGroup/ShopName"
+   },
+   {
+    "file": "level0",
+    "path_id": 9446,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/ShopName"
+   },
+   {
+    "file": "level0",
+    "path_id": 9483,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/ShopName"
+   },
+   {
+    "file": "level1",
+    "path_id": 305730,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/ShopName"
+   },
+   {
+    "file": "level1",
+    "path_id": 312096,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (5)/TopUIGrp/UIGrp/Mask/UIGroup/ShopName"
+   },
+   {
+    "file": "level1",
+    "path_id": 312102,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/ShopName"
+   },
+   {
+    "file": "level1",
+    "path_id": 312107,
+    "object": "Canvas/SaveLoadGameSlotSelectScreen/ScreenGrp/AnimGrp/SaveLoadSlotPanelUI (4)/TopUIGrp/UIGrp/Mask/UIGroup/ShopName"
+   }
+  ]
+ },
+ {
+  "text": "Camera Fov",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9561,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/CameraFOV (Custom)"
+   },
+   {
+    "file": "level1",
+    "path_id": 314302,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/CameraFOV (Custom)"
+   }
+  ]
+ },
+ {
+  "text": "Lens Distortion",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9708,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Lens Distortion Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 10629,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Lens Distortion Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 335185,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Lens Distortion Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 352923,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Lens Distortion Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Fog",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9728,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Fog (Custom)/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 11215,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Fog (Custom)/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 352968,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Fog (Custom)/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 388095,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Fog (Custom)/Label"
+   }
+  ]
+ },
+ {
+  "text": "Post Processing",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9744,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 10690,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 333973,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 352944,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "VSync",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9758,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/VSync Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 11355,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/VSync Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 352872,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/VSync Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 385114,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/VSync Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Film Grain",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9773,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Film Grain Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 11205,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Film Grain Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 352898,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Film Grain Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 388497,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Film Grain Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Bloom",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9784,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Bloom Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 12172,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Bloom Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 352885,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Bloom Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 370543,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Bloom Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Ambient Occlusion",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9832,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Ambient Occlusion Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 11859,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Ambient Occlusion Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 353043,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Ambient Occlusion Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 380544,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Ambient Occlusion Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Panini Projection",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9849,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Panini Projection Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 10817,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Panini Projection Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 339668,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Panini Projection Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 353095,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Panini Projection Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Screen Space Reflections",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9879,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Screen Space Reflections Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 11614,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Screen Space Reflections Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 353079,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Screen Space Reflections Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 379124,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Screen Space Reflections Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Motion Blur",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9885,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Motion Blur Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 10381,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Motion Blur Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 342800,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Motion Blur Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 352997,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Motion Blur Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Auto Exposure",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9929,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Auto Exposure Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 11256,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Auto Exposure Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 353028,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Auto Exposure Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 386665,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Auto Exposure Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Chromatic Aberration",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9930,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Chromatic Aberration Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 11108,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Chromatic Aberration Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 330496,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Chromatic Aberration Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 353027,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Chromatic Aberration Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Depth Of Field",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9943,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Depth Of Field Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 12269,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Depth Of Field Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 353014,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Depth Of Field Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 358171,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Depth Of Field Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Vignette",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 9952,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Vignette Toggle/Label"
+   },
+   {
+    "file": "level0",
+    "path_id": 12244,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Vignette Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 353021,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Post Processing Effects/Vignette Toggle/Label"
+   },
+   {
+    "file": "level1",
+    "path_id": 360188,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Post Processing Effects/Vignette Toggle/Label"
+   }
+  ]
+ },
+ {
+  "text": "Anti Aliasing",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10003,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Anti Aliasing"
+   },
+   {
+    "file": "level0",
+    "path_id": 12348,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Anti Aliasing"
+   },
+   {
+    "file": "level1",
+    "path_id": 350977,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Anti Aliasing"
+   },
+   {
+    "file": "level1",
+    "path_id": 358161,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Anti Aliasing"
+   }
+  ]
+ },
+ {
+  "text": "Graphic Device:",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10170,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Graphic Device - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 330924,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Graphic Device - Text"
+   }
+  ]
+ },
+ {
+  "text": "Sphere Speed",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10209,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Sphere Speed (Custom)"
+   },
+   {
+    "file": "level0",
+    "path_id": 12317,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Sphere Speed (Custom)"
+   },
+   {
+    "file": "level1",
+    "path_id": 354530,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Sphere Speed (Custom)"
+   },
+   {
+    "file": "level1",
+    "path_id": 358066,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Sphere Speed (Custom)"
+   }
+  ]
+ },
+ {
+  "text": "Avg",
+  "ru": "",
+  "occurrences": 10,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10259,
+    "object": "FPSDisplay/Monitor/Performance - Window/CPU Time/Title Average  - Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 10260,
+    "object": "FPSDisplay/Monitor/Performance - Window/GPU Time/Title Average  - Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 10282,
+    "object": "FPSDisplay/Monitor/Performance - Window/Vertices/Title Average  - Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 10294,
+    "object": "FPSDisplay/Monitor/Performance - Window/Triangles/Title Average  - Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 10400,
+    "object": "FPSDisplay/Monitor/Performance - Window/FPS/Title Average  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 333132,
+    "object": "FPSDisplay/Monitor/Performance - Window/CPU Time/Title Average  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 333133,
+    "object": "FPSDisplay/Monitor/Performance - Window/GPU Time/Title Average  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 333155,
+    "object": "FPSDisplay/Monitor/Performance - Window/Vertices/Title Average  - Text"
+   }
+  ]
+ },
+ {
+  "text": "CPU",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10290,
+    "object": "FPSDisplay/Monitor/Performance - Window/CPU Time/Title  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 333163,
+    "object": "FPSDisplay/Monitor/Performance - Window/CPU Time/Title  - Text"
+   }
+  ]
+ },
+ {
+  "text": "Tris",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10298,
+    "object": "FPSDisplay/Monitor/Performance - Window/Triangles/Title  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 333171,
+    "object": "FPSDisplay/Monitor/Performance - Window/Triangles/Title  - Text"
+   }
+  ]
+ },
+ {
+  "text": "GPU",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10299,
+    "object": "FPSDisplay/Monitor/Performance - Window/GPU Time/Title  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 333172,
+    "object": "FPSDisplay/Monitor/Performance - Window/GPU Time/Title  - Text"
+   }
+  ]
+ },
+ {
+  "text": "Verts",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10311,
+    "object": "FPSDisplay/Monitor/Performance - Window/Vertices/Title  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 333184,
+    "object": "FPSDisplay/Monitor/Performance - Window/Vertices/Title  - Text"
+   }
+  ]
+ },
+ {
+  "text": "UP/L",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10321,
+    "object": "FPSDisplay/Monitor/Performance - Window/Network - Download / Upload/Title Upload - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 333194,
+    "object": "FPSDisplay/Monitor/Performance - Window/Network - Download / Upload/Title Upload - Text"
+   }
+  ]
+ },
+ {
+  "text": "DW/L",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10325,
+    "object": "FPSDisplay/Monitor/Performance - Window/Network - Download / Upload/Title Download - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 333198,
+    "object": "FPSDisplay/Monitor/Performance - Window/Network - Download / Upload/Title Download - Text"
+   }
+  ]
+ },
+ {
+  "text": "FPS",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10398,
+    "object": "FPSDisplay/Monitor/Performance - Window/FPS/Title  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 335673,
+    "object": "FPSDisplay/Monitor/Performance - Window/FPS/Title  - Text"
+   }
+  ]
+ },
+ {
+  "text": "Shadow Mode",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10437,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Shadow Mode"
+   },
+   {
+    "file": "level0",
+    "path_id": 12380,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Shadow Mode"
+   },
+   {
+    "file": "level1",
+    "path_id": 341821,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Shadow Mode"
+   },
+   {
+    "file": "level1",
+    "path_id": 358144,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Shadow Mode"
+   }
+  ]
+ },
+ {
+  "text": "Processor:",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10476,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Processor  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 338046,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Processor  - Text"
+   }
+  ]
+ },
+ {
+  "text": "Whatever You Want",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10561,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Addons Section Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 12338,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Addons Section Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 346375,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Addons Section Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 358151,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Addons Section Text"
+   }
+  ]
+ },
+ {
+  "text": "Brightness",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10673,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Brightness"
+   },
+   {
+    "file": "level0",
+    "path_id": 12285,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Brightness"
+   },
+   {
+    "file": "level1",
+    "path_id": 334054,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Brightness"
+   },
+   {
+    "file": "level1",
+    "path_id": 358093,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Brightness"
+   }
+  ]
+ },
+ {
+  "text": "Graphic Memory Size:",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 10742,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Graphic Memory Size - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 345248,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Graphic Memory Size - Text"
+   }
+  ]
+ },
+ {
+  "text": "Cube Color",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 11000,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Cube Color (Custom)"
+   },
+   {
+    "file": "level0",
+    "path_id": 12349,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Cube Color (Custom)"
+   },
+   {
+    "file": "level1",
+    "path_id": 325690,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Cube Color (Custom)"
+   },
+   {
+    "file": "level1",
+    "path_id": 358162,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Cube Color (Custom)"
+   }
+  ]
+ },
+ {
+  "text": "Shadow Resolution",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 11059,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Shadow Resolution"
+   },
+   {
+    "file": "level0",
+    "path_id": 12381,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Shadow Resolution"
+   },
+   {
+    "file": "level1",
+    "path_id": 332100,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Shadow Resolution"
+   },
+   {
+    "file": "level1",
+    "path_id": 358148,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Shadow Resolution"
+   }
+  ]
+ },
+ {
+  "text": "Operating System:",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 11383,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Operating System  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 362767,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Operating System  - Text"
+   }
+  ]
+ },
+ {
+  "text": "Device:",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 11510,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Device  - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 364917,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Device  - Text"
+   }
+  ]
+ },
+ {
+  "text": "Shadow Distance",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 11586,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Shadow Distance"
+   },
+   {
+    "file": "level0",
+    "path_id": 12299,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Shadow Distance"
+   },
+   {
+    "file": "level1",
+    "path_id": 358113,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Shadow Distance"
+   },
+   {
+    "file": "level1",
+    "path_id": 388714,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Shadow Distance"
+   }
+  ]
+ },
+ {
+  "text": "Texture Resolution",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 11901,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Texture Resolution"
+   },
+   {
+    "file": "level0",
+    "path_id": 12333,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Texture Resolution"
+   },
+   {
+    "file": "level1",
+    "path_id": 358156,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Texture Resolution"
+   },
+   {
+    "file": "level1",
+    "path_id": 370044,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Texture Resolution"
+   }
+  ]
+ },
+ {
+  "text": "Memory Size:",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 11920,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Memory - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 376521,
+    "object": "FPSDisplay/Monitor/System - Window/System Info/Memory - Text"
+   }
+  ]
+ },
+ {
+  "text": "Mono Memory",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 12109,
+    "object": "FPSDisplay/Monitor/Performance - Window/Memory/Title Mono - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 382648,
+    "object": "FPSDisplay/Monitor/Performance - Window/Memory/Title Mono - Text"
+   }
+  ]
+ },
+ {
+  "text": "Allocated Memory",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 12111,
+    "object": "FPSDisplay/Monitor/Performance - Window/Memory/Title Allocated - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 382650,
+    "object": "FPSDisplay/Monitor/Performance - Window/Memory/Title Allocated - Text"
+   }
+  ]
+ },
+ {
+  "text": "Reserved Memory",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 12112,
+    "object": "FPSDisplay/Monitor/Performance - Window/Memory/Title Reserved - Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 382651,
+    "object": "FPSDisplay/Monitor/Performance - Window/Memory/Title Reserved - Text"
+   }
+  ]
+ },
+ {
+  "text": "Effects",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 12213,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Effects Section Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 12341,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Effects Section Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 358154,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Effects Section Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 361186,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Effects Section Text"
+   }
+  ]
+ },
+ {
+  "text": "Master Volume",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 12290,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Master Volume"
+   },
+   {
+    "file": "level1",
+    "path_id": 358118,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Master Volume"
+   }
+  ]
+ },
+ {
+  "text": "Effects Volume",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 12308,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Audio Mixer Volume - Effects"
+   },
+   {
+    "file": "level1",
+    "path_id": 358061,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Audio Mixer Volume - Effects"
+   }
+  ]
+ },
+ {
+  "text": "Graphic",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 12314,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Graphic Section Text"
+   },
+   {
+    "file": "level0",
+    "path_id": 12387,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Graphic Section Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 358012,
+    "object": "Canvas/SettingScreen/ScreenGrp/DisplaySettingScreen/Graphic Section Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 358064,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Graphic Section Text"
+   }
+  ]
+ },
+ {
+  "text": "Music Volume",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level0",
+    "path_id": 12353,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Audio Mixer Volume - Music"
+   },
+   {
+    "file": "level1",
+    "path_id": 358165,
+    "object": "Canvas/SettingScreen/ScreenGrp/Settings Content/Audio Mixer Volume - Music"
+   }
+  ]
+ },
+ {
+  "text": "HOBBY DECO",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 303909,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteTopBar/WebName"
+   }
+  ]
+ },
+ {
+  "text": "MY CARD EMPIRE",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 303914,
+    "object": "CanvasWorldspace/CanvasGrp/Billboard_ShopName_Text"
+   }
+  ]
+ },
+ {
+  "text": "MY DIY RACKS",
+  "ru": "",
+  "occurrences": 124,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 303925,
+    "object": "Canvas/FurnitureShopConfirmPurchaseScreen/ScreenGrp/AnimGrp/TitleText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304515,
+    "object": "Canvas/FurnitureShopUIScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (15)/FurnitureShopPanelUI (2)/TopUIGrp/UIGrp/CompanyTitleText"
+   },
+   {
+    "file": "level1",
+    "path_id": 306804,
+    "object": "Canvas/FurnitureShopUIScreen_Grp/ScreenGrp/AnimGrp/FurnitureShopPanelUI/TopUIGrp/UIGrp/CompanyTitleText"
+   },
+   {
+    "file": "level1",
+    "path_id": 308161,
+    "object": "Canvas/FurnitureShopUIScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout/FurnitureShopPanelUI (1)/TopUIGrp/UIGrp/CompanyTitleText"
+   },
+   {
+    "file": "level1",
+    "path_id": 308162,
+    "object": "Canvas/FurnitureShopUIScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout/FurnitureShopPanelUI (3)/TopUIGrp/UIGrp/CompanyTitleText"
+   },
+   {
+    "file": "level1",
+    "path_id": 308163,
+    "object": "Canvas/FurnitureShopUIScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (5)/FurnitureShopPanelUI (2)/TopUIGrp/UIGrp/CompanyTitleText"
+   },
+   {
+    "file": "level1",
+    "path_id": 308164,
+    "object": "Canvas/FurnitureShopUIScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (7)/FurnitureShopPanelUI (3)/TopUIGrp/UIGrp/CompanyTitleText"
+   },
+   {
+    "file": "level1",
+    "path_id": 308165,
+    "object": "Canvas/FurnitureShopUIScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (8)/FurnitureShopPanelUI (1)/TopUIGrp/UIGrp/CompanyTitleText"
+   }
+  ]
+ },
+ {
+  "text": "Speedrobo Games",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 303926,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/RestockCategoryBarGrp/UIGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "Day 1",
+  "ru": "",
+  "occurrences": 55,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 303927,
+    "object": "Canvas/GameUIScreen/ScreenGrp/AnimGrp/DayText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304282,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/CustomerReviewPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/Day"
+   },
+   {
+    "file": "level1",
+    "path_id": 304899,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (2)/TopUIGrp/UIGrp/Mask/UIGroup/Day"
+   },
+   {
+    "file": "level1",
+    "path_id": 305112,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (9)/TopUIGrp/UIGrp/Mask/UIGroup/Day"
+   },
+   {
+    "file": "level1",
+    "path_id": 305393,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (31)/TopUIGrp/UIGrp/Mask/UIGroup/Day"
+   },
+   {
+    "file": "level1",
+    "path_id": 305466,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (21)/TopUIGrp/UIGrp/Mask/UIGroup/Day"
+   },
+   {
+    "file": "level1",
+    "path_id": 305507,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/AnimGrp/DayText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305515,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (50)/TopUIGrp/UIGrp/Mask/UIGroup/Day"
+   }
+  ]
+ },
+ {
+  "text": "Retail Shop Renovation",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 303938,
+    "object": "Canvas/ExpansionShopUIScreen_Grp/ScreenGrp/AnimGrp/WebsiteTopBar/WebName2"
+   }
+  ]
+ },
+ {
+  "text": "/ hr",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 303945,
+    "object": "Canvas/SetEventPriceScreen_Grp/ScreenGrp/AnimGrp/PerHourText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304187,
+    "object": "Canvas/SetEventPriceScreen_Grp/ScreenGrp/AnimGrp/InputTextGrp/PerHourText"
+   }
+  ]
+ },
+ {
+  "text": "Speedrobo Board Games",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 303950,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/CategoryBarGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "X3",
+  "ru": "",
+  "occurrences": 43,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 303984,
+    "object": "Canvas/ShowCardObtainedPage/ScreenGrp/CardAmountUIGroup/AmountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304005,
+    "object": "Canvas/CustomerTradeCardScreen/ScreenGrp/AnimGrp/TradeGrp_L/InAlbumAmountText_Trade"
+   },
+   {
+    "file": "level1",
+    "path_id": 304087,
+    "object": "Canvas/CustomerTradeCardScreen/ScreenGrp/AnimGrp/TradeGrp_R/InAlbumAmountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307389,
+    "object": "Canvas/ShowCardObtainedPage/ScreenGrp/AnimGrp/Mask/UIGroup/HorizontalLayout/CardAmountUIGroup (2)/AmountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307390,
+    "object": "Canvas/ShowCardObtainedPage/ScreenGrp/AnimGrp/Mask/UIGroup/HorizontalLayout (2)/CardAmountUIGroup (2)/AmountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307391,
+    "object": "Canvas/ShowCardObtainedPage/ScreenGrp/AnimGrp/Mask/UIGroup/HorizontalLayout/CardAmountUIGroup (7)/AmountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307392,
+    "object": "Canvas/ShowCardObtainedPage/ScreenGrp/AnimGrp/Mask/UIGroup/HorizontalLayout (3)/CardAmountUIGroup (5)/AmountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307393,
+    "object": "Canvas/ShowCardObtainedPage/ScreenGrp/AnimGrp/Mask/UIGroup/HorizontalLayout (3)/CardAmountUIGroup (6)/AmountText"
+   }
+  ]
+ },
+ {
+  "text": "My Card Empire",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 303990,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteTopBar/TextRight"
+   }
+  ]
+ },
+ {
+  "text": "Market Fee : $10/hr",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304003,
+    "object": "Canvas/SetGameFormatScreen_Grp/ScreenGrp/AnimGrp/FeeRate"
+   }
+  ]
+ },
+ {
+  "text": "Deck Name",
+  "ru": "",
+  "occurrences": 34,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304029,
+    "object": "Canvas/DeckEditCanvasGrp/DeckboxPlaymatNameEditScreen_Grp/ScreenGrp/AnimGrp/DeckNameText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304100,
+    "object": "Canvas/DeckEditCanvasGrp/DeckEditScreen_Grp/ScreenGrp/AnimGrp/Mask/DeckInfoGrp/DeckNameText"
+   },
+   {
+    "file": "level1",
+    "path_id": 308825,
+    "object": "Canvas/DeckEditCanvasGrp/DeckListScreen_Grp/ScreenGrp/AnimGrp/Mask/DeckListPanelUI/TopUIGrp/UIGrp/DeckNameText"
+   },
+   {
+    "file": "level1",
+    "path_id": 321181,
+    "object": "Canvas/DeckEditCanvasGrp/DeckListScreen_Grp/ScreenGrp/AnimGrp/Mask/ScrollerGrp/HorizontalLayout/DeckListPanelUI  (1)/TopUIGrp/UIGrp/DeckNameText"
+   },
+   {
+    "file": "level1",
+    "path_id": 321182,
+    "object": "Canvas/DeckEditCanvasGrp/DeckListScreen_Grp/ScreenGrp/AnimGrp/Mask/ScrollerGrp/HorizontalLayout (9)/DeckListPanelUI  (2)/TopUIGrp/UIGrp/DeckNameText"
+   },
+   {
+    "file": "level1",
+    "path_id": 321183,
+    "object": "Canvas/DeckEditCanvasGrp/DeckListScreen_Grp/ScreenGrp/AnimGrp/Mask/ScrollerGrp/HorizontalLayout (6)/DeckListPanelUI  (1)/TopUIGrp/UIGrp/DeckNameText"
+   },
+   {
+    "file": "level1",
+    "path_id": 321184,
+    "object": "Canvas/DeckEditCanvasGrp/DeckListScreen_Grp/ScreenGrp/AnimGrp/Mask/ScrollerGrp/HorizontalLayout (7)/DeckListPanelUI /TopUIGrp/UIGrp/DeckNameText"
+   },
+   {
+    "file": "level1",
+    "path_id": 321185,
+    "object": "Canvas/DeckEditCanvasGrp/DeckListScreen_Grp/ScreenGrp/AnimGrp/Mask/ScrollerGrp/HorizontalLayout (8)/DeckListPanelUI  (2)/TopUIGrp/UIGrp/DeckNameText"
+   }
+  ]
+ },
+ {
+  "text": "Common Pack",
+  "ru": "",
+  "occurrences": 313,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304041,
+    "object": "Canvas/SetEventPriceScreen_Grp/ScreenGrp/AnimGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304082,
+    "object": "Canvas/SetItemPriceScreen_Grp/ScreenGrp/AnimGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304413,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (13)/BuyProductPanelUI (17)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304547,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (18)/BuyProductPanelUI (19)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304560,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (13)/BuyProductPanelUI (17)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304697,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (18)/BuyProductPanelUI (19)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304857,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (22)/BuyProductPanelUI (17)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 305226,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (22)/BuyProductPanelUI (17)/TopUIGrp/UIGrp/ItemName"
+   }
+  ]
+ },
+ {
+  "text": "BIGG",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304052,
+    "object": "Canvas/ExpansionShopUIScreen_Grp/ScreenGrp/AnimGrp/WebsiteTopBar/WebName (1)"
+   }
+  ]
+ },
+ {
+  "text": "8:00 PM",
+  "ru": "",
+  "occurrences": 51,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304073,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/CustomerReviewPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/Time"
+   },
+   {
+    "file": "level1",
+    "path_id": 304900,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (2)/TopUIGrp/UIGrp/Mask/UIGroup/Time"
+   },
+   {
+    "file": "level1",
+    "path_id": 305113,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (9)/TopUIGrp/UIGrp/Mask/UIGroup/Time"
+   },
+   {
+    "file": "level1",
+    "path_id": 305392,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (31)/TopUIGrp/UIGrp/Mask/UIGroup/Time"
+   },
+   {
+    "file": "level1",
+    "path_id": 305465,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (21)/TopUIGrp/UIGrp/Mask/UIGroup/Time"
+   },
+   {
+    "file": "level1",
+    "path_id": 305514,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (50)/TopUIGrp/UIGrp/Mask/UIGroup/Time"
+   },
+   {
+    "file": "level1",
+    "path_id": 305858,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/Time"
+   },
+   {
+    "file": "level1",
+    "path_id": 306169,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (20)/TopUIGrp/UIGrp/Mask/UIGroup/Time"
+   }
+  ]
+ },
+ {
+  "text": "0 Basic",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304074,
+    "object": "Canvas/DeckEditCanvasGrp/DeckEditScreen_Grp/ScreenGrp/AnimGrp/Mask/DeckInfoGrp/BasicCardCountText"
+   }
+  ]
+ },
+ {
+  "text": "Cost : $10/day",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304083,
+    "object": "Canvas/SetGameFormatScreen_Grp/ScreenGrp/AnimGrp/CostPerDayText"
+   },
+   {
+    "file": "level1",
+    "path_id": 310952,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/SetEventScreenGrp/ScreenGrp/AnimGrp/CostPerDayText"
+   }
+  ]
+ },
+ {
+  "text": "0/50 Cards",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304088,
+    "object": "Canvas/DeckEditCanvasGrp/DeckEditScreen_Grp/ScreenGrp/AnimGrp/Mask/DeckInfoGrp/DeckCountText"
+   }
+  ]
+ },
+ {
+  "text": "Shop Level 0",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304106,
+    "object": "Canvas/GameUIScreen/ScreenGrp/AnimGrp/ShopLevelText"
+   }
+  ]
+ },
+ {
+  "text": "20 days",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304123,
+    "object": "Canvas/GradedCardWebsiteCanvasGrp/GradedCardSubmitSelectScreen/ScreenGrp/AnimGrp/Mask/UIGroup/OrderSummaryTextGrp/TurnaroundTime"
+   }
+  ]
+ },
+ {
+  "text": "0 Evolution",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304124,
+    "object": "Canvas/DeckEditCanvasGrp/DeckEditScreen_Grp/ScreenGrp/AnimGrp/Mask/DeckInfoGrp/EvoCardCountText"
+   }
+  ]
+ },
+ {
+  "text": "Put items on shelf to sell them to your customers. Store up to 8 types of item. Each compartment has volume of 32.",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304126,
+    "object": "Canvas/FurnitureShopConfirmPurchaseScreen/ScreenGrp/AnimGrp/DescriptionText"
+   }
+  ]
+ },
+ {
+  "text": "20260113-084415-D331-1036AM",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304136,
+    "object": "Canvas/CameraPhotoGalleryScreen/ScreenGrp/AnimGrp/FileNameText"
+   }
+  ]
+ },
+ {
+  "text": "MY Card Empire",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304139,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/ShopName"
+   }
+  ]
+ },
+ {
+  "text": "Prizes worth $1000000.00",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304152,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/PrizesWorthText"
+   }
+  ]
+ },
+ {
+  "text": "$50/day",
+  "ru": "",
+  "occurrences": 10,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304156,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/HireWorkerPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/Salary"
+   },
+   {
+    "file": "level1",
+    "path_id": 307760,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (5)/TopUIGrp/UIGrp/Mask/UIGroup/Salary"
+   },
+   {
+    "file": "level1",
+    "path_id": 307811,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (9)/TopUIGrp/UIGrp/Mask/UIGroup/Salary"
+   },
+   {
+    "file": "level1",
+    "path_id": 309447,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (6)/TopUIGrp/UIGrp/Mask/UIGroup/Salary"
+   },
+   {
+    "file": "level1",
+    "path_id": 310501,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (4)/TopUIGrp/UIGrp/Mask/UIGroup/Salary"
+   },
+   {
+    "file": "level1",
+    "path_id": 311617,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (8)/TopUIGrp/UIGrp/Mask/UIGroup/Salary"
+   },
+   {
+    "file": "level1",
+    "path_id": 312347,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (1)/TopUIGrp/UIGrp/Mask/UIGroup/Salary"
+   },
+   {
+    "file": "level1",
+    "path_id": 312488,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/Salary"
+   }
+  ]
+ },
+ {
+  "text": "(-) Rare, Epic or Legendary pack and card price decrease\n",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304160,
+    "object": "Canvas/SetGameFormatScreen_Grp/ScreenGrp/AnimGrp/Effect2"
+   },
+   {
+    "file": "level1",
+    "path_id": 318840,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/SetEventScreenGrp/ScreenGrp/AnimGrp/Effect2"
+   }
+  ]
+ },
+ {
+  "text": "In Album : 10",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304180,
+    "object": "Canvas/DeckEditCanvasGrp/DeckCardPlusMinusScreen_Grp/ScreenGrp/AnimGrp/AlbumCountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 304203,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxPlusMinusScreen/ScreenGrp/AnimGrp/AlbumCountText"
+   }
+  ]
+ },
+ {
+  "text": "$20/day",
+  "ru": "",
+  "occurrences": 3,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304182,
+    "object": "Canvas/WorkerInteractUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/Salary"
+   },
+   {
+    "file": "level1",
+    "path_id": 304201,
+    "object": "Canvas/CustomerTradeCardScreen/ScreenGrp/AnimGrp/TradeGrp_R/Mask_R/UIGroup/Salary"
+   },
+   {
+    "file": "level1",
+    "path_id": 304212,
+    "object": "Canvas/WorkerInteractUIScreen/WorkerOptionScreen/ScreenGrp/AnimGrp/Mask/UIGroup/Salary"
+   }
+  ]
+ },
+ {
+  "text": "0/20000 XP",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304209,
+    "object": "Canvas/GameUIScreen/ScreenGrp/AnimGrp/ShopLevelBar/ShopExpText"
+   }
+  ]
+ },
+ {
+  "text": "Deck Name​",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304221,
+    "object": "Canvas/DeckEditCanvasGrp/DeckboxPlaymatNameEditScreen_Grp/ScreenGrp/AnimGrp/InputTextGrp/InputTextDisplay"
+   }
+  ]
+ },
+ {
+  "text": "Item Name",
+  "ru": "",
+  "occurrences": 45,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304224,
+    "object": "Canvas/ItemPriceGraphScreen/ScreenGrp/AnimGrp/ItemGrp/Mask/UIGroup/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 308260,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/TestPanelUI/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 308587,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/TestPanelUI/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 312930,
+    "object": "Canvas/CheckPriceScreen_Grp/ScreenGrp/AnimGrp/TestPanelUI/ItemName"
+   },
+   {
+    "file": "sharedassets1.assets",
+    "path_id": 86132,
+    "object": "UI_CashCounterScreen_Grp/ItemList_ScreenGrp/ItemBarLayoutGrp_Mask/SliderGrp/ItemBarLayoutGrp/UI_CheckoutItemBarGrp (6)/ItemName"
+   },
+   {
+    "file": "sharedassets1.assets",
+    "path_id": 86141,
+    "object": "UI_CashCounterScreen_Grp/ItemList_ScreenGrp/ItemBarLayoutGrp_Mask/SliderGrp/ItemBarLayoutGrp/UI_CheckoutItemBarGrp (18)/ItemName"
+   },
+   {
+    "file": "sharedassets1.assets",
+    "path_id": 86329,
+    "object": "UI_CashCounterScreen_Grp/ItemList_ScreenGrp/ItemBarLayoutGrp_Mask/SliderGrp/ItemBarLayoutGrp/UI_CheckoutItemBarGrp (12)/ItemName"
+   },
+   {
+    "file": "sharedassets1.assets",
+    "path_id": 86368,
+    "object": "UI_CashCounterScreen_Grp/ItemList_ScreenGrp/ItemBarLayoutGrp_Mask/SliderGrp/ItemBarLayoutGrp/UI_CheckoutItemBarGrp (29)/ItemName"
+   }
+  ]
+ },
+ {
+  "text": "Round 1",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304234,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/RoundText"
+   }
+  ]
+ },
+ {
+  "text": "Ghost card is stored in a different album. You can open sort menu and select Ghost to see it.",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304239,
+    "object": "Canvas/CollectionBinderUI/GhostCardTutorialScreen/ScreenGrp/AnimGrp/Mask/UIGroup/Text"
+   }
+  ]
+ },
+ {
+  "text": "4 Players",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304242,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/ParticipantCount"
+   }
+  ]
+ },
+ {
+  "text": "Select 2 cards",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304244,
+    "object": "Canvas/PlayCardSetUIScreenGrp/PlayCardSetUIScreen_SearchCardSelection/ScreenGrp/DisplayCardInfoScreen/DescriptionText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305285,
+    "object": "Canvas/PlayCardSetUIScreenGrp/PlayCardSetUIScreen_DiscardPileScreen/ScreenGrp/DisplayCardInfoScreen/DescriptionText"
+   }
+  ]
+ },
+ {
+  "text": "1H 30M",
+  "ru": "",
+  "occurrences": 6,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304248,
+    "object": "CanvasWorldspace/CanvasGrp/AutoCardOpenerUISpawner/AutoCardOpenerUI/ScreenGrp/AnimGrp/ProcessingGrp/ProcessingTimeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307817,
+    "object": "CanvasWorldspace/CanvasGrp/AutoCardOpenerUISpawner/AutoCardOpenerUI (3)/ScreenGrp/AnimGrp/ProcessingGrp/ProcessingTimeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307820,
+    "object": "CanvasWorldspace/CanvasGrp/AutoCardOpenerUISpawner/AutoCardOpenerUI (4)/ScreenGrp/AnimGrp/ProcessingGrp/ProcessingTimeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307823,
+    "object": "CanvasWorldspace/CanvasGrp/AutoCardOpenerUISpawner/AutoCardOpenerUI (1)/ScreenGrp/AnimGrp/ProcessingGrp/ProcessingTimeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307825,
+    "object": "CanvasWorldspace/CanvasGrp/AutoCardOpenerUISpawner/AutoCardOpenerUI (2)/ScreenGrp/AnimGrp/ProcessingGrp/ProcessingTimeText"
+   },
+   {
+    "file": "sharedassets1.assets",
+    "path_id": 86489,
+    "object": "AutoCardOpenerUI/ScreenGrp/AnimGrp/ProcessingGrp/ProcessingTimeText"
+   }
+  ]
+ },
+ {
+  "text": "Value Set 1",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304255,
+    "object": "Canvas/GradedCardWebsiteCanvasGrp/GradedCardSetCheckStatusScreen/ScreenGrp/AnimGrp/SetName_Text"
+   }
+  ]
+ },
+ {
+  "text": "X1",
+  "ru": "",
+  "occurrences": 58,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304265,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/TournamentPrizePanelUI/TopUIGrp/UIGrp/ItemCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 316173,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_Inventory/Mask/UIGroup/HorizontalLayout/TournamentPrizePanelUI (1)/TopUIGrp/UIGrp/ItemCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 316174,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_Inventory/Mask/UIGroup/HorizontalLayout (1)/TournamentPrizePanelUI (5)/TopUIGrp/UIGrp/ItemCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 316175,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_PrizeSetup/Mask/UIGroup/HorizontalLayout_ActiveParentGrp/TournamentPrizePanelUI (5)/TopUIGrp/UIGrp/ItemCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 316179,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_PrizeSetup/Mask/UIGroup/HorizontalLayout_ActiveParentGrp/TournamentPrizePanelUI (3)/TopUIGrp/UIGrp/ItemCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 316186,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_PrizeSetup/Mask/UIGroup/HorizontalLayout_ActiveParentGrp/TournamentPrizePanelUI (7)/TopUIGrp/UIGrp/ItemCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 316187,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_Inventory/Mask/UIGroup/HorizontalLayout (1)/TournamentPrizePanelUI (8)/TopUIGrp/UIGrp/ItemCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 316188,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_Inventory/Mask/UIGroup/HorizontalLayout (1)/TournamentPrizePanelUI (7)/TopUIGrp/UIGrp/ItemCount"
+   }
+  ]
+ },
+ {
+  "text": "Tetramon TCG",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304280,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/WebsiteTopBar/TextLeft"
+   }
+  ]
+ },
+ {
+  "text": "(+) Common pack and card price increase\n",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304286,
+    "object": "Canvas/SetGameFormatScreen_Grp/ScreenGrp/AnimGrp/Effect"
+   },
+   {
+    "file": "level1",
+    "path_id": 318834,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/SetEventScreenGrp/ScreenGrp/AnimGrp/Effect"
+   }
+  ]
+ },
+ {
+  "text": "The Cardinal's Grading",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304291,
+    "object": "Canvas/GradedCardWebsiteCanvasGrp/GradeCardWebsiteUIScreen/ScreenGrp/AnimGrp/WebsiteTopBar/WebName"
+   }
+  ]
+ },
+ {
+  "text": "Common Pack (64) License",
+  "ru": "",
+  "occurrences": 201,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304327,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (15)/BuyProductPanelUI (17)/TopUIGrp/License_UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304427,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (13)/BuyProductPanelUI (18)/TopUIGrp/License_UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304481,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (11)/BuyProductPanelUI (16)/TopUIGrp/License_UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304512,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (20)/BuyProductPanelUI (17)/TopUIGrp/License_UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304544,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (10)/BuyProductPanelUI (16)/TopUIGrp/License_UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304572,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (15)/BuyProductPanelUI (17)/TopUIGrp/License_UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304595,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (13)/BuyProductPanelUI (18)/TopUIGrp/License_UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 304656,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (11)/BuyProductPanelUI (16)/TopUIGrp/License_UIGrp/ItemName"
+   }
+  ]
+ },
+ {
+  "text": "Qty : 32",
+  "ru": "",
+  "occurrences": 201,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304411,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (13)/BuyProductPanelUI (17)/TopUIGrp/UIGrp/TotalPriceBG/Quantity"
+   },
+   {
+    "file": "level1",
+    "path_id": 304550,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (18)/BuyProductPanelUI (19)/TopUIGrp/UIGrp/TotalPriceBG/Quantity"
+   },
+   {
+    "file": "level1",
+    "path_id": 304564,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (13)/BuyProductPanelUI (17)/TopUIGrp/UIGrp/TotalPriceBG/Quantity"
+   },
+   {
+    "file": "level1",
+    "path_id": 304694,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (18)/BuyProductPanelUI (19)/TopUIGrp/UIGrp/TotalPriceBG/Quantity"
+   },
+   {
+    "file": "level1",
+    "path_id": 304854,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (22)/BuyProductPanelUI (17)/TopUIGrp/UIGrp/TotalPriceBG/Quantity"
+   },
+   {
+    "file": "level1",
+    "path_id": 305229,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (22)/BuyProductPanelUI (17)/TopUIGrp/UIGrp/TotalPriceBG/Quantity"
+   },
+   {
+    "file": "level1",
+    "path_id": 305534,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (7)/BuyProductPanelUI (16)/TopUIGrp/UIGrp/TotalPriceBG/Quantity"
+   },
+   {
+    "file": "level1",
+    "path_id": 305563,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/HorizontalLayout (21)/BuyProductPanelUI (18)/TopUIGrp/UIGrp/TotalPriceBG/Quantity"
+   }
+  ]
+ },
+ {
+  "text": "Customer review text",
+  "ru": "",
+  "occurrences": 51,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304415,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (20)/TopUIGrp/UIGrp/Mask/UIGroup/Description"
+   },
+   {
+    "file": "level1",
+    "path_id": 304649,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (15)/TopUIGrp/UIGrp/Mask/UIGroup/Description"
+   },
+   {
+    "file": "level1",
+    "path_id": 304831,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (21)/TopUIGrp/UIGrp/Mask/UIGroup/Description"
+   },
+   {
+    "file": "level1",
+    "path_id": 304881,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (50)/TopUIGrp/UIGrp/Mask/UIGroup/Description"
+   },
+   {
+    "file": "level1",
+    "path_id": 305289,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/Description"
+   },
+   {
+    "file": "level1",
+    "path_id": 305556,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (2)/TopUIGrp/UIGrp/Mask/UIGroup/Description"
+   },
+   {
+    "file": "level1",
+    "path_id": 305737,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (9)/TopUIGrp/UIGrp/Mask/UIGroup/Description"
+   },
+   {
+    "file": "level1",
+    "path_id": 306127,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (31)/TopUIGrp/UIGrp/Mask/UIGroup/Description"
+   }
+  ]
+ },
+ {
+  "text": "Customer Name",
+  "ru": "",
+  "occurrences": 51,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304416,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (20)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 304648,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (15)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 304832,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (21)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 304882,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (50)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 305288,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 305555,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (2)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 305736,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (9)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 306128,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/Mask/ScrollGrp/VerticalLayout/CustomerReviewPanelUI (31)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   }
+  ]
+ },
+ {
+  "text": "Common Pack (64)",
+  "ru": "",
+  "occurrences": 28,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304608,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/ScannerRestockScreenGrp/ScreenGrp/AnimGrp/UIGroup/ScannerRestockCheckoutItemBar (4)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 305834,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/ScannerRestockScreenGrp/ScreenGrp/AnimGrp/UIGroup/ScannerRestockCheckoutItemBar (1)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 312302,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/ScannerRestockScreenGrp/ScreenGrp/AnimGrp/UIGroup/ScannerRestockCheckoutItemBar (6)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 316290,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/ScannerRestockScreenGrp/ScreenGrp/AnimGrp/UIGroup/ScannerRestockCheckoutItemBar (7)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 316731,
+    "object": "Canvas/RestockItemCheckoutScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/RestockCheckoutItemBar (12)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 316738,
+    "object": "Canvas/RestockItemCheckoutScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/RestockCheckoutItemBar (4)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 316741,
+    "object": "Canvas/RestockItemCheckoutScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/RestockCheckoutItemBar (7)/TopUIGrp/UIGrp/ItemName"
+   },
+   {
+    "file": "level1",
+    "path_id": 316755,
+    "object": "Canvas/RestockItemCheckoutScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/RestockCheckoutItemBar (13)/TopUIGrp/UIGrp/ItemName"
+   }
+  ]
+ },
+ {
+  "text": "OMW : 50%",
+  "ru": "",
+  "occurrences": 34,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 304610,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout2/TournamentPairingUIGrp (9)/TopUI_Grp/UIGrp/P1_StatGrp/OMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 304611,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout2/TournamentPairingUIGrp (13)/TopUI_Grp/UIGrp/P1_StatGrp/OMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 304612,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout2/TournamentPairingUIGrp (15)/TopUI_Grp/UIGrp/P1_StatGrp/OMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 304613,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (4)/TopUI_Grp/UIGrp/P1_StatGrp/OMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 304614,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (3)/TopUI_Grp/UIGrp/P1_StatGrp/OMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 304615,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (2)/TopUI_Grp/UIGrp/P1_StatGrp/OMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 304616,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (7)/TopUI_Grp/UIGrp/P1_StatGrp/OMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 304617,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (5)/TopUI_Grp/UIGrp/P1_StatGrp/OMW"
+   }
+  ]
+ },
+ {
+  "text": "Zackery Cole",
+  "ru": "",
+  "occurrences": 10,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305263,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 305333,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (1)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 305463,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (8)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 307910,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (4)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 308897,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (6)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 310207,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (5)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 310264,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/ScrollGrp/VerticalLayout/HireWorkerPanelUI (9)/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   },
+   {
+    "file": "level1",
+    "path_id": 312636,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/HireMask/HireWorkerPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/Name"
+   }
+  ]
+ },
+ {
+  "text": "EVO",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305343,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI/ScreenGrp/AnimGrp/UI_Grp/NoEvoGrp/OffsetGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 308557,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI/ScreenGrp/AnimGrp/UI_Grp/NoPlayEffectGrp/OffsetGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 310572,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI_B/ScreenGrp/AnimGrp/UI_Grp/NoPlayEffectGrp/OffsetGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 311865,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI_B/ScreenGrp/AnimGrp/UI_Grp/NoEvoGrp/OffsetGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "X 0",
+  "ru": "",
+  "occurrences": 64,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305391,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI_B/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaA/CardSelectGrp/CardGoFirst/AnimGrp/ScaleGrp/CardCountTextGrp/CardCountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307934,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI_B/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaB/CardSelectGrp/CardGoFirst/AnimGrp/ScaleGrp/CardCountTextGrp/CardCountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307938,
+    "object": "CanvasWorldspace/CanvasGrp/GradedCardOpeningSequence/CardOpeningGrp/CardGrp/Card3dUIGroup (2)/AnimGrp/ScaleGrp/CardCountTextGrp/CardCountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 308236,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaA/CardSelectGrp/CardGoSecond /AnimGrp/ScaleGrp/CardCountTextGrp/CardCountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 308567,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI_B/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaB/CardSelectGrp/CardGoSecond/AnimGrp/ScaleGrp/CardCountTextGrp/CardCountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 308748,
+    "object": "CanvasWorldspace/CanvasGrp/Card3dUISpawner/Card3dUIGroup/AnimGrp/ScaleGrp/CardCountTextGrp/CardCountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 310081,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaB/CardSelectGrp/CardGoFirst/AnimGrp/ScaleGrp/CardCountTextGrp/CardCountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 310273,
+    "object": "CanvasWorldspace/CanvasGrp/PlayCardSetUI_B/ScreenGrp/AnimGrp/TurnSelectUIGrp/TurnSelectAreaA/CardSelectGrp/CardGoSecond /AnimGrp/ScaleGrp/CardCountTextGrp/CardCountText"
+   }
+  ]
+ },
+ {
+  "text": "8:00AM",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305532,
+    "object": "Canvas/GameUIScreen/ScreenGrp/AnimGrp/TimeText"
+   },
+   {
+    "file": "level1",
+    "path_id": 318768,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/AnimGrp/TimeText"
+   }
+  ]
+ },
+ {
+  "text": "X",
+  "ru": "",
+  "occurrences": 22,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305568,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_Inventory/Mask/UIGroup/HorizontalLayout (1)/TournamentPrizePanelUI (5)/TopUIGrp/UIGrp/RemoveItemGrp/RemoveItemText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305569,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_Inventory/Mask/UIGroup/HorizontalLayout/TournamentPrizePanelUI (1)/TopUIGrp/UIGrp/RemoveItemGrp/RemoveItemText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305570,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_PrizeSetup/Mask/UIGroup/HorizontalLayout_ActiveParentGrp/TournamentPrizePanelUI (5)/TopUIGrp/UIGrp/RemoveItemGrp/RemoveItemText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305571,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_PrizeSetup/Mask/UIGroup/HorizontalLayout_ActiveParentGrp/TournamentPrizePanelUI (7)/TopUIGrp/UIGrp/RemoveItemGrp/RemoveItemText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305572,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_Inventory/Mask/UIGroup/HorizontalLayout (1)/TournamentPrizePanelUI (8)/TopUIGrp/UIGrp/RemoveItemGrp/RemoveItemText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305573,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_PrizeSetup/Mask/UIGroup/HorizontalLayout_ActiveParentGrp/TournamentPrizePanelUI (3)/TopUIGrp/UIGrp/RemoveItemGrp/RemoveItemText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305574,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_PrizeSetup/Mask/UIGroup/HorizontalLayout_ActiveParentGrp/TournamentPrizePanelUI (2)/TopUIGrp/UIGrp/RemoveItemGrp/RemoveItemText"
+   },
+   {
+    "file": "level1",
+    "path_id": 305575,
+    "object": "Canvas/HostTournamentSelectPrizeScreen/ScreenGrp/AnimGrp_Inventory/Mask/UIGroup/HorizontalLayout (1)/TournamentPrizePanelUI (6)/TopUIGrp/UIGrp/RemoveItemGrp/RemoveItemText"
+   }
+  ]
+ },
+ {
+  "text": "Shop Level 25 Required",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305717,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/LockedGrp/UIGroup/ShopLevelRequiredText"
+   }
+  ]
+ },
+ {
+  "text": "Day 2",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305723,
+    "object": "Canvas/EndOfDayReportScreen/LoadingNextDayScreenGrp/AnimGrp/DayTextGrp/NextDayText"
+   }
+  ]
+ },
+ {
+  "text": "TCG 6",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305874,
+    "object": "Canvas/ItemPriceGraphScreen/ChangeGradeOptionUIScreen/Screen_Grp/AnimGrp/Mask/UIGroup/ChangeGrade_Button 6/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "TCG 2",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305901,
+    "object": "Canvas/ItemPriceGraphScreen/ChangeGradeOptionUIScreen/Screen_Grp/AnimGrp/Mask/UIGroup/ChangeGrade_Button 2/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "TCG 1",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305902,
+    "object": "Canvas/ItemPriceGraphScreen/ChangeGradeOptionUIScreen/Screen_Grp/AnimGrp/Mask/UIGroup/ChangeGrade_Button 1/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "TCG 7",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305912,
+    "object": "Canvas/ItemPriceGraphScreen/ChangeGradeOptionUIScreen/Screen_Grp/AnimGrp/Mask/UIGroup/ChangeGrade_Button 7/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 313225,
+    "object": "Canvas/ItemPriceGraphScreen/ScreenGrp/AnimGrp/CardGrp/GradedPriceGrp/Mask/UIGroup/PriceName2"
+   }
+  ]
+ },
+ {
+  "text": "TCG 10",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305945,
+    "object": "Canvas/ItemPriceGraphScreen/ChangeGradeOptionUIScreen/Screen_Grp/AnimGrp/Mask/UIGroup/ChangeGrade_Button 10/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 313219,
+    "object": "Canvas/ItemPriceGraphScreen/ScreenGrp/AnimGrp/CardGrp/GradedPriceGrp/Mask/UIGroup/PriceName5"
+   }
+  ]
+ },
+ {
+  "text": "TCG 3",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 305993,
+    "object": "Canvas/ItemPriceGraphScreen/ChangeGradeOptionUIScreen/Screen_Grp/AnimGrp/Mask/UIGroup/ChangeGrade_Button 3/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "TCG 4",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 306006,
+    "object": "Canvas/ItemPriceGraphScreen/ChangeGradeOptionUIScreen/Screen_Grp/AnimGrp/Mask/UIGroup/ChangeGrade_Button 4/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "TCG 9",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 306009,
+    "object": "Canvas/ItemPriceGraphScreen/ChangeGradeOptionUIScreen/Screen_Grp/AnimGrp/Mask/UIGroup/ChangeGrade_Button 9/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 313220,
+    "object": "Canvas/ItemPriceGraphScreen/ScreenGrp/AnimGrp/CardGrp/GradedPriceGrp/Mask/UIGroup/PriceName4"
+   }
+  ]
+ },
+ {
+  "text": "Task Name",
+  "ru": "",
+  "occurrences": 7,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 307034,
+    "object": "Canvas/WorkerInteractUIScreen/ScreenGrp/AnimGrp/Mask_L/UIGroup/WorkerSkillBarPanelUI/TaskText"
+   },
+   {
+    "file": "level1",
+    "path_id": 307631,
+    "object": "Canvas/WorkerInteractUIScreen/ScreenGrp/AnimGrp/Mask_L/UIGroup/VerticalLayout/WorkerSkillBarPanelUI (5)/TaskText"
+   },
+   {
+    "file": "level1",
+    "path_id": 310598,
+    "object": "Canvas/WorkerInteractUIScreen/ScreenGrp/AnimGrp/Mask_L/UIGroup/VerticalLayout/WorkerSkillBarPanelUI (3)/TaskText"
+   },
+   {
+    "file": "level1",
+    "path_id": 311332,
+    "object": "Canvas/WorkerInteractUIScreen/ScreenGrp/AnimGrp/Mask_L/UIGroup/VerticalLayout/WorkerSkillBarPanelUI (1)/TaskText"
+   },
+   {
+    "file": "level1",
+    "path_id": 311775,
+    "object": "Canvas/WorkerInteractUIScreen/ScreenGrp/AnimGrp/Mask_L/UIGroup/VerticalLayout/WorkerSkillBarPanelUI (2)/TaskText"
+   },
+   {
+    "file": "level1",
+    "path_id": 313908,
+    "object": "Canvas/WorkerInteractUIScreen/ScreenGrp/AnimGrp/Mask_L/UIGroup/VerticalLayout/WorkerSkillBarPanelUI (6)/TaskText"
+   },
+   {
+    "file": "level1",
+    "path_id": 320381,
+    "object": "Canvas/WorkerInteractUIScreen/ScreenGrp/AnimGrp/Mask_L/UIGroup/VerticalLayout/WorkerSkillBarPanelUI (4)/TaskText"
+   }
+  ]
+ },
+ {
+  "text": "X 10",
+  "ru": "",
+  "occurrences": 31,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 307574,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/BulkDonationBoxCardPanelUI/TopUIGrp/UIGrp/CardCountGrp/CountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 314510,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/HorizontalLayout (4)/BulkDonationBoxCardPanelUI (2)/TopUIGrp/UIGrp/CardCountGrp/CountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 314511,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/HorizontalLayout (2)/BulkDonationBoxCardPanelUI (6)/TopUIGrp/UIGrp/CardCountGrp/CountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 314512,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/HorizontalLayout (4)/BulkDonationBoxCardPanelUI (1)/TopUIGrp/UIGrp/CardCountGrp/CountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 314513,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/HorizontalLayout (1)/BulkDonationBoxCardPanelUI (5)/TopUIGrp/UIGrp/CardCountGrp/CountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 314514,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/HorizontalLayout/BulkDonationBoxCardPanelUI (1)/TopUIGrp/UIGrp/CardCountGrp/CountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 314515,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/HorizontalLayout (1)/BulkDonationBoxCardPanelUI (1)/TopUIGrp/UIGrp/CardCountGrp/CountText"
+   },
+   {
+    "file": "level1",
+    "path_id": 314516,
+    "object": "Canvas/BulkDonationBoxCanvasGrp /BulkDonationBoxUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ScrollerGrp/HorizontalLayout (2)/BulkDonationBoxCardPanelUI (2)/TopUIGrp/UIGrp/CardCountGrp/CountText"
+   }
+  ]
+ },
+ {
+  "text": "20 Days Left",
+  "ru": "",
+  "occurrences": 4,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 307600,
+    "object": "Canvas/GradedCardWebsiteCanvasGrp/GradeCardWebsiteUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout/GradingProgressSetPanelUI (1)/TopUIGrp/UIGrp/Mask/UIGroup/SetInfoGrp/DaysLeft"
+   },
+   {
+    "file": "level1",
+    "path_id": 307601,
+    "object": "Canvas/GradedCardWebsiteCanvasGrp/GradeCardWebsiteUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout/GradingProgressSetPanelUI (2)/TopUIGrp/UIGrp/Mask/UIGroup/SetInfoGrp/DaysLeft"
+   },
+   {
+    "file": "level1",
+    "path_id": 307602,
+    "object": "Canvas/GradedCardWebsiteCanvasGrp/GradeCardWebsiteUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout/GradingProgressSetPanelUI (3)/TopUIGrp/UIGrp/Mask/UIGroup/SetInfoGrp/DaysLeft"
+   },
+   {
+    "file": "level1",
+    "path_id": 310548,
+    "object": "Canvas/GradedCardWebsiteCanvasGrp/GradeCardWebsiteUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout/GradingProgressSetPanelUI/TopUIGrp/UIGrp/Mask/UIGroup/SetInfoGrp/DaysLeft"
+   }
+  ]
+ },
+ {
+  "text": "Game Points : 3",
+  "ru": "",
+  "occurrences": 34,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 307638,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/TournamentPairingUIGrp/TopUI_Grp/UIGrp/P2_StatGrp/GamePoint"
+   },
+   {
+    "file": "level1",
+    "path_id": 308819,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/TournamentPairingUIGrp/TopUI_Grp/UIGrp/P1_StatGrp/GamePoint"
+   },
+   {
+    "file": "level1",
+    "path_id": 320822,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (4)/TopUI_Grp/UIGrp/P1_StatGrp/GamePoint"
+   },
+   {
+    "file": "level1",
+    "path_id": 320823,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout2/TournamentPairingUIGrp (15)/TopUI_Grp/UIGrp/P1_StatGrp/GamePoint"
+   },
+   {
+    "file": "level1",
+    "path_id": 320824,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout2/TournamentPairingUIGrp (13)/TopUI_Grp/UIGrp/P1_StatGrp/GamePoint"
+   },
+   {
+    "file": "level1",
+    "path_id": 320825,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout2/TournamentPairingUIGrp (9)/TopUI_Grp/UIGrp/P1_StatGrp/GamePoint"
+   },
+   {
+    "file": "level1",
+    "path_id": 320826,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout2/TournamentPairingUIGrp (16)/TopUI_Grp/UIGrp/P1_StatGrp/GamePoint"
+   },
+   {
+    "file": "level1",
+    "path_id": 320827,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout2/TournamentPairingUIGrp (10)/TopUI_Grp/UIGrp/P1_StatGrp/GamePoint"
+   }
+  ]
+ },
+ {
+  "text": "New License : Basic Card Pack (64)",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 307779,
+    "object": "Canvas/GameUIScreen/ScreenGrp/AnimGrp/LevelUpNotificationUI/ScreenGrp/UnlockedTextGrp/UnlockedText"
+   }
+  ]
+ },
+ {
+  "text": "Owned : 1",
+  "ru": "",
+  "occurrences": 18,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 308270,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout (1)/ShopDecoPanelUI (2)/TopUIGrp/UIGrp/OwnedCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 317053,
+    "object": "Canvas/PlaceDecoUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/HorizontalLayout/ShopDecoPanelUI (1)/TopUIGrp/UIGrp/OwnedCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 317056,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout (1)/ShopDecoPanelUI (3)/TopUIGrp/UIGrp/OwnedCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 317057,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout/ShopDecoPanelUI (2)/TopUIGrp/UIGrp/OwnedCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 317060,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout/ShopDecoPanelUI (1)/TopUIGrp/UIGrp/OwnedCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 317062,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout/ShopDecoPanelUI (3)/TopUIGrp/UIGrp/OwnedCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 317063,
+    "object": "Canvas/PlaceDecoUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/HorizontalLayout/ShopDecoPanelUI (2)/TopUIGrp/UIGrp/OwnedCount"
+   },
+   {
+    "file": "level1",
+    "path_id": 317066,
+    "object": "Canvas/PlaceDecoUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/HorizontalLayout (1)/ShopDecoPanelUI (2)/TopUIGrp/UIGrp/OwnedCount"
+   }
+  ]
+ },
+ {
+  "text": "CAPS",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 309477,
+    "object": "Canvas/VirtualKeyboardScreenUI/ScreenGrp/AnimGrp/KeyboardGrp/VirtualKeyboardBtnKey_Caps/Text"
+   }
+  ]
+ },
+ {
+  "text": "SPACE",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 309511,
+    "object": "Canvas/VirtualKeyboardScreenUI/ScreenGrp/AnimGrp/KeyboardGrp/VirtualKeyboardBtnKey_Empty/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 309524,
+    "object": "Canvas/VirtualKeyboardScreenUI/ScreenGrp/AnimGrp/KeyboardGrp/VirtualKeyboardBtnKey_Space/Text"
+   }
+  ]
+ },
+ {
+  "text": "DONE",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 309515,
+    "object": "Canvas/VirtualKeyboardScreenUI/ScreenGrp/AnimGrp/KeyboardGrp/VirtualKeyboardBtnKey_Done/Text"
+   },
+   {
+    "file": "level1",
+    "path_id": 309678,
+    "object": "Canvas/VirtualKeyboardScreenUI/ScreenGrp/AnimGrp/KeyboardGrp/VirtualKeyboardBtnKey_Close/Text"
+   }
+  ]
+ },
+ {
+  "text": "BACK",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 309517,
+    "object": "Canvas/VirtualKeyboardScreenUI/ScreenGrp/AnimGrp/KeyboardGrp/VirtualKeyboardBtnKey_Back/Text"
+   }
+  ]
+ },
+ {
+  "text": "https://speedrobogames.com/",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 309599,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/RestockCategoryBarGrp_UP/UIGrp/WebText"
+   },
+   {
+    "file": "level1",
+    "path_id": 315326,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/RestockCategoryBarGrp/UIGrp/WebText"
+   }
+  ]
+ },
+ {
+  "text": "Wall 1",
+  "ru": "",
+  "occurrences": 18,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 311073,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout (1)/ShopDecoPanelUI (2)/TopUIGrp/UIGrp/NameCentered"
+   },
+   {
+    "file": "level1",
+    "path_id": 313629,
+    "object": "Canvas/PlaceDecoUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/ShopDecoPanelUI/TopUIGrp/UIGrp/NameCentered"
+   },
+   {
+    "file": "level1",
+    "path_id": 318942,
+    "object": "Canvas/PlaceDecoUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/HorizontalLayout (1)/ShopDecoPanelUI (2)/TopUIGrp/UIGrp/NameCentered"
+   },
+   {
+    "file": "level1",
+    "path_id": 318943,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout (1)/ShopDecoPanelUI (4)/TopUIGrp/UIGrp/NameCentered"
+   },
+   {
+    "file": "level1",
+    "path_id": 318944,
+    "object": "Canvas/PlaceDecoUIScreen/ScreenGrp/AnimGrp/Mask/UIGroup/HorizontalLayout/ShopDecoPanelUI (2)/TopUIGrp/UIGrp/NameCentered"
+   },
+   {
+    "file": "level1",
+    "path_id": 318945,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout/ShopDecoPanelUI (2)/TopUIGrp/UIGrp/NameCentered"
+   },
+   {
+    "file": "level1",
+    "path_id": 318946,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout/ShopDecoPanelUI (1)/TopUIGrp/UIGrp/NameCentered"
+   },
+   {
+    "file": "level1",
+    "path_id": 318947,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/WebsiteContent_Grp/Mask/UIGroup/HorizontalLayout/ShopDecoPanelUI (3)/TopUIGrp/UIGrp/NameCentered"
+   }
+  ]
+ },
+ {
+  "text": "OOMW : 50%",
+  "ru": "",
+  "occurrences": 34,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 311515,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/TournamentPairingUIGrp/TopUI_Grp/UIGrp/P1_StatGrp/OOMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 312072,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (3)/TopUI_Grp/UIGrp/P2_StatGrp/OOMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 312073,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (5)/TopUI_Grp/UIGrp/P2_StatGrp/OOMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 312074,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (2)/TopUI_Grp/UIGrp/P2_StatGrp/OOMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 312075,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (7)/TopUI_Grp/UIGrp/P2_StatGrp/OOMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 312076,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout2/TournamentPairingUIGrp (14)/TopUI_Grp/UIGrp/P2_StatGrp/OOMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 312077,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (1)/TopUI_Grp/UIGrp/P2_StatGrp/OOMW"
+   },
+   {
+    "file": "level1",
+    "path_id": 312078,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (6)/TopUI_Grp/UIGrp/P2_StatGrp/OOMW"
+   }
+  ]
+ },
+ {
+  "text": "Match Win : 0/3",
+  "ru": "",
+  "occurrences": 34,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 311766,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/TournamentPairingUIGrp/TopUI_Grp/UIGrp/P1_StatGrp/MatchWin"
+   },
+   {
+    "file": "level1",
+    "path_id": 312368,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/TournamentPairingUIGrp/TopUI_Grp/UIGrp/P2_StatGrp/MatchWin"
+   },
+   {
+    "file": "level1",
+    "path_id": 315028,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (3)/TopUI_Grp/UIGrp/P2_StatGrp/MatchWin"
+   },
+   {
+    "file": "level1",
+    "path_id": 315029,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (5)/TopUI_Grp/UIGrp/P2_StatGrp/MatchWin"
+   },
+   {
+    "file": "level1",
+    "path_id": 315030,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (2)/TopUI_Grp/UIGrp/P2_StatGrp/MatchWin"
+   },
+   {
+    "file": "level1",
+    "path_id": 315031,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (7)/TopUI_Grp/UIGrp/P2_StatGrp/MatchWin"
+   },
+   {
+    "file": "level1",
+    "path_id": 315032,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout1/TournamentPairingUIGrp (1)/TopUI_Grp/UIGrp/P2_StatGrp/MatchWin"
+   },
+   {
+    "file": "level1",
+    "path_id": 315033,
+    "object": "CanvasWorldspaceRenderTexture/CanvasGrp/TournamentPairingScreen/ScreenGrp/AnimGrp/VerticalLayout2/TournamentPairingUIGrp (14)/TopUI_Grp/UIGrp/P2_StatGrp/MatchWin"
+   }
+  ]
+ },
+ {
+  "text": "No.",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 312000,
+    "object": "Canvas/SetPlayerTableNumberScreen/ScreenGrp/AnimGrp/TableNumberText"
+   }
+  ]
+ },
+ {
+  "text": "My Card Shop​",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 312517,
+    "object": "Canvas/ShopRenamerScreen/SetNameScreen_Grp/ScreenGrp/AnimGrp/InputTextGrp/InputTextDisplay"
+   }
+  ]
+ },
+ {
+  "text": "Card Shop",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 312518,
+    "object": "Canvas/ShopRenamerScreen/SetNameScreen_Grp/ScreenGrp/AnimGrp/InputTextGrp/SetName"
+   }
+  ]
+ },
+ {
+  "text": "TCG 8",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 313226,
+    "object": "Canvas/ItemPriceGraphScreen/ScreenGrp/AnimGrp/CardGrp/GradedPriceGrp/Mask/UIGroup/PriceName3"
+   },
+   {
+    "file": "level1",
+    "path_id": 319592,
+    "object": "Canvas/ItemPriceGraphScreen/ChangeGradeOptionUIScreen/Screen_Grp/AnimGrp/Mask/UIGroup/ChangeGrade_Button 8/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "Edit Amount",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 313418,
+    "object": "Canvas/RestockItemAddToCartScreen/ScreenGrp/AnimGrp/TitleText"
+   }
+  ]
+ },
+ {
+  "text": "Product Listing",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 314809,
+    "object": "Canvas/CheckPriceScreen_Grp/ScreenGrp/AnimGrp/WebsiteTopBar/WebName"
+   },
+   {
+    "file": "level1",
+    "path_id": 318773,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteTopBar/WebName"
+   }
+  ]
+ },
+ {
+  "text": "www.tcgprice.com/info/pricelist",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 314810,
+    "object": "Canvas/CheckPriceScreen_Grp/ScreenGrp/AnimGrp/TopWebBar/AddressBar/AddressBarWhite/Text"
+   }
+  ]
+ },
+ {
+  "text": "TCG PRICE",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 314811,
+    "object": "Canvas/CheckPriceScreen_Grp/ScreenGrp/AnimGrp/WebsiteTopBar/WebNameMid"
+   }
+  ]
+ },
+ {
+  "text": "https://www.tetramontcg.com/tournament/hosting",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 315341,
+    "object": "Canvas/HostTournamentScreen/ScreenGrp/AnimGrp/TopWebBar/AddressBar/AddressBarWhite/Text"
+   }
+  ]
+ },
+ {
+  "text": "www.renobigg.com/index.php?ws=service_id=1302938",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 315342,
+    "object": "Canvas/ExpansionShopUIScreen_Grp/ScreenGrp/AnimGrp/TopWebBar/AddressBar/AddressBarWhite/Text"
+   }
+  ]
+ },
+ {
+  "text": "https://www.hobbydeco.com/collections/search?id=2913",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 315343,
+    "object": "Canvas/ShopBuyDecoUIScreen/ScreenGrp/AnimGrp/TopWebBar/AddressBar/AddressBarWhite/Text"
+   }
+  ]
+ },
+ {
+  "text": "https://www.thecardinalsgrading.com/submission",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 315344,
+    "object": "Canvas/GradedCardWebsiteCanvasGrp/GradeCardWebsiteUIScreen/ScreenGrp/AnimGrp/TopWebBar/AddressBar/AddressBarWhite/Text"
+   }
+  ]
+ },
+ {
+  "text": "Product List",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 318774,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/WebsiteTopBar/WebNameMid"
+   },
+   {
+    "file": "level1",
+    "path_id": 319082,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteTopBar/WebNameMid"
+   }
+  ]
+ },
+ {
+  "text": "www.tetramon-tcg.com/store/products",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 318775,
+    "object": "Canvas/RestockItemScreen_Grp/ScreenGrp/AnimGrp/TopWebBar/AddressBar/AddressBarWhite/Text"
+   }
+  ]
+ },
+ {
+  "text": "Shop Name",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 318822,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/CustomerReviewScreenGrp/ScreenGrp/AnimGrp/ShopName"
+   }
+  ]
+ },
+ {
+  "text": "Fee : $10/hr",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 318824,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/SetEventScreenGrp/ScreenGrp/AnimGrp/FeeRate"
+   }
+  ]
+ },
+ {
+  "text": " My Card Shop",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 318830,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/SetEventScreenGrp/ScreenGrp/AnimGrp/ShopName"
+   }
+  ]
+ },
+ {
+  "text": "Format : Standard",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 318831,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/SetEventScreenGrp/ScreenGrp/AnimGrp/MatchType"
+   }
+  ]
+ },
+ {
+  "text": "GO RECRUIT",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 318838,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/HireWorkerScreenGrp/ScreenGrp/AnimGrp/TitleText"
+   }
+  ]
+ },
+ {
+  "text": "8.00 am ~ 9.00 pm",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 318844,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/SetEventScreenGrp/ScreenGrp/AnimGrp/TimeText"
+   }
+  ]
+ },
+ {
+  "text": "www.tabletopgeek.com/products/list",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 319083,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/TopWebBar/AddressBar/AddressBarWhite/Text"
+   }
+  ]
+ },
+ {
+  "text": "TABLE TOP GEEK",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 319084,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteTopBar/WebName"
+   }
+  ]
+ },
+ {
+  "text": "www.mydiyracks.com/shop/product-listing",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 319283,
+    "object": "Canvas/FurnitureShopUIScreen_Grp/ScreenGrp/AnimGrp/TopWebBar/AddressBar/AddressBarWhite/Text"
+   }
+  ]
+ },
+ {
+  "text": "TCG 5",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 319594,
+    "object": "Canvas/ItemPriceGraphScreen/ChangeGradeOptionUIScreen/Screen_Grp/AnimGrp/Mask/UIGroup/ChangeGrade_Button 5/AnimGrp/BGBarGrp/BtnImageGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "Ultra Pro",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 320729,
+    "object": "Canvas/RestockItemBoardGameScreen_Grp/ScreenGrp/AnimGrp/WebsiteContent_Grp/ScrollerGrp/RestockCategoryBarGrp_UP/UIGrp/Text"
+   }
+  ]
+ },
+ {
+  "text": "Set Card Price",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 321481,
+    "object": "Canvas/WorkerInteractUIScreen/WorkerSetPriceOptionScreen/ScreenGrp/AnimGrp/Mask/UIGroup/SetCardPriceText"
+   }
+  ]
+ },
+ {
+  "text": "Tetron-Mobile",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 321573,
+    "object": "CanvasWorldspaceFixedFOV/CanvasGrp/UI_PhoneScreen_Grp/ScreenGrp/TopBarGrp/MobileProviderText"
+   }
+  ]
+ },
+ {
+  "text": "My Card Shop",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "level1",
+    "path_id": 355269,
+    "object": "Canvas/ShopRenamerScreen/SetNameScreen_Grp/ScreenGrp/AnimGrp/InputTextGrp/InputTextField"
+   }
+  ]
+ },
+ {
+  "text": "Foldout",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6150,
+    "object": "DebugUIGroup/Header/Text"
+   }
+  ]
+ },
+ {
+  "text": "G",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6167,
+    "object": "DebugUIColor/Content/G/Text"
+   }
+  ]
+ },
+ {
+  "text": "Button",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6173,
+    "object": "DebugUIButton/Text"
+   }
+  ]
+ },
+ {
+  "text": "Color\n",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6209,
+    "object": "DebugUIColor/Header/Text"
+   }
+  ]
+ },
+ {
+  "text": "Message text\n",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6210,
+    "object": "DebugUIMessageBox/Text"
+   }
+  ]
+ },
+ {
+  "text": "Foldout\n",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6211,
+    "object": "DebugUIFoldout/Header/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6212,
+    "object": "DebugUIRow/Header/Text"
+   }
+  ]
+ },
+ {
+  "text": "B",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6214,
+    "object": "DebugUIColor/Content/B/Text"
+   }
+  ]
+ },
+ {
+  "text": "Vector4\n",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6218,
+    "object": "DebugUIVector4/Header/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6311,
+    "object": "DebugUIVector3/Header/Text"
+   }
+  ]
+ },
+ {
+  "text": "Z",
+  "ru": "",
+  "occurrences": 2,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6222,
+    "object": "DebugUIVector3/Content/Z/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6253,
+    "object": "DebugUIVector4/Content/Z/Text"
+   }
+  ]
+ },
+ {
+  "text": "R",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6227,
+    "object": "DebugUIColor/Content/R/Text"
+   }
+  ]
+ },
+ {
+  "text": "Y",
+  "ru": "",
+  "occurrences": 3,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6232,
+    "object": "DebugUIVector3/Content/Y/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6275,
+    "object": "DebugUIVector4/Content/Y/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6321,
+    "object": "DebugUIVector2/Content/Y/Text"
+   }
+  ]
+ },
+ {
+  "text": "Enum",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6241,
+    "object": "DebugUIEnumField/Panel/Value"
+   }
+  ]
+ },
+ {
+  "text": "Vector2\n",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6242,
+    "object": "DebugUIVector2/Header/Text"
+   }
+  ]
+ },
+ {
+  "text": "New Text",
+  "ru": "",
+  "occurrences": 38,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6254,
+    "object": "DebugUIIntField/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6255,
+    "object": "DebugUIFloatField/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6256,
+    "object": "DebugUIValue/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6257,
+    "object": "DebugUIUIntField/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6297,
+    "object": "DebugUIToggle/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6326,
+    "object": "DebugUIBitField/Content/DebugUI Toggle 5/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6340,
+    "object": "DebugUIBitField/Content/DebugUI Toggle 15/Text"
+   },
+   {
+    "file": "resources.assets",
+    "path_id": 6342,
+    "object": "DebugUIBitField/Content/DebugUI Toggle 10/Text"
+   }
+  ]
+ },
+ {
+  "text": "W",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6267,
+    "object": "DebugUIVector4/Content/W/Text"
+   }
+  ]
+ },
+ {
+  "text": "wibble",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6294,
+    "object": "DebugUIEnumField/Text"
+   }
+  ]
+ },
+ {
+  "text": "TEST",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6438,
+    "object": "DebugUIToggleHistory/Text"
+   }
+  ]
+ },
+ {
+  "text": "BitField\n",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6492,
+    "object": "DebugUIBitField/Header/Text"
+   }
+  ]
+ },
+ {
+  "text": "Panel Title",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "resources.assets",
+    "path_id": 6534,
+    "object": "DebugUIPanel/Header/Panel/Title"
+   }
+  ]
+ },
+ {
+  "text": "Buy",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "sharedassets1.assets",
+    "path_id": 87058,
+    "object": "UI_CashCounterScreen_Grp/GivingChange_ScreenGrp/BuyBtn/Text"
+   }
+  ]
+ },
+ {
+  "text": "GO",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "sharedassets1.assets",
+    "path_id": 87067,
+    "object": "UI_CashCounterScreen_Grp/GivingChange_ScreenGrp/Btn2/Text"
+   }
+  ]
+ },
+ {
+  "text": "OK",
+  "ru": "",
+  "occurrences": 1,
+  "where": [
+   {
+    "file": "sharedassets1.assets",
+    "path_id": 87283,
+    "object": "UI_CreditCardScreen_Grp/ScreenGrp/KeyPadBtn_Confirm/Text"
+   }
+  ]
+ }
+]

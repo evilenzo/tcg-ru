@@ -1,0 +1,22 @@
+# Локальные заметки для Claude Code
+CLAUDE.md
+
+# Сборка и бэкапы
+build/
+*.assets
+*.orig-backup
+
+# Промежуточные дампы экстрактора (пересоздаются tools/extract_all.py)
+strings/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Редакторы / ОС
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

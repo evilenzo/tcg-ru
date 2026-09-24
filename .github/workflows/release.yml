@@ -1,0 +1,44 @@
+name: release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # changelog needs the history and the previous tag
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt pyinstaller
+
+      - name: Check translation
+        run: python tools/check_translation.py
+
+      - name: Read game version
+        run: |
+          $v = (Get-Content game_version.txt -Raw).Trim()
+          if (-not $v) { throw "game_version.txt is empty" }
+          "GAME_VERSION=$v" >> $env:GITHUB_ENV
+
+      - name: Build installer
+        run: python tools/build_installer.py --version "${{ github.ref_name }}"
+
+      - uses: goreleaser/goreleaser-action@v6
+        with:
+          distribution: goreleaser
+          version: "~> v2"
+          args: release --clean
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

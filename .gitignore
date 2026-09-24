@@ -20,3 +20,9 @@ venv/
 .idea/
 Thumbs.db
 desktop.ini
+
+# Релизные файлы (tools/build_installer.py)
+release/
+dist/
+
+translation-errors.txt

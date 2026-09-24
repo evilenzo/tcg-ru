@@ -1,0 +1,53 @@
+# Релиз по тегу v*: см. .github/workflows/release.yml.
+# Сборка идёт в tools/build_installer.py, goreleaser только публикует файлы из release/
+# и пишет changelog по коммитам с предыдущего тега.
+version: 2
+
+project_name: tcg-ru
+
+builds:
+  - skip: true
+
+checksum:
+  name_template: checksums.txt
+  extra_files:
+    - glob: ./release/*
+
+changelog:
+  use: git
+  sort: asc
+  groups:
+    - title: Перевод
+      regexp: '^.*?(tr|l10n|i18n)(\(.+\))??!?:.+$'
+      order: 0
+    - title: Новое
+      regexp: '^.*?feat(\(.+\))??!?:.+$'
+      order: 1
+    - title: Исправления
+      regexp: '^.*?fix(\(.+\))??!?:.+$'
+      order: 2
+    - title: Прочее
+      order: 999
+  filters:
+    exclude:
+      - '^ci:'
+      - '^test:'
+      - '^Merge '
+
+release:
+  name_template: "{{ .Tag }} — game v{{ .Env.GAME_VERSION }}"
+  header: |
+    Перевод для версии игры **{{ .Env.GAME_VERSION }}**. На других версиях установщик
+    предупредит о несовпадении; новые строки игры будут на английском.
+  extra_files:
+    - glob: ./release/*
+  footer: |
+    ## Установка
+
+    1. Скачайте `tcg-ru-installer.exe` и запустите. Игру он найдёт сам (Steam), если нет — спросит путь.
+    2. В игре выберите **«Русский»** в Settings → Language.
+
+    Удалить перевод — запустите установщик ещё раз и выберите «удалить».
+    После обновления игры через Steam перевод слетает — просто запустите установщик снова.
+
+    Без exe: `tcg-ru-{{ .Tag }}.zip` — скрипты на Python, инструкция в README.

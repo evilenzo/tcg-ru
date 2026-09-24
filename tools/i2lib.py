@@ -213,6 +213,28 @@ def find_language_source(env, script_ids):
     return None, None
 
 
+def game_version(data_dir):
+    """Game version string (PlayerSettings.bundleVersion, e.g. "1.02"), or None."""
+    import UnityPy
+    try:
+        env = UnityPy.load(os.path.join(data_dir, "globalgamemanagers"))
+        for o in env.objects:
+            if o.type.name == "PlayerSettings":
+                return o.read_typetree().get("bundleVersion") or None
+    except Exception:
+        pass
+    return None
+
+
+def read_version_file(path):
+    """Contents of game_version.txt, or None."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            return f.read().strip() or None
+    except OSError:
+        return None
+
+
 def find_data_dir(start=None):
     """Locate `<game>/Card Shop Simulator_Data` from the repo location."""
     here = os.path.abspath(start or os.path.join(os.path.dirname(__file__), ".."))

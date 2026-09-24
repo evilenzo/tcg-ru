@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
-"""Build a patched `resources.assets` with the Russian translation in the I2 table.
+"""Build the Russian translation: a Russian column in the I2 table
+(`resources.assets`) plus the patched Settings screen in `level0`/`level1`
+(Russian button, localized FPS dropdown — see scenepatch.py).
 
-The game's language menu is a fixed set of buttons in the scenes, so a new column would
-not be selectable. Instead the Russian text replaces the French column: picking
-"Francais" in Settings -> Language shows Russian.
-
-    python tools/build_translation.py              # build -> build/resources.assets
+    python tools/build_translation.py              # build -> build/resources.assets, level0, level1
     python tools/build_translation.py --selftest   # prove the rebuild is lossless
     python tools/build_translation.py --game "D:/.../TCG Card Shop Simulator"
 
@@ -21,9 +19,11 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import i2lib  # noqa: E402
+import scenepatch  # noqa: E402
 
 REPO = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-TARGET_CODE = "fr"  # column that receives the Russian text
+LANG_NAME = "Russian"
+LANG_CODE = "ru"  # what SettingScreen.OnPressLanguageSelect("Russian") selects
 
 
 def load_translation(path):
@@ -34,12 +34,27 @@ def load_translation(path):
     return {row["key"]: row.get("ru", "") for row in data if row.get("key") is not None}
 
 
+def add_terms(src, terms):
+    """Append missing terms whose text is the same in every language (the FPS
+    dropdown labels that scenepatch localizes). Layout mirrors the stock terms:
+    TermType 0 (Text), one flag byte per language, empty Languages_Touch."""
+    have = {t["Term"] for t in src["terms"]}
+    n = len(src["languages"])
+    for term in terms:
+        if term not in have:
+            src["terms"].append({"Term": term, "TermType": 0, "Languages": [term] * n,
+                                 "Flags": [0] * n, "Languages_Touch": []})
+
+
 def patch(src, table, en_index):
-    """Overwrite the TARGET_CODE column with Russian. Returns coverage stats."""
+    """Add (or overwrite) the Russian column. Returns coverage stats."""
+    add_terms(src, scenepatch.FPS_TERMS)
     codes = [l["Code"] for l in src["languages"]]
-    if TARGET_CODE not in codes:
-        sys.exit("No '%s' column in the source table." % TARGET_CODE)
-    idx = codes.index(TARGET_CODE)
+    if LANG_CODE in codes:
+        idx = codes.index(LANG_CODE)
+    else:
+        idx = len(src["languages"])
+        src["languages"].append({"Name": LANG_NAME, "Code": LANG_CODE, "Flags": 0})
 
     translated = fallback = 0
     for t in src["terms"]:
@@ -52,7 +67,12 @@ def patch(src, table, en_index):
         else:
             ru = english
             fallback += 1
+        while len(langs) <= idx:
+            langs.append("")
         langs[idx] = ru
+        while len(t["Flags"]) <= idx:
+            t["Flags"].append(0)
+        # Languages_Touch is empty in this build; keep it that way.
     return {"translated": translated, "fallback_to_english": fallback,
             "language_index": idx, "languages": [l["Code"] for l in src["languages"]]}
 
@@ -78,6 +98,13 @@ def main():
     backup = target + ".orig-backup"
     source = backup if os.path.exists(backup) else target
     print("source : %s" % source)
+    game_ver = i2lib.game_version(data_dir)
+    made_for = i2lib.read_version_file(os.path.join(REPO, "game_version.txt"))
+    print("game   : %s (game_version.txt: %s)" % (game_ver, made_for))
+    if game_ver and made_for and game_ver != made_for:
+        print("WARNING: the game is %s but game_version.txt says %s. If the game updated,\n"
+              "         re-extract strings and update game_version.txt before releasing."
+              % (game_ver, made_for))
 
     script_ids = i2lib.script_path_ids(data_dir, i2lib.I2_CLASS)
     if not script_ids:
@@ -117,6 +144,8 @@ def main():
     # Verify the bytes we are about to ship parse back to what we intended.
     check = i2lib.parse(new_raw)
     assert len(check["terms"]) == len(src["terms"]), "term count changed"
+    have = {t["Term"] for t in check["terms"]}
+    assert all(t in have for t in scenepatch.FPS_TERMS), "FPS terms missing"
     assert [l["Code"] for l in check["languages"]] == stats["languages"], "language list changed"
     bad = [t["Term"] for t in check["terms"]
            if len(t["Languages"]) != len(check["languages"])
@@ -129,10 +158,22 @@ def main():
     with open(args.out, "wb") as f:
         f.write(env.file.save())
 
-    total = stats["translated"] + stats["fallback_to_english"]
     print("\nwrote  : %s (%.1f MB)" % (args.out, os.path.getsize(args.out) / 1048576))
-    print("russian: in the '%s' column, %d/%d terms translated (%.1f%%), %d fall back to English"
-          % (TARGET_CODE, stats["translated"], total,
+
+    localize_ids = i2lib.script_path_ids(data_dir, scenepatch.LOCALIZE_DROPDOWN_CLASS)
+    for scene in scenepatch.SCENES:
+        scene_target = os.path.join(data_dir, scene)
+        scene_backup = scene_target + ".orig-backup"
+        data, what = scenepatch.patch_scene_file(
+            scene_backup if os.path.exists(scene_backup) else scene_target, localize_ids)
+        scene_out = os.path.join(os.path.dirname(args.out), scene)
+        with open(scene_out, "wb") as f:
+            f.write(data)
+        print("wrote  : %s (%s)" % (scene_out, what))
+
+    total = stats["translated"] + stats["fallback_to_english"]
+    print("russian: column %d, %d/%d terms translated (%.1f%%), %d fall back to English"
+          % (stats["language_index"], stats["translated"], total,
              100.0 * stats["translated"] / total, stats["fallback_to_english"]))
     print("\nNext:  python tools/install.py")
 

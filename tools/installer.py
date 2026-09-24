@@ -93,7 +93,7 @@ def data_dir_of(game):
 
 def detect_game():
     """Data dir found without asking the user, or None."""
-    # 1) exe placed inside the game folder (or ru-translation/ next to it)
+    # 1) exe placed inside the game folder (or tcg-ru/ next to it)
     here = os.path.dirname(sys.executable if FROZEN else os.path.abspath(__file__))
     d = i2lib.find_data_dir(here)
     if d:

@@ -53,7 +53,7 @@ def build_zip(version):
     path = os.path.join(OUT, "tcg-ru-%s.zip" % version)
     with zipfile.ZipFile(path, "w", zipfile.ZIP_DEFLATED) as z:
         for rel in PACKAGE_FILES:
-            z.write(os.path.join(REPO, rel), "ru-translation/" + rel)
+            z.write(os.path.join(REPO, rel), "tcg-ru/" + rel)
     return path
 
 

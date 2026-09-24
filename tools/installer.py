@@ -1,16 +1,15 @@
 # -*- coding: utf-8 -*-
 """Standalone installer: build the translation and install it in one step.
 
-Entry point of the release .exe (see tools/build_installer.py). Unlike
+Install logic plus a console mode; the release .exe is the GUI in installer_gui.py,
+which calls into this module (see tools/build_installer.py). Unlike
 build_translation.py + install.py it needs no repo checkout: `ru.json` is bundled
 into the exe, and the patched asset is written straight into the game folder.
 
-    tcg-ru-installer.exe              # interactive: install / update / remove
-    tcg-ru-installer.exe --restore    # put the original back
-    tcg-ru-installer.exe --status     # show what is installed
-    tcg-ru-installer.exe --game "D:/.../TCG Card Shop Simulator" -y
-
-Also runs from source:  python tools/installer.py
+    python tools/installer.py              # interactive: install / update / remove
+    python tools/installer.py --restore    # put the original back
+    python tools/installer.py --status     # show what is installed
+    python tools/installer.py --game "D:/.../TCG Card Shop Simulator" -y
 
 Installs three files: `resources.assets` (I2 table with the Russian column) and the
 scenes `level0`/`level1` (Russian button, localized FPS dropdown — see scenepatch.py).
@@ -92,12 +91,8 @@ def data_dir_of(game):
     return None
 
 
-def find_game(explicit):
-    if explicit:
-        d = data_dir_of(explicit)
-        if not d:
-            raise Fail("В папке %s нет %s." % (explicit, DATA_DIR_NAME))
-        return d
+def detect_game():
+    """Data dir found without asking the user, or None."""
     # 1) exe placed inside the game folder (or ru-translation/ next to it)
     here = os.path.dirname(sys.executable if FROZEN else os.path.abspath(__file__))
     d = i2lib.find_data_dir(here)
@@ -108,7 +103,18 @@ def find_game(explicit):
         d = data_dir_of(os.path.join(lib, "steamapps", "common", GAME_DIR_NAME))
         if d:
             return d
-    # 3) ask
+    return None
+
+
+def find_game(explicit):
+    if explicit:
+        d = data_dir_of(explicit)
+        if not d:
+            raise Fail("В папке %s нет %s." % (explicit, DATA_DIR_NAME))
+        return d
+    d = detect_game()
+    if d:
+        return d
     print("Не удалось найти игру автоматически.")
     while True:
         path = input("Вставьте путь к папке игры (где лежит Card Shop Simulator.exe): ")
@@ -264,32 +270,48 @@ def ask(prompt, choices):
             return choices[answer]
 
 
-def run(args):
-    print("Русификатор TCG Card Shop Simulator %s\n" % version())
-    data_dir = find_game(args.game)
+VERSION_MISMATCH = ("Версии не совпадают. Перевод, скорее всего, встанет, но новые строки\n"
+                    "будут на английском. Проверьте, нет ли свежего релиза перевода.\n"
+                    "Если игра поведёт себя странно — удалите перевод.")
+
+
+def versions(data_dir):
+    """-> (installed game version, version the translation was made for); None if unknown."""
+    return (i2lib.game_version(data_dir),
+            i2lib.read_version_file(os.path.join(BUNDLE, "game_version.txt")))
+
+
+def has_backup(data_dir):
+    return any(os.path.exists(os.path.join(data_dir, n) + ".orig-backup") for n in FILES)
+
+
+def check_game(data_dir):
+    """-> I2 script ids; raises Fail if the folder is not a supported game."""
     for name in FILES:
         if not os.path.exists(os.path.join(data_dir, name)):
             raise Fail("Нет файла %s." % os.path.join(data_dir, name))
-    has_backup = any(os.path.exists(os.path.join(data_dir, n) + ".orig-backup") for n in FILES)
-    print("Игра: %s" % os.path.dirname(data_dir))
-    game_ver = i2lib.game_version(data_dir)
-    made_for = i2lib.read_version_file(os.path.join(BUNDLE, "game_version.txt"))
-    print("Версия игры: %s, перевод сделан для %s\n" % (game_ver or "?", made_for or "?"))
-    if game_ver and made_for and game_ver != made_for:
-        print("Внимание: версии не совпадают. Перевод, скорее всего, встанет, но новые\n"
-              "строки будут на английском. Проверьте, нет ли свежего релиза перевода.\n"
-              "Если игра поведёт себя странно — запустите установщик и выберите «удалить».\n")
-
     script_ids = i2lib.script_path_ids(data_dir, i2lib.I2_CLASS)
     if not script_ids:
         raise Fail("Скрипт локализации не найден — версия игры не поддерживается?")
+    return script_ids
+
+
+def run(args):
+    print("Русификатор TCG Card Shop Simulator %s\n" % version())
+    data_dir = find_game(args.game)
+    print("Игра: %s" % os.path.dirname(data_dir))
+    game_ver, made_for = versions(data_dir)
+    print("Версия игры: %s, перевод сделан для %s\n" % (game_ver or "?", made_for or "?"))
+    if game_ver and made_for and game_ver != made_for:
+        print("Внимание: %s\n" % VERSION_MISMATCH)
+    script_ids = check_game(data_dir)
 
     if args.status:
         return status(data_dir, script_ids)
     if args.restore:
         return restore(data_dir)
     if not args.yes:
-        if has_backup:
+        if has_backup(data_dir):
             action = ask("1 — установить или обновить перевод\n"
                          "2 — удалить перевод (вернуть оригинал)\n"
                          "0 — выход\n> ", {"1": "install", "2": "restore", "0": None})

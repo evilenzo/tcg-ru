@@ -4,7 +4,7 @@
     pip install -r requirements.txt pyinstaller
     python tools/build_installer.py --version v1.2.0
 
-    release/tcg-ru-installer.exe   standalone installer with ru.json bundled in
+    release/tcg-ru-installer.exe   standalone GUI installer (installer_gui.py) with ru.json bundled in
     release/tcg-ru-<version>.zip   ru.json + tools/ for those who run it with Python
 
 Needs no game files: the translation is built on the player's machine.
@@ -20,7 +20,7 @@ WORK = os.path.join(REPO, "build", "installer")
 NAME = "tcg-ru-installer"
 PACKAGE_FILES = ["README.md", "requirements.txt", "game_version.txt", "translation/ru.json",
                  "tools/i2lib.py", "tools/scenepatch.py", "tools/build_translation.py", "tools/install.py",
-                 "tools/installer.py"]
+                 "tools/installer.py", "tools/installer_gui.py"]
 
 
 def build_exe(version):
@@ -34,9 +34,9 @@ def build_exe(version):
         return "--add-data=%s%s%s" % (src, os.pathsep, dest)
 
     PyInstaller.__main__.run([
-        os.path.join(REPO, "tools", "installer.py"),
+        os.path.join(REPO, "tools", "installer_gui.py"),
         "--name", NAME,
-        "--onefile", "--console", "--noconfirm", "--clean",
+        "--onefile", "--windowed", "--noconfirm", "--clean",
         "--distpath", OUT,
         "--workpath", os.path.join(WORK, "work"),
         "--specpath", WORK,

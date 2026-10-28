@@ -12,7 +12,7 @@ into the exe, and the patched asset is written straight into the game folder.
     python tools/installer.py --game "D:/.../TCG Card Shop Simulator" -y
 
 Installs three files: `resources.assets` (I2 table with the Russian column) and the
-scenes `level0`/`level1` (Russian button, localized FPS dropdown — see scenepatch.py).
+scenes `level1`/`level2` (Russian button, localized FPS dropdown — see scenepatch.py).
 Each gets a `<name>.orig-backup`.
 
 Unlike build_translation.py it does not trust an existing backup blindly: if an
@@ -204,7 +204,7 @@ def refresh_backups(data_dir, script_ids):
 
 def build_asset(backup, script_ids):
     """-> (bytes, stats) of resources.assets with the Russian column."""
-    env, obj, src = load_table(backup, script_ids)
+    env, obj, src = load_table(backup, script_ids, in_memory=True)
     codes = [l["Code"] for l in src["languages"]]
     if "en" not in codes:
         raise Fail("В таблице нет английской колонки.")
@@ -217,7 +217,9 @@ def build_asset(backup, script_ids):
             or any(len(t["Languages"]) != n or len(t["Flags"]) != n for t in check["terms"])):
         raise Fail("Собранная таблица не прошла проверку — установка отменена.")
     obj.set_raw_data(new_raw)
-    return env.file.save(), stats
+    import fontpatch
+    stats["fonts"] = fontpatch.patch_resources(env, os.path.dirname(backup))
+    return i2lib.save_asset_file(env), stats
 
 
 def install(data_dir, script_ids):
@@ -231,7 +233,7 @@ def install(data_dir, script_ids):
     localize_ids = i2lib.script_path_ids(data_dir, scenepatch.LOCALIZE_DROPDOWN_CLASS)
     for scene in scenepatch.SCENES:
         try:
-            built[scene], _ = scenepatch.patch_scene_file(backups[scene], localize_ids)
+            built[scene], _ = scenepatch.patch_scene_file(backups[scene], localize_ids, stats["fonts"])
         except ValueError as e:
             raise Fail("Не удалось пропатчить %s (%s) — версия игры не поддерживается?\n"
                        "Установка отменена, файлы игры не тронуты." % (scene, e))

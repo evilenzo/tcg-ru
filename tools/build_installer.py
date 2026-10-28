@@ -20,7 +20,9 @@ WORK = os.path.join(REPO, "build", "installer")
 NAME = "tcg-ru-installer"
 PACKAGE_FILES = ["README.md", "requirements.txt", "game_version.txt", "translation/ru.json",
                  "tools/i2lib.py", "tools/scenepatch.py", "tools/build_translation.py", "tools/install.py",
-                 "tools/installer.py", "tools/installer_gui.py"]
+                 "tools/installer.py", "tools/installer_gui.py", "tools/check_translation.py",
+                 "tests/test_game_compatibility.py", "tools/fontpatch.py", "tools/fontpatch_schema.json",
+                 "strings/01_i2_localization_full.json"]
 
 
 def build_exe(version):
@@ -43,9 +45,11 @@ def build_exe(version):
         "--paths", os.path.join(REPO, "tools"),
         # UnityPy reads its type-tree database (resources/*.tpk) at runtime.
         "--collect-all", "UnityPy",
+        "--exclude-module", "TypeTreeGeneratorAPI",  # schema is bundled; no .NET dependency
         data(os.path.join(REPO, "translation", "ru.json"), "translation"),
         data(version_file, "."),
         data(os.path.join(REPO, "game_version.txt"), "."),
+        data(os.path.join(REPO, "tools", "fontpatch_schema.json"), "."),
     ])
 
 

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Patch the Settings screen in the scenes `level0` (title) and `level1` (game).
+"""Patch the Settings screen in the scenes `level1` (title) and `level2` (game).
 
 Both scenes carry their own copy of `Canvas/SettingScreen`. Two fixes per scene:
 
@@ -25,8 +25,9 @@ strict checks on every assumption.
 import struct
 
 import attr
+import i2lib
 
-SCENES = ("level0", "level1")
+SCENES = ("level1", "level2")  # level0 is Startup in game 1.04 (Unity 6).
 LOCALIZE_DROPDOWN_CLASS = "I2.Loc.LocalizeDropdown"
 
 # -- Russian button
@@ -222,14 +223,17 @@ def is_patched(path):
         return LABEL.encode("utf-8") in f.read()
 
 
-def patch_scene_file(path, localize_ids):
+def patch_scene_file(path, localize_ids, fonts=None):
     """Read the scene at `path` into memory (so the file itself can be replaced
     afterwards on Windows), patch it -> (bytes, description)."""
     import UnityPy
     with open(path, "rb") as f:
         env = UnityPy.load(f.read())
     what = patch_scene(env, localize_ids)
-    return env.file.save(), what
+    if fonts is not None:
+        import fontpatch
+        what += "; %d text font references" % fontpatch.patch_text_fonts(env, fonts)
+    return i2lib.save_asset_file(env), what
 
 
 def patch_scene(env, localize_ids):

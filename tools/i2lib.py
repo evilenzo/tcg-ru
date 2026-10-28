@@ -20,6 +20,7 @@ wrong alignment flags, so the asset is parsed and rebuilt by hand. Layout:
 """
 import os
 import struct
+import copy
 
 PREFIX_LEN = 28
 I2_CLASS = "I2.Loc.LanguageSourceAsset"
@@ -181,11 +182,38 @@ def serialize(src):
 
 
 # --------------------------------------------------------------------------- env
+class _AlignedObject:
+    """Give UnityPy's data writer the alignment used by Unity 6 builds.
+
+    SerializedFile.save() aligns *after* each object to 8 bytes. Aligning before
+    write also preserves 16-byte starts without changing the final file padding.
+    Only a shallow copy of the file uses these adapters; original readers and
+    UnityPy's global classes are never modified (the GUI builds in a thread).
+    """
+    def __init__(self, obj):
+        self.obj = obj
+        self.path_id = obj.path_id
+
+    def write(self, header, metadata, data):
+        data.align_stream(16)
+        self.obj.write(header, metadata, data)
+
+
+def save_asset_file(env):
+    """Serialize with the original build's object alignment, including Unity 6."""
+    asset = env.file
+    if asset.version[0] >= 6000:
+        asset = copy.copy(asset)
+        asset.objects = {pid: _AlignedObject(obj) for pid, obj in asset.objects.items()}
+    return asset.save()
+
+
 def script_path_ids(data_dir, class_name):
     """pathIDs of the MonoScript objects for `class_name` (they all live in
     globalgamemanagers.assets)."""
     import UnityPy
-    env = UnityPy.load(os.path.join(data_dir, "globalgamemanagers.assets"))
+    with open(os.path.join(data_dir, "globalgamemanagers.assets"), "rb") as f:
+        env = UnityPy.load(f.read())
     out = set()
     for o in env.objects:
         if o.type.name != "MonoScript":
@@ -217,10 +245,13 @@ def game_version(data_dir):
     """Game version string (PlayerSettings.bundleVersion, e.g. "1.02"), or None."""
     import UnityPy
     try:
-        env = UnityPy.load(os.path.join(data_dir, "globalgamemanagers"))
+        with open(os.path.join(data_dir, "globalgamemanagers"), "rb") as f:
+            env = UnityPy.load(f.read())
         for o in env.objects:
             if o.type.name == "PlayerSettings":
-                return o.read_typetree().get("bundleVersion") or None
+                # UnityPy's Unity 6 PlayerSettings tree omits a trailing field.
+                # We only read bundleVersion; never serialize this object.
+                return o.read_typetree(check_read=False).get("bundleVersion") or None
     except Exception:
         pass
     return None

@@ -6,7 +6,7 @@
     python tools/install.py --status   # show what is currently installed
 
 Installs `resources.assets` (I2 table with the Russian column) and the scenes
-`level0`/`level1` (Russian button, localized FPS dropdown). Each original is kept next
+`level1`/`level2` (Russian button, localized FPS dropdown). Each original is kept next
 to it as `<name>.orig-backup`, so the game can always be reverted without a Steam
 re-download.
 """

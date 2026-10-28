@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """Build the Russian translation: a Russian column in the I2 table
-(`resources.assets`) plus the patched Settings screen in `level0`/`level1`
+(`resources.assets`) plus the patched Settings screen in `level1`/`level2`
 (Russian button, localized FPS dropdown — see scenepatch.py).
 
-    python tools/build_translation.py              # build -> build/resources.assets, level0, level1
+    python tools/build_translation.py              # build -> build/resources.assets, level1, level2
     python tools/build_translation.py --selftest   # prove the rebuild is lossless
     python tools/build_translation.py --game "D:/.../TCG Card Shop Simulator"
 
@@ -127,7 +127,7 @@ def main():
             sys.exit("SELFTEST FAILED: rebuilt asset differs from the original "
                      "(%d vs %d bytes)" % (len(rebuilt), len(raw)))
         obj.set_raw_data(rebuilt)
-        if env.file.save() != open(source, "rb").read():
+        if i2lib.save_asset_file(env) != open(source, "rb").read():
             sys.exit("SELFTEST FAILED: repacked file differs from the original")
         print("SELFTEST OK: object and container both round-trip byte-identically")
         return
@@ -154,9 +154,11 @@ def main():
         sys.exit("Inconsistent term rows: %s" % bad[:5])
 
     obj.set_raw_data(new_raw)
+    import fontpatch
+    fonts = fontpatch.patch_resources(env, data_dir)
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
     with open(args.out, "wb") as f:
-        f.write(env.file.save())
+        f.write(i2lib.save_asset_file(env))
 
     print("\nwrote  : %s (%.1f MB)" % (args.out, os.path.getsize(args.out) / 1048576))
 
@@ -165,7 +167,7 @@ def main():
         scene_target = os.path.join(data_dir, scene)
         scene_backup = scene_target + ".orig-backup"
         data, what = scenepatch.patch_scene_file(
-            scene_backup if os.path.exists(scene_backup) else scene_target, localize_ids)
+            scene_backup if os.path.exists(scene_backup) else scene_target, localize_ids, fonts)
         scene_out = os.path.join(os.path.dirname(args.out), scene)
         with open(scene_out, "wb") as f:
             f.write(data)

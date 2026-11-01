@@ -23,6 +23,8 @@ The MonoBehaviours have no typetree in the build and are patched as raw bytes wi
 strict checks on every assumption.
 """
 import struct
+from contextlib import ExitStack
+from pathlib import Path
 
 import attr
 import i2lib
@@ -223,12 +225,53 @@ def is_patched(path):
         return LABEL.encode("utf-8") in f.read()
 
 
+def validate_mesh_references(env, data_dir):
+    """Reject stale scenes whose mesh IDs now resolve to another asset type.
+
+    Steam can retain a patched scene while updating its sharedassets dependency.
+    A successful serialization round-trip cannot detect this cross-file mismatch.
+    Read only dependency metadata; keep streams open until validation is done.
+    """
+    import UnityPy
+    with ExitStack() as streams:
+        dependencies = {0: env.file}
+        for obj in env.objects:
+            if obj.type.name not in ("MeshFilter", "SkinnedMeshRenderer"):
+                continue
+            ref = obj.read_typetree()["m_Mesh"]
+            fid, pid = ref["m_FileID"], ref["m_PathID"]
+            if not pid:
+                continue
+            if fid not in dependencies:
+                if not 1 <= fid <= len(env.file.externals):
+                    raise ValueError("invalid mesh file ID %d" % fid)
+                external = env.file.externals[fid - 1].path.replace("\\", "/")
+                # Engine-provided meshes have no standalone file in the build.
+                if external in ("Library/unity default resources", "Resources/unity_builtin_extra"):
+                    continue
+                name = Path(external).name
+                path = Path(data_dir) / name
+                if not path.is_file():
+                    raise ValueError("missing mesh dependency %s" % name)
+                stream = streams.enter_context(path.open("rb"))
+                dependencies[fid] = UnityPy.load(stream).file
+            target = dependencies[fid].objects.get(pid)
+            actual = target.type.name if target is not None else "missing object"
+            if actual != "Mesh":
+                raise ValueError(
+                    "scene object #%d: expected Mesh at file %d #%d, found %s. "
+                    "Verify game files in Steam, then rebuild the translation; "
+                    "the scene/backup may belong to an older game version."
+                    % (obj.path_id, fid, pid, actual))
+
+
 def patch_scene_file(path, localize_ids, fonts=None):
     """Read the scene at `path` into memory (so the file itself can be replaced
     afterwards on Windows), patch it -> (bytes, description)."""
     import UnityPy
     with open(path, "rb") as f:
         env = UnityPy.load(f.read())
+    validate_mesh_references(env, Path(path).parent)
     what = patch_scene(env, localize_ids)
     if fonts is not None:
         import fontpatch

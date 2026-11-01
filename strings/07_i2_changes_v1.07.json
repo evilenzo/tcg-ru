@@ -1,0 +1,287 @@
+{
+ "summary": {
+  "game_version": "1.07",
+  "previous_rows": 2573,
+  "previous_unique_keys": 2570,
+  "current_rows": 2508,
+  "current_unique_keys": 2507,
+  "new_keys": 1,
+  "changed_english": 0,
+  "removed_keys": 64,
+  "keys_missing_from_ru_json": 1,
+  "current_untranslated_keys": 218
+ },
+ "new_terms": [
+  {
+   "key": "Playmat (Halloween)",
+   "en": "Playmat (Halloween)",
+   "ru": ""
+  }
+ ],
+ "changed_english": [],
+ "removed_terms": [
+  {
+   "key": "Accessory",
+   "en": "Accessory"
+  },
+  {
+   "key": "Adventurous",
+   "en": "Adventurous"
+  },
+  {
+   "key": "Affection",
+   "en": "Affection"
+  },
+  {
+   "key": "Affluent",
+   "en": "Affluent"
+  },
+  {
+   "key": "Anxious",
+   "en": "Anxious"
+  },
+  {
+   "key": "Bashful",
+   "en": "Bashful"
+  },
+  {
+   "key": "Bored",
+   "en": "Bored"
+  },
+  {
+   "key": "Boredom",
+   "en": "Boredom"
+  },
+  {
+   "key": "Bountiful",
+   "en": "Bountiful"
+  },
+  {
+   "key": "Braveheart",
+   "en": "Braveheart"
+  },
+  {
+   "key": "Brush",
+   "en": "Brush"
+  },
+  {
+   "key": "Clingy",
+   "en": "Clingy"
+  },
+  {
+   "key": "Competitive",
+   "en": "Competitive"
+  },
+  {
+   "key": "CouchPotato",
+   "en": "Couch Potato"
+  },
+  {
+   "key": "Curious",
+   "en": "Curious"
+  },
+  {
+   "key": "Customers are more likely to play in the shop",
+   "en": "Customers are more likely to play in the shop"
+  },
+  {
+   "key": "Customers are willing to pay more when playing TCG",
+   "en": "Customers are willing to pay more when playing TCG"
+  },
+  {
+   "key": "Customers have a higher maximum amount of money",
+   "en": "Customers have a higher maximum amount of money"
+  },
+  {
+   "key": "Customers might leave better reviews",
+   "en": "Customers might leave better reviews"
+  },
+  {
+   "key": "Cutie",
+   "en": "Cutie"
+  },
+  {
+   "key": "Easygoing",
+   "en": "Easygoing"
+  },
+  {
+   "key": "Famous",
+   "en": "Famous"
+  },
+  {
+   "key": "Fear",
+   "en": "Fear"
+  },
+  {
+   "key": "Fearful",
+   "en": "Fearful"
+  },
+  {
+   "key": "Feeling:",
+   "en": "Feeling:"
+  },
+  {
+   "key": "Foodie",
+   "en": "Foodie"
+  },
+  {
+   "key": "Friendly",
+   "en": "Friendly"
+  },
+  {
+   "key": "Glowing",
+   "en": "Glowing"
+  },
+  {
+   "key": "Happy",
+   "en": "Happy"
+  },
+  {
+   "key": "Hardworking",
+   "en": "Hardworking"
+  },
+  {
+   "key": "Higher chance of attracting wealthy customers",
+   "en": "Higher chance of attracting wealthy customers"
+  },
+  {
+   "key": "Higher chance of customers accepting trades",
+   "en": "Higher chance of customers accepting trades"
+  },
+  {
+   "key": "Higher chance of customers buying more items",
+   "en": "Higher chance of customers buying more items"
+  },
+  {
+   "key": "Higher chance of customers joining tournaments",
+   "en": "Higher chance of customers joining tournaments"
+  },
+  {
+   "key": "Higher chance of customers staying longer in the shop",
+   "en": "Higher chance of customers staying longer in the shop"
+  },
+  {
+   "key": "Higher chance of customers using their card and overspending",
+   "en": "Higher chance of customers using their card and overspending"
+  },
+  {
+   "key": "Higher chance of getting foil cards",
+   "en": "Higher chance of getting foil cards"
+  },
+  {
+   "key": "Higher chance of getting rare cards",
+   "en": "Higher chance of getting rare cards"
+  },
+  {
+   "key": "Higher shop XP gain",
+   "en": "Higher shop XP gain"
+  },
+  {
+   "key": "Hunger",
+   "en": "Hunger"
+  },
+  {
+   "key": "Hungry",
+   "en": "Hungry"
+  },
+  {
+   "key": "Impulsive",
+   "en": "Impulsive"
+  },
+  {
+   "key": "Independent",
+   "en": "Independent"
+  },
+  {
+   "key": "Lethargic",
+   "en": "Lethargic"
+  },
+  {
+   "key": "Lower rental costs",
+   "en": "Lower rental costs"
+  },
+  {
+   "key": "Lucky",
+   "en": "Lucky"
+  },
+  {
+   "key": "Magnetic",
+   "en": "Magnetic"
+  },
+  {
+   "key": "Passionate",
+   "en": "Passionate"
+  },
+  {
+   "key": "Pat Head",
+   "en": "Pat Head"
+  },
+  {
+   "key": "Pet Head",
+   "en": "Pat Head"
+  },
+  {
+   "key": "PickyEater",
+   "en": "Picky Eater"
+  },
+  {
+   "key": "Playful",
+   "en": "Playful"
+  },
+  {
+   "key": "Shinny",
+   "en": "Shiny"
+  },
+  {
+   "key": "Show Hand",
+   "en": "Show Hand"
+  },
+  {
+   "key": "Skittish",
+   "en": "Skittish"
+  },
+  {
+   "key": "Starving",
+   "en": "Starving"
+  },
+  {
+   "key": "Suspicious",
+   "en": "Suspicious"
+  },
+  {
+   "key": "Terrified",
+   "en": "Terrified"
+  },
+  {
+   "key": "Thrifty",
+   "en": "Thrifty"
+  },
+  {
+   "key": "Too far to interact",
+   "en": "Too far to interact"
+  },
+  {
+   "key": "Trust",
+   "en": "Trust"
+  },
+  {
+   "key": "Trusting",
+   "en": "Trusting"
+  },
+  {
+   "key": "Workers level up their skills faster",
+   "en": "Workers level up their skills faster"
+  },
+  {
+   "key": "Zoomies",
+   "en": "Zoomies"
+  }
+ ],
+ "missing_from_translation": [
+  {
+   "key": "Playmat (Halloween)",
+   "en": "Playmat (Halloween)",
+   "ru": ""
+  }
+ ]
+}

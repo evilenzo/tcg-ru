@@ -1,0 +1,660 @@
+{
+ "game_version": "1.07",
+ "method": "Length-prefixed UTF-8 recovery (raw_scan), same fallback used in the old monster dump; recovered strings may include internal IDs and credits.",
+ "classes": {
+  "CC.scrObj_Apparel": {
+   "objects_scanned": 16,
+   "previous_unique_strings": 126,
+   "current_unique_strings": 136,
+   "new_strings": [
+    {
+     "text": "5S",
+     "occurrences": [
+      {
+       "text": "5S",
+       "file": "sharedassets2.assets",
+       "path_id": 102245
+      },
+      {
+       "text": "5S",
+       "file": "sharedassets2.assets",
+       "path_id": 102259
+      }
+     ]
+    },
+    {
+     "text": "Footwear_FOptimized",
+     "occurrences": [
+      {
+       "text": "Footwear_FOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102236
+      }
+     ]
+    },
+    {
+     "text": "Footwear_MOptimized",
+     "occurrences": [
+      {
+       "text": "Footwear_MOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102242
+      }
+     ]
+    },
+    {
+     "text": "LowerBody_FOptimized",
+     "occurrences": [
+      {
+       "text": "LowerBody_FOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102238
+      }
+     ]
+    },
+    {
+     "text": "LowerBody_MOptimized",
+     "occurrences": [
+      {
+       "text": "LowerBody_MOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102244
+      }
+     ]
+    },
+    {
+     "text": "Misc_FOptimized",
+     "occurrences": [
+      {
+       "text": "Misc_FOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102239
+      }
+     ]
+    },
+    {
+     "text": "N0",
+     "occurrences": [
+      {
+       "text": "N0",
+       "file": "sharedassets2.assets",
+       "path_id": 102245
+      },
+      {
+       "text": "N0",
+       "file": "sharedassets2.assets",
+       "path_id": 102259
+      }
+     ]
+    },
+    {
+     "text": "UpperBody_FOptimized",
+     "occurrences": [
+      {
+       "text": "UpperBody_FOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102240
+      }
+     ]
+    },
+    {
+     "text": "UpperBody_MOptimized",
+     "occurrences": [
+      {
+       "text": "UpperBody_MOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102245
+      }
+     ]
+    },
+    {
+     "text": "q=",
+     "occurrences": [
+      {
+       "text": "q=",
+       "file": "sharedassets2.assets",
+       "path_id": 102245
+      },
+      {
+       "text": "q=",
+       "file": "sharedassets2.assets",
+       "path_id": 102259
+      }
+     ]
+    },
+    {
+     "text": "x+{",
+     "occurrences": [
+      {
+       "text": "x+{",
+       "file": "sharedassets2.assets",
+       "path_id": 102238
+      },
+      {
+       "text": "x+{",
+       "file": "sharedassets2.assets",
+       "path_id": 102240
+      },
+      {
+       "text": "x+{",
+       "file": "sharedassets2.assets",
+       "path_id": 102254
+      },
+      {
+       "text": "x+{",
+       "file": "sharedassets2.assets",
+       "path_id": 102258
+      }
+     ]
+    }
+   ],
+   "missing_old_strings": [
+    "</>"
+   ]
+  },
+  "CC.scrObj_Hair": {
+   "objects_scanned": 8,
+   "previous_unique_strings": 32,
+   "current_unique_strings": 36,
+   "new_strings": [
+    {
+     "text": "BeardsOptimized",
+     "occurrences": [
+      {
+       "text": "BeardsOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102241
+      }
+     ]
+    },
+    {
+     "text": "EyebrowsOptimized",
+     "occurrences": [
+      {
+       "text": "EyebrowsOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102235
+      }
+     ]
+    },
+    {
+     "text": "Hair_FOptimized",
+     "occurrences": [
+      {
+       "text": "Hair_FOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102237
+      }
+     ]
+    },
+    {
+     "text": "Hair_MOptimized",
+     "occurrences": [
+      {
+       "text": "Hair_MOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102243
+      }
+     ]
+    }
+   ],
+   "missing_old_strings": []
+  },
+  "CC.scrObj_Presets": {
+   "objects_scanned": 5,
+   "previous_unique_strings": 367,
+   "current_unique_strings": 369,
+   "new_strings": [
+    {
+     "text": "Female_PresetsOptimized",
+     "occurrences": [
+      {
+       "text": "Female_PresetsOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102246
+      }
+     ]
+    },
+    {
+     "text": "Male_PresetsOptimized",
+     "occurrences": [
+      {
+       "text": "Male_PresetsOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102248
+      }
+     ]
+    }
+   ],
+   "missing_old_strings": []
+  },
+  "MonsterData_ScriptableObject": {
+   "objects_scanned": 1,
+   "previous_unique_strings": 433,
+   "current_unique_strings": 433,
+   "new_strings": [],
+   "missing_old_strings": []
+  },
+  "PlayCardEffect_ScriptableObject": {
+   "objects_scanned": 1,
+   "previous_unique_strings": 156,
+   "current_unique_strings": 156,
+   "new_strings": [],
+   "missing_old_strings": []
+  },
+  "ShelfData_ScriptableObject": {
+   "objects_scanned": 1,
+   "previous_unique_strings": 517,
+   "current_unique_strings": 456,
+   "new_strings": [
+    {
+     "text": "Automatically clears bad odour in the nearby area. Never needs refilling.",
+     "occurrences": [
+      {
+       "text": "Automatically clears bad odour in the nearby area. Never needs refilling.",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    },
+    {
+     "text": "Card Table Blue",
+     "occurrences": [
+      {
+       "text": "Card Table Blue",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      },
+      {
+       "text": "Card Table Blue",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    },
+    {
+     "text": "Card Table Green",
+     "occurrences": [
+      {
+       "text": "Card Table Green",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      },
+      {
+       "text": "Card Table Green",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    },
+    {
+     "text": "Infinite Scent Machine",
+     "occurrences": [
+      {
+       "text": "Infinite Scent Machine",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      },
+      {
+       "text": "Infinite Scent Machine",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    },
+    {
+     "text": "Pack Machine M Blue",
+     "occurrences": [
+      {
+       "text": "Pack Machine M Blue",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    },
+    {
+     "text": "Pack Machine M Green",
+     "occurrences": [
+      {
+       "text": "Pack Machine M Green",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    },
+    {
+     "text": "Pack Opener Blue",
+     "occurrences": [
+      {
+       "text": "Pack Opener Blue",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    },
+    {
+     "text": "Pack Opener Green",
+     "occurrences": [
+      {
+       "text": "Pack Opener Green",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    },
+    {
+     "text": "Play Table Blue",
+     "occurrences": [
+      {
+       "text": "Play Table Blue",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      },
+      {
+       "text": "Play Table Blue",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    },
+    {
+     "text": "Play Table Green",
+     "occurrences": [
+      {
+       "text": "Play Table Green",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      },
+      {
+       "text": "Play Table Green",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    },
+    {
+     "text": "Poster Halloween",
+     "occurrences": [
+      {
+       "text": "Poster Halloween",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      },
+      {
+       "text": "Poster Halloween",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      },
+      {
+       "text": "Poster Halloween",
+       "file": "sharedassets2.assets",
+       "path_id": 102234
+      }
+     ]
+    }
+   ],
+   "missing_old_strings": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "2",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "3",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "4",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "5",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "6",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "7",
+    "70",
+    "71",
+    "72",
+    "8",
+    "9"
+   ]
+  },
+  "StockItemData_ScriptableObject": {
+   "objects_scanned": 2,
+   "previous_unique_strings": 227,
+   "current_unique_strings": 237,
+   "new_strings": [
+    {
+     "text": "Ascension Box (4)",
+     "occurrences": [
+      {
+       "text": "Ascension Box (4)",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      }
+     ]
+    },
+    {
+     "text": "Ascension Box (8)",
+     "occurrences": [
+      {
+       "text": "Ascension Box (8)",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      }
+     ]
+    },
+    {
+     "text": "Ascension Card Box",
+     "occurrences": [
+      {
+       "text": "Ascension Card Box",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      },
+      {
+       "text": "Ascension Card Box",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      }
+     ]
+    },
+    {
+     "text": "Bulk Box HG",
+     "occurrences": [
+      {
+       "text": "Bulk Box HG",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      }
+     ]
+    },
+    {
+     "text": "Bulk Box MG",
+     "occurrences": [
+      {
+       "text": "Bulk Box MG",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      }
+     ]
+    },
+    {
+     "text": "Bulk Box OG",
+     "occurrences": [
+      {
+       "text": "Bulk Box OG",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      }
+     ]
+    },
+    {
+     "text": "Bulk Box PG",
+     "occurrences": [
+      {
+       "text": "Bulk Box PG",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      }
+     ]
+    },
+    {
+     "text": "Bulk Box UG",
+     "occurrences": [
+      {
+       "text": "Bulk Box UG",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      }
+     ]
+    },
+    {
+     "text": "Playmat (Halloween)",
+     "occurrences": [
+      {
+       "text": "Playmat (Halloween)",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      },
+      {
+       "text": "Playmat (Halloween)",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      },
+      {
+       "text": "Playmat (Halloween)",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      }
+     ]
+    },
+    {
+     "text": "StockItemData_Optimized",
+     "occurrences": [
+      {
+       "text": "StockItemData_Optimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102250
+      }
+     ]
+    },
+    {
+     "text": "StockItemData_ScriptableObjectOptimized",
+     "occurrences": [
+      {
+       "text": "StockItemData_ScriptableObjectOptimized",
+       "file": "sharedassets2.assets",
+       "path_id": 102251
+      }
+     ]
+    }
+   ],
+   "missing_old_strings": [
+    "StockItemData_ScriptableObject"
+   ]
+  },
+  "Text_ScriptableObject": {
+   "objects_scanned": 1,
+   "previous_unique_strings": 374,
+   "current_unique_strings": 374,
+   "new_strings": [],
+   "missing_old_strings": []
+  }
+ },
+ "halloween_asset_names": {
+  "Texture2D": [
+   {
+    "name": "Icon_PosterHalloween",
+    "file": "sharedassets2.assets",
+    "path_id": 1643
+   }
+  ],
+  "Sprite": [
+   {
+    "name": "Ghost_HalloweenD",
+    "file": "sharedassets2.assets",
+    "path_id": 3482
+   },
+   {
+    "name": "HalloweenD",
+    "file": "sharedassets2.assets",
+    "path_id": 3514
+   },
+   {
+    "name": "HalloweenA",
+    "file": "sharedassets2.assets",
+    "path_id": 3891
+   },
+   {
+    "name": "Icon_PlaymatHalloween",
+    "file": "sharedassets2.assets",
+    "path_id": 3933
+   },
+   {
+    "name": "HalloweenC",
+    "file": "sharedassets2.assets",
+    "path_id": 3999
+   },
+   {
+    "name": "HalloweenB",
+    "file": "sharedassets2.assets",
+    "path_id": 4047
+   },
+   {
+    "name": "Icon_PosterHalloween",
+    "file": "sharedassets2.assets",
+    "path_id": 4124
+   }
+  ]
+ }
+}

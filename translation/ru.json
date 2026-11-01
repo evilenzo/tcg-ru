@@ -12863,5 +12863,10 @@
   "key": "PS4/This save slot requires an add-on that is no longer owned. Purchase the add-on to continue, or start a new game to play without it.",
   "en": "This save slot requires an <nobr>add-on</nobr> that is no longer owned. Purchase the <nobr>add-on</nobr> to continue, or start a new game to play without it.",
   "ru": "Для этого слота сохранения требуется <nobr>дополнение</nobr>, которого у вас больше нет. Купите <nobr>дополнение</nobr>, чтобы продолжить, или начните новую игру без него."
+ },
+ {
+  "key": "Playmat (Halloween)",
+  "en": "Playmat (Halloween)",
+  "ru": "Игровой коврик (Хеллоуин)"
  }
 ]

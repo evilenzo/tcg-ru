@@ -13,6 +13,7 @@ Warnings: the English text has line breaks and the translation has none.
 import json
 import os
 import sys
+from pathlib import Path
 
 REPO = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 TRANSLATION = os.path.join(REPO, "translation", "ru.json")
@@ -31,6 +32,15 @@ def main():
         rows = json.load(f)
     with open(TERMS, encoding="utf-8") as f:
         terms = [t["term"] for t in json.load(f)["terms"]]
+    # Preserve historical rows/translations, appending terms from newer extracts.
+    # Removed game terms must not force deletion of existing translations.
+    known = set(terms)
+    for snapshot in sorted(Path(TERMS).parent.glob("01_i2_localization_v*.json")):
+        with snapshot.open(encoding="utf-8") as f:
+            for term in json.load(f)["terms"]:
+                if term["term"] not in known:
+                    terms.append(term["term"])
+                    known.add(term["term"])
 
     errors, warnings = [], []
     if not isinstance(rows, list) or not all(
